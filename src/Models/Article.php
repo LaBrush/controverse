@@ -36,6 +36,11 @@ class Article
 		$this->rotateZ = isset($config["rotation"]) && isset($config["rotation"]["z"]) ? $config["rotation"]["z"] : null;
 
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
+
+		foreach (["x", "y", "z", "rotateX", "rotateY", "rotateZ"] as $field){
+			$this->$field = eval("return " . $this->$field . ";");
+		}
+
 	}
 
 	public function renderContent(){
@@ -45,6 +50,18 @@ class Article
 
 			$parsedown = new Parsedown();
 			$content = $parsedown->text($content);
+
+			preg_match_all('/(?<!\\\\){(.+)(?<!\\\\)}/m', $content, $matches);
+
+			dump($matches);
+
+			for($i = 0 ; $i < count($matches[0]) ; $i++){
+				$content = preg_replace('/ ?' . $matches[0][$i] . '/', "<sup>$i</sup>", $content, 1);
+				$content .= "\n <small>$i : " . $matches[1][$i] ."</small><br>";
+			}
+
+			$content = str_replace("\{", "{", $content);
+			$content = str_replace("\}", "}", $content);
 
 		}
 
