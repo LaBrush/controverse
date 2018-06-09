@@ -1,0 +1,25 @@
+#sample:
+#    name: Sample
+#    file: path/to/sample.md
+#    position:
+#        x: 34
+#        y: 9 * sin(23)
+#        z: 0
+#    rotation:
+#        x: 3.1415925
+#        y: 0.1
+#        z: 2
+
+
+accueil:
+    name: Accueil
+    file: accueil.html
+    isHead: true
+
+etude-de-cas:
+    name: Etude de cas
+    file: etude-de-cas/presentation.md
+    isHead: true
+
+    position:
+        x: 1000

@@ -1,0 +1,98 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=1024"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<title>Faut-il supprimer les voitures des villes ?</title>
+
+	<meta name="description" content=""/>
+	<meta name="author" content="Adrien BOCQUET"/>
+	<meta name="author" content="Gaël BLAISE"/>
+	<meta name="author" content="Morgane GOULAIN"/>
+	<meta name="author" content="Ines HARANG"/>
+	<meta name="author" content="Pierre WAN-FAT"/>
+
+
+	<link href="/css/boostrap/bootstrap.min.css" rel="stylesheet"/>
+	<link href="/css/docs.min.css" rel="stylesheet"/>
+	<link href="/css/contro.css" rel="stylesheet"/>
+
+</head>
+
+<body class="impress-not-supported">
+
+<div class="fallback-message alert alert-danger">
+	<p>Votre navigateur ne supporte pas les fonctionnalités pour que ce site soit magnifique. Vous verrez donc une
+		version simplifiée</p>
+	<p>Pour une meilleur expérience, nous vous recommendons d'utiliser la dernière version de <b>Chrome</b>,
+		<b>Safari</b> ou <b>Firefox</b>.</p>
+</div>
+
+<div class="col-12 col-md-3 col-xl-2 sidebar-toogle p-3">
+	<button id="toggle-sidebar" class="btn btn-outline-primary btn-block">Menu</button>
+</div>
+
+
+<div id="sidebar" class="col-12 col-md-3 col-xl-2 bd-sidebar">
+	<nav class="collapse bd-links" id="bd-docs-nav">
+
+		{% for article in articles %}
+			{% if article.isHead %}
+				{% if not loop.first %}
+					</ul>
+				</div>
+			{% endif %}
+
+				<div class="bd-toc-item active">
+					<a class="bd-toc-link" href="#/{{ article.id }}">{{ article.name }}</a>
+					<ul class="nav bd-sidenav">
+			{% else %}
+						<li><a href="#/{{ article.id }}">{{ article.name }}</a></li>
+			{% endif %}
+		{% endfor %}
+					</ul>
+				</div>
+
+	</nav>
+</div>
+
+
+<div id="impress">
+
+	{% for article in articles %}
+		{{ render(article) }}
+	{% endfor %}
+
+</div>
+
+<div class="hint"></div>
+
+<script>
+	if ("ontouchstart" in document.documentElement) {
+		document.querySelector(".hint").innerHTML = "<p>Glissez à gauche ou à droite pour naviguer.</p>";
+	}
+</script>
+
+<script src="/js/impress.js"></script>
+<script>impress().init();</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+	$(function(){
+		$('#toggle-sidebar').click(function(){
+			$("#sidebar").fadeToggle(100.0);
+		});
+
+		$('#sidebar').click(function(){
+			$(this).fadeToggle(100.0);
+		});
+
+		$("#sidebar").toggle();
+	});
+</script>
+
+</body>
+</html>
+

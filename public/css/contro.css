@@ -1,0 +1,26 @@
+.impress-supported .fallback-message {
+    display: none;
+}
+
+.step {
+	position: relative;
+	width: 900px;
+	padding: 40px;
+	margin: 20px auto;
+
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing:    border-box;
+	-ms-box-sizing:     border-box;
+	-o-box-sizing:      border-box;
+	box-sizing:         border-box;
+
+	overflow: scroll;
+	max-height: 100vh ;
+}
+
+.bd-sidebar {
+	height: 100vh;
+	padding-top: 2em;
+	border-top: 1px solid rgba(0, 0, 0, .1);
+	background-color: rgba(255, 255, 255, 0.9);
+}
