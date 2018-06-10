@@ -1,0 +1,1 @@
+![Frise 7](images/frise_7.png)

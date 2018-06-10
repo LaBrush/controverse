@@ -34,14 +34,77 @@ chronologie-globale:
         x: 60
 
 chronologie-1:
-    name: Chronologie 1
+    name: Prélude
     file: chronologie/1-frise.md
 
     position:
-        x: 2000
-
+        x: 2500
     rotation:
         x: 60
+
+chronologie-2:
+    name: Fermeture rive gauche
+    file: chronologie/2-frise.md
+
+    position:
+        x: 3500
+    rotation:
+        x: 60
+
+chronologie-3:
+    name: Annonces pour la rive droite
+    file: chronologie/3-frise.md
+
+    position:
+        x: 4500
+    rotation:
+        x: 60
+
+chronologie-4:
+    name: Etude d'impact et débats
+    file: chronologie/4-frise.md
+
+    position:
+        x: 5500
+    rotation:
+        x: 60
+
+chronologie-5:
+    name: Fermeture rive droite
+    file: chronologie/5-frise.md
+
+    position:
+        x: 6500
+    rotation:
+        x: 60
+
+chronologie-6:
+    name: Etude de suivi
+    file: chronologie/6-frise.md
+
+    position:
+        x: 7500
+    rotation:
+        x: 60
+
+chronologie-7:
+    name: "Justice : fermeture rive droite"
+    file: chronologie/7-frise.md
+
+    position:
+        x: 8500
+    rotation:
+        x: 60
+
+chronologie-8:
+    name: Réouverture avec de nouveaux arguments
+    file: chronologie/8-frise.md
+
+    position:
+        x: 9500
+    rotation:
+        x: 60
+
 
 # Etude de cas
 

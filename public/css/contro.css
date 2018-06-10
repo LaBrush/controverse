@@ -2,9 +2,18 @@
     display: none;
 }
 
+#impress {
+	width: 100%;
+}
+
+#impress > div {
+	width: 100%;
+}
+
 .step {
 	position: relative;
-	width: 900px;
+	max-width: 900px;
+	width: 100%;
 	padding: 40px;
 	margin: 20px auto;
 
@@ -28,7 +37,6 @@
 .sidebar-toogle {
 	z-index: 100;
 	background-color: rgba(255, 255, 255, 0.9);
-
 }
 
 img {
