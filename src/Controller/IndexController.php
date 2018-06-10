@@ -32,7 +32,8 @@ class IndexController extends Controller
 		}
 
         return $this->render("index.html.twig", [
-        	"articles" => $articles
+        	"articles" => $articles,
+	        "bibtex" => file_get_contents(__DIR__ . "/../../sources/bibliographie.bib")
         ]);
     }
 

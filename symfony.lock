@@ -41,6 +41,9 @@
     "psr/simple-cache": {
         "version": "1.0.1"
     },
+    "renanbr/bibtex-parser": {
+        "version": "2.0.1"
+    },
     "sensio/framework-extra-bundle": {
         "version": "4.0",
         "recipe": {
@@ -49,6 +52,9 @@
             "version": "4.0",
             "ref": "aaddfdf43cdecd4cf91f992052d76c2cadc04543"
         }
+    },
+    "symfony/asset": {
+        "version": "v4.1.0"
     },
     "symfony/cache": {
         "version": "v4.1.0"

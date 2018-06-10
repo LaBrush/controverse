@@ -1,3 +1,25 @@
-<section id="{{ article.id }}" data-menu-title="{{ article.name }}" class="scrollable">
+<section
+		id="{{ article.id }}"
+		data-menu-title="{{ article.name }}"
+		class="scrollable"
+
+		{% if article.background %}data-background="{{ article.background }}" {% endif %}
+>
 	{{ article.renderContent() | raw }}
+
+	{% if article.references | length > 0 %}
+		<strong>Références : </strong> <br>
+		<ol>
+			{% for reference in article.references %}
+				<li>
+					{% if reference.type == "article" %}
+						{{ reference.author | default("") }} ({{ reference.year }}) {{ reference.title }} <em>{{ reference.journal }}</em> {{ reference.month }} {{ reference.year }}
+					{% else %}
+						Nom de l’auteur, Initiale du prénom (Année de publication) Titre du rapport ou de la note professionnelle (en italiques). Entreprise, mois.
+						({{ reference.year }}) <em>{{ reference.title }}</em>. {{ reference.author | default("") }}, {{ reference.month }}
+					{% endif %}
+				</li>
+			{% endfor %}
+		</ol>
+	{% endif %}
 </section>

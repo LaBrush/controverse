@@ -22,30 +22,6 @@
 
 <body>
 
-{#<div id="sidebar" class="col-12 col-md-3 col-xl-2 bd-sidebar">
-	<nav class="collapse bd-links" id="bd-docs-nav">
-
-		{% for article in articles %}
-			{% if article.isHead %}
-				{% if not loop.first %}
-					</ul>
-				</div>
-			{% endif %}
-
-				<div class="bd-toc-item active">
-					<a class="bd-toc-link" href="#/{{ article.id }}">{{ article.name }}</a>
-					<ul class="nav bd-sidenav">
-			{% else %}
-						<li><a href="#/{{ article.id }}">{{ article.name }}</a></li>
-			{% endif %}
-		{% endfor %}
-					</ul>
-				</div>
-
-	</nav>
-</div>#}
-
-
 <div class="reveal">
 
 	<div class="slides">
@@ -66,6 +42,7 @@
 	</div>
 
 </div>
+
 
 <script src="reveal/lib/js/head.min.js"></script>
 <script src="js/reveal.js"></script>

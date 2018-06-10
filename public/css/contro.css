@@ -1,9 +1,14 @@
 .reveal section img {
 	border: none ;
+	box-shadow: none;
 }
 
 .scrollable {
 	overflow-y: auto !important;
 	overflow-x: hidden !important;
 	height: 90vh;
+}
+
+.reveal ol, .reveal dl, .reveal ul {
+	margin: 0 0 0 3em;
 }
