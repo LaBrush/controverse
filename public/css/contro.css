@@ -12,8 +12,7 @@
 
 .step {
 	position: relative;
-	max-width: 900px;
-	width: 100%;
+	max-width: 90%;
 	padding: 40px;
 	margin: 20px auto;
 
@@ -24,7 +23,17 @@
 	box-sizing:         border-box;
 
 	overflow: scroll;
-	max-height: 100vh ;
+	max-height: 80vh ;
+}
+
+::-webkit-scrollbar {
+	-webkit-appearance: none;
+	width: 7px;
+}
+::-webkit-scrollbar-thumb {
+	border-radius: 0px;
+	background-color: rgba(0, 0, 0, .5);
+	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
 }
 
 .bd-sidebar {
@@ -40,6 +49,7 @@
 }
 
 img {
-	max-width: 100%;
+	max-width: 90%;
 	max-height: 100%;
+	margin: auto;
 }

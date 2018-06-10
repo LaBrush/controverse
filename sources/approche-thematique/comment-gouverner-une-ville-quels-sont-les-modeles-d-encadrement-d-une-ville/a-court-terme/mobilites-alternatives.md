@@ -2,24 +2,24 @@
  
 ## Politique de Paris 
  
-	La politique de la ville **n’est pas orientée vers l’interdiction 
+La politique de la ville **n’est pas orientée vers l’interdiction 
 pure de certains types de véhicules**. À la place, elle *« a décidé 
 d’investir dans le développement des alternatives et dans le 
 renforcement des aides financières qui permettent aux particuliers et 
 aux professionnels d’acheter des véhicules propres. »* 
 {paris_fin_diesel} 
  
-	En particulier, **Paris a développé Vélib’ et Autolib’**. En mars 
+En particulier, **Paris a développé Vélib’ et Autolib’**. En mars 
 2018, la ville a adopté **le Plan Climat Air Énergie territorial**. 
 {20_min_paris_dement} 
  
-	Ainsi, de 2000 à 2014, Paris a connu **un doublement du nombre de 
+Ainsi, de 2000 à 2014, Paris a connu **un doublement du nombre de 
 déplacements à vélo**, conséquence du triplement du nombre 
 d’aménagements cyclables. {afp_empreinte_delanoe} 
  
 ## Covoiturage / voiture partagée 
  
-	Selon une étude sur les conséquences éventuelles du covoiturage 
+Selon une étude sur les conséquences éventuelles du covoiturage 
 en Île-de-France, la politique locale devrait essayer de **développer 
 le covoiturage sur les trajets de longue durée**. De plus, cette 
 politique devrait être plus large :*“improving public transport, 
@@ -29,25 +29,25 @@ development policies in the most distant parts of the metropolitan
 area”* {cleaner_prod_benefits_ride_sharing} 
  
 ## Limites des transports publics 
-	Selon **Stéphane Beaudet, vice-président de la région IDF en 
+Selon **Stéphane Beaudet, vice-président de la région IDF en 
 charge des transports**, les transports publics ne représentent qu’un 
 tiers des déplacements à Paris, un quart en IDF. En fait, **c’est le 
 (mauvais) usage de la route qui est limitant.** 
 {gazette_reussir_penser} 
  
-	Selon **Pascal Thévenot, maire Les Républicains de Vélizy-
+Selon **Pascal Thévenot, maire Les Républicains de Vélizy-
 Villacoublay** (Yvelines) : *« Si les Parisiens peuvent se passer de 
 voitures, chez nous le maillage et l’état du RER ne le permettent 
 pas.»* {} 
  
-	**Florence Berthout, vice-présidente de la région IDF**, prétend 
+**Florence Berthout, vice-présidente de la région IDF**, prétend 
 qu’à cause d’une négligence de l’ancien mandat régional, « il faudra 
 attendre encore quelques années pour que les lignes de RER et les 
 trains de banlieues ne soient plus saturés comme ils le sont 
 aujourd'hui. » {Atlantico - 2016-09-26 - Piétonnisation des voies sur 
 berges Anne Hidalgo veut-elle achever d’interdire Paris aux pauvres} 
  
-	**Serge Federbusch, président du parti libéral**, fustige l’*« 
+**Serge Federbusch, président du parti libéral**, fustige l’*« 
 indigence absolue de la réflexion sur l'accompagnement du projet [de 
 fermeture des voies sur berges] par une amélioration de l'offre de 
 transport alternatif »*. À propos de l’argument sur l’attractivité de 
@@ -58,16 +58,16 @@ l'exercice même d'une activité. »* {le figaro - 2016-08-25 -
 Piétonnisation} 
  
 ## Le vélo 
-	L’usage du vélo a **décuplé entre 1991 et 2017** et s’est 
+L’usage du vélo a **décuplé entre 1991 et 2017** et s’est 
 démocratisé, à Paris comme en petite couronne. {L'Obs - 2017-10-11 - 
 Réduire la place des voitures à Paris C'est la droite qui a commencé} 
  
-	Cependant, le problème reste la difficulté d’établir **des « 
+Cependant, le problème reste la difficulté d’établir **des « 
 liaisons courtes entre les gares et les zones d’emploi »**. {La Gazette 
 - 2017-03-31 - Paris, la région et la métropole vont-elles réussir à 
 penser} 
  
-	Selon **Frédéric Héran**, plusieurs moyens permettraient 
+Selon **Frédéric Héran**, plusieurs moyens permettraient 
 d’encourager le vélo : créer des zones 30 (pour que les voitures 
 puissent cohabiter avec le reste des usagers sans problème), des 
 aménagements cyclables sur les avenues plus rapides, et des services 
@@ -80,7 +80,7 @@ Limiter la vitesse à 30km/h}
  
 ## Gratuité des transports publics 
  
-	L’idée a été lancée par Hidalgo et est en cours d’étude ; la 
+L’idée a été lancée par Hidalgo et est en cours d’étude ; la 
 difficulté, c’est qu’il n’y a, dans le monde, **aucun exemple de la 
 taille de Paris**. 
 	Valérie Pécresse attire l’attention sur les problèmes de 
@@ -89,7 +89,7 @@ y avoir **des inégalités entre les Parisiens et les banlieusards**.
 {Bulletin Quotidien - 2018-03-21- «Gratuité des transports en commun»: 
 Anne Hidalgo lance une étude pour évaluer cette possibilité à Paris} 
  
-	**Testée à Rome en 1970**, la tentative s’est soldée par un 
+**Testée à Rome en 1970**, la tentative s’est soldée par un 
 **échec**. 
 	À Denver et à Austin, le dispositif a **surtout séduit des 
 piétons et des cyclistes**, pas des automobilistes. 

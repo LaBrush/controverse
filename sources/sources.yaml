@@ -27,83 +27,64 @@ chronologie-globale:
 
     position:
         x: 1500
-        y: -1000*sin(2*pi()/3)
-        z: 1000*cos(2*pi()/3)
-
-    rotation:
-        x: 60
+        y: -3000
 
 chronologie-1:
     name: Prélude
     file: chronologie/1-frise.md
 
     position:
-        x: 2500
-    rotation:
-        x: 60
+        x: 1500 + 1 * 2000
 
 chronologie-2:
     name: Fermeture rive gauche
     file: chronologie/2-frise.md
 
     position:
-        x: 3500
-    rotation:
-        x: 60
-
+        x: 1500 + 2 * 2000
 chronologie-3:
     name: Annonces pour la rive droite
     file: chronologie/3-frise.md
 
     position:
-        x: 4500
-    rotation:
-        x: 60
-
+        x: 1500 + 3 * 2000
 chronologie-4:
     name: Etude d'impact et débats
     file: chronologie/4-frise.md
 
     position:
-        x: 5500
-    rotation:
-        x: 60
+        x: 1500 + 4 * 2000
 
 chronologie-5:
     name: Fermeture rive droite
     file: chronologie/5-frise.md
 
     position:
-        x: 6500
-    rotation:
-        x: 60
+        x: 1500 + 5 * 2000
+
 
 chronologie-6:
     name: Etude de suivi
     file: chronologie/6-frise.md
 
     position:
-        x: 7500
-    rotation:
-        x: 60
+        x: 1500 + 6 * 2000
+
 
 chronologie-7:
     name: "Justice : fermeture rive droite"
     file: chronologie/7-frise.md
 
     position:
-        x: 8500
-    rotation:
-        x: 60
+        x: 1500 + 7 * 2000
 
 chronologie-8:
     name: Réouverture avec de nouveaux arguments
     file: chronologie/8-frise.md
 
     position:
-        x: 9500
-    rotation:
-        x: 60
+        x: 1500 + 8 * 2000
+
 
 
 # Etude de cas
@@ -116,47 +97,165 @@ etude-de-cas:
     position:
         x: 1500
         y: 0
-        z: 0
 
 1-bazar-et-etude-de-cas:
     name: Bazar et étude de cas
     file: etude-de-cas/1-bazar-et-etude-de-cas.md
     position:
-        x: 2500
+        x: 1500 + 1 * 2000
 
 2-combat-du-siecle-des-comites:
     name: Combat du siècle des comités
     file: etude-de-cas/2-combat-du-siecle-des-comites.md
     position:
-        x: 3500
+        x: 1500 + 2 * 2000
 
 3-impact-sur-la-circulation:
     name: Impact sur la circulation
     file: etude-de-cas/3-impact-sur-la-circulation.md
     position:
-        x: 4500
+        x: 1500 + 3 * 2000
 
 4-encadre-qui-sont-les-victimes-de-la-pollution:
     name: Qui sont les victimes de la pollution
     file: etude-de-cas/4-encadre-qui-sont-les-victimes-de-la-pollution.md
     position:
-        x: 5500
+        x: 1500 + 4 * 2000
 
 4-impact-sur-la-pollution:
     name: Impact sur la pollution
     file: etude-de-cas/4-impact-sur-la-pollution.md
     position:
-        x: 6500
+        x: 1500 + 5 * 2000
 
 5-economie-locale:
     name: L'économie locale
     file: etude-de-cas/5-economie-locale.md
     position:
-        x: 7500
+        x: 1500 + 6 * 2000
 
 6-des-inegalites-renforcees:
     name: Des inégalités renforcées ?
     file: etude-de-cas/6-des-inegalites-renforcees.md
     position:
-        x: 8500
+        x: 1500 + 7 * 2000
 
+# approche thématique
+
+approche-thematique:
+    name: Approche thématique
+    file: approche-thematique/approche_thematique.html
+    isHead: true
+
+    position:
+        x: 1500
+        y: 1000
+
+# comment gouverner
+mesures-containdre-vehicules:
+    name: Les mesures pour contraindre les véhicules
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
+
+    position:
+        x: 1500
+        y: 1000 + 1 * 2000
+
+
+mobilites-alternatives:
+    name: Les mobilités alternatives
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
+
+    position:
+        x: 1500
+        y: 1000 + 2 * 2000
+
+
+vehicules-thermiques:
+    name: Véhicules thermiques
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
+
+    position:
+        x: 1500
+        y: 1000 + 3 * 2000
+
+voiture-electrique:
+    name: Véhicules éléctriques
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
+
+    position:
+        x: 1500
+        y: 1000 + 4 * 2000
+
+vehicules-autonomes:
+    name: Véhicules thermiques
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
+
+    position:
+        x: 1500
+        y: 1000 + 5 * 2000
+
+#quantifier
+
+comment-prevoir-les-consequences:
+    name: Comment prévoir les conséquences ?
+    file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
+
+    position:
+        x: 1500 + 3000 * 1
+        y: 1000 + 1 * 2000
+
+
+mais-comment-verifier-la-concordance-entre-previsions-et-realite:
+    name: Comment vérifier la concordance entre prévisions et réalité ?
+    file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
+
+    position:
+        x: 1500 + 3000 * 1
+        y: 1000 + 2 * 2000
+
+
+airparif:
+    name: Véhicules thermiques
+    file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
+
+    position:
+        x: 1500 + 3000 * 1
+        y: 1000 + 3 * 2000
+
+#quelles-sont-les-inegalites-engendrees
+
+economie-locale:
+    name: Comment prévoir les conséquences ?
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/4-economie-locale.md
+
+    position:
+        x: 1500 + 3000 * 2
+        y: 1000 + 1 * 2000
+
+
+classes-modestes:
+    name: Comment vérifier la concordance entre prévisions et réalité ?
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/5-classes-modestes.md
+
+    position:
+        x: 1500 + 3000 * 2
+        y: 1000 + 2 * 2000
+
+#qui-s-occupe-du-probleme-qui-est-concerne-par-la-question
+
+competence-territoriale:
+    name: Comment prévoir les conséquences ?
+    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
+
+    position:
+        x: 1500 + 3000 * 3
+        y: 1000 + 1 * 2000
+
+
+qui-est-consulte:
+    name: Comment vérifier la concordance entre prévisions et réalité ?
+    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
+
+    position:
+        x: 1500 + 3000 * 3
+        y: 1000 + 2 * 2000
