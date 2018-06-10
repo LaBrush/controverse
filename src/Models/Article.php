@@ -10,14 +10,6 @@ class Article
 	private $name ;
 	private $contentFile ;
 
-	private $x ;
-	private $y ;
-	private $z ;
-
-	private $rotateX;
-	private $rotateY;
-	private $rotateZ;
-
 	private $isHead ;
 
 	public function __construct($id, $config)
@@ -27,19 +19,7 @@ class Article
 		$this->relativePath = $config["file"] ;
 		$this->contentFile = __DIR__ . "/../../sources/" . $config["file"] ;
 
-		$this->x = isset($config["position"]) && isset($config["position"]["x"]) ? $config["position"]["x"] : null;
-		$this->y = isset($config["position"]) && isset($config["position"]["y"]) ? $config["position"]["y"] : null;
-		$this->z = isset($config["position"]) && isset($config["position"]["z"]) ? $config["position"]["z"] : null;
-
-		$this->rotateX = isset($config["rotation"]) && isset($config["rotation"]["x"]) ? $config["rotation"]["x"] : null;
-		$this->rotateY = isset($config["rotation"]) && isset($config["rotation"]["y"]) ? $config["rotation"]["y"] : null;
-		$this->rotateZ = isset($config["rotation"]) && isset($config["rotation"]["z"]) ? $config["rotation"]["z"] : null;
-
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
-
-		foreach (["x", "y", "z", "rotateX", "rotateY", "rotateZ"] as $field){
-			$this->$field = eval("return " . $this->$field . ";");
-		}
 
 	}
 
@@ -57,8 +37,9 @@ class Article
 
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
 				try {
-					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$i</sup>", $content, 1);
-					$content .= "\n <small>$i : " . $matches[1][$i] . "</small><br>";
+					$c = $i + 1 ;
+					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$c</sup>", $content, 1);
+					$content .= "\n <small>$c : " . $matches[1][$i] . "</small><br>";
 				} catch (\Exception $e){
 					throw new \Exception($this->name);
 				}
@@ -106,61 +87,11 @@ class Article
 	}
 
 	/**
-	 * @return null
-	 */
-	public function getX()
-	{
-		return $this->x;
-	}
-
-	/**
-	 * @return null
-	 */
-	public function getY()
-	{
-		return $this->y;
-	}
-
-	/**
-	 * @return null
-	 */
-	public function getZ()
-	{
-		return $this->z;
-	}
-
-	/**
-	 * @return null
-	 */
-	public function getRotateX()
-	{
-		return $this->rotateX;
-	}
-
-	/**
-	 * @return null
-	 */
-	public function getRotateY()
-	{
-		return $this->rotateY;
-	}
-
-	/**
-	 * @return null
-	 */
-	public function getRotateZ()
-	{
-		return $this->rotateZ;
-	}
-
-	/**
 	 * @return bool
 	 */
 	public function isHead(): bool
 	{
 		return $this->isHead;
 	}
-
-
 
 }

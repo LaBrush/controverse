@@ -1,12 +1,3 @@
-<div class="step" id="{{ article.id }}"
-
-     {% if article.x is not null %}data-x="{{ article.x }}"{% endif %}
-     {% if article.y is not null %}data-y="{{ article.y }}"{% endif %}
-     {% if article.z is not null %}data-z="{{ article.z }}"{% endif %}
-
-	{% if article.rotateX is not null %}data-rotate-x="{{ article.rotateX }}"{% endif %}
-	{% if article.rotateY is not null %}data-rotate-y="{{ article.rotateY }}"{% endif %}
-	{% if article.rotateZ is not null %}data-rotate-z="{{ article.rotateZ }}"{% endif %}
->
+<section id="{{ article.id }}" data-menu-title="{{ article.name }}" class="scrollable">
 	{{ article.renderContent() | raw }}
-</div>
+</section>

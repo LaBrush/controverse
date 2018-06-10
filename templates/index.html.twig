@@ -14,28 +14,15 @@
 	<meta name="author" content="Ines HARANG"/>
 	<meta name="author" content="Pierre WAN-FAT"/>
 
-
-	<link href="/css/boostrap/bootstrap.min.css" rel="stylesheet"/>
-	<link href="/css/docs.min.css" rel="stylesheet"/>
-	<link href="/css/contro.css" rel="stylesheet"/>
+	<link rel="stylesheet" href="css/reveal.css">
+	<link rel="stylesheet" href="css/theme/white.css">
+	<link rel="stylesheet" href="css/contro.css">
 
 </head>
 
-<body class="impress-not-supported">
+<body>
 
-<div class="fallback-message alert alert-danger">
-	<p>Votre navigateur ne supporte pas les fonctionnalités pour que ce site soit magnifique. Vous verrez donc une
-		version simplifiée</p>
-	<p>Pour une meilleur expérience, nous vous recommendons d'utiliser la dernière version de <b>Chrome</b>,
-		<b>Safari</b> ou <b>Firefox</b>.</p>
-</div>
-
-<div class="col-12 col-md-3 col-xl-2 sidebar-toogle p-3">
-	<button id="toggle-sidebar" class="btn btn-outline-warning btn-block">Menu</button>
-</div>
-
-
-<div id="sidebar" class="col-12 col-md-3 col-xl-2 bd-sidebar">
+{#<div id="sidebar" class="col-12 col-md-3 col-xl-2 bd-sidebar">
 	<nav class="collapse bd-links" id="bd-docs-nav">
 
 		{% for article in articles %}
@@ -56,42 +43,46 @@
 				</div>
 
 	</nav>
+</div>#}
+
+
+<div class="reveal">
+
+	<div class="slides">
+		{% for article in articles %}
+			{% if article.isHead %}
+				{% if not loop.first %}
+					</section>
+				{% endif %}
+
+				<section>
+			{% endif %}
+			{{ render(article) }}
+
+			{% if loop.last %}
+				</section>
+			{% endif %}
+		{% endfor %}
+	</div>
+
 </div>
 
-
-<div id="impress">
-
-	{% for article in articles %}
-		{{ render(article) }}
-	{% endfor %}
-
-
-	<div class="step" data-x="3500" data-y="0" data-z="10000" id="global"></div>
-</div>
-
-<div class="hint"></div>
-
+<script src="reveal/lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
 <script>
-	if ("ontouchstart" in document.documentElement) {
-		document.querySelector(".hint").innerHTML = "<p>Glissez à gauche ou à droite pour naviguer.</p>";
-	}
-</script>
+	Reveal.initialize({
+		dependencies: [
+			{ src: 'bower_components/reveal.js-menu/menu.js', async: true }
+		],
 
-<script src="/js/impress.js"></script>
-<script>impress().init();</script>
+		transition: 'slide',
+		history: true,
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script>
-	$(function(){
-		$('#toggle-sidebar').click(function(){
-			$("#sidebar").fadeToggle(100.0);
-		});
-
-		$('#sidebar').click(function(){
-			$(this).fadeToggle(100.0);
-		});
-
-		$("#sidebar").toggle();
+		menu: {
+			openSlideNumber: true,
+			themes: true,
+			themesPath: 'lib/reveal.js/css/theme/'
+		}
 	});
 </script>
 

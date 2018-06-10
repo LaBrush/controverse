@@ -63,8 +63,7 @@ démocratisé, à Paris comme en petite couronne. {L'Obs - 2017-10-11 -
 Réduire la place des voitures à Paris C'est la droite qui a commencé} 
  
 Cependant, le problème reste la difficulté d’établir **des « 
-liaisons courtes entre les gares et les zones d’emploi »**. {La Gazette 
-- 2017-03-31 - Paris, la région et la métropole vont-elles réussir à 
+liaisons courtes entre les gares et les zones d’emploi »**. {La Gazette - 2017-03-31 - Paris, la région et la métropole vont-elles réussir à 
 penser} 
  
 Selon **Frédéric Héran**, plusieurs moyens permettraient 

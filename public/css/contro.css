@@ -1,55 +1,9 @@
-.impress-supported .fallback-message {
-    display: none;
+.reveal section img {
+	border: none ;
 }
 
-#impress {
-	width: 100%;
-}
-
-#impress > div {
-	width: 100%;
-}
-
-.step {
-	position: relative;
-	max-width: 90%;
-	padding: 40px;
-	margin: 20px auto;
-
-	-webkit-box-sizing: border-box;
-	-moz-box-sizing:    border-box;
-	-ms-box-sizing:     border-box;
-	-o-box-sizing:      border-box;
-	box-sizing:         border-box;
-
-	overflow: scroll;
-	max-height: 80vh ;
-}
-
-::-webkit-scrollbar {
-	-webkit-appearance: none;
-	width: 7px;
-}
-::-webkit-scrollbar-thumb {
-	border-radius: 0px;
-	background-color: rgba(0, 0, 0, .5);
-	-webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
-}
-
-.bd-sidebar {
-	height: 100vh;
-	padding-top: 2em;
-	border-top: 1px solid rgba(0, 0, 0, .1);
-	background-color: rgba(255, 255, 255, 0.9);
-}
-
-.sidebar-toogle {
-	z-index: 100;
-	background-color: rgba(255, 255, 255, 0.9);
-}
-
-img {
-	max-width: 90%;
-	max-height: 100%;
-	margin: auto;
+.scrollable {
+	overflow-y: auto !important;
+	overflow-x: hidden !important;
+	height: 90vh;
 }
