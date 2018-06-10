@@ -6,7 +6,6 @@ use Parsedown;
 
 class Article
 {
-
 	private $id ;
 	private $name ;
 	private $contentFile ;
@@ -25,6 +24,7 @@ class Article
 	{
 		$this->id = $id ;
 		$this->name = $config["name"];
+		$this->relativePath = $config["file"] ;
 		$this->contentFile = __DIR__ . "/../../sources/" . $config["file"] ;
 
 		$this->x = isset($config["position"]) && isset($config["position"]["x"]) ? $config["position"]["x"] : null;
@@ -68,6 +68,15 @@ class Article
 			$content = str_replace("\}", "}", $content);
 
 		}
+
+		/* Réécriture des urls */
+		$rp = $this->relativePath ;
+		$content = preg_replace_callback('/<img src=\"(\S+)\"/m', function($arg) use (&$rp){
+			$res = str_replace($arg[1], "images/" . pathinfo($rp)["dirname"] . "/" . $arg[1], $arg[1]);
+			$res = str_replace($arg[1], $res, $arg[0]);
+
+			return $res;
+		}, $content);
 
 		return $content ;
 	}

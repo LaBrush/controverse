@@ -20,15 +20,25 @@ accueil:
 
 # Chronologie
 
-0-chronologie-globale:
+chronologie-globale:
     name: Chronologie
     file: chronologie/0-global.md
     isHead: true
 
     position:
         x: 1500
-        y: -700*sin(2*pi()/3)
-        z: 700*cos(2*pi()/3)
+        y: -1000*sin(2*pi()/3)
+        z: 1000*cos(2*pi()/3)
+
+    rotation:
+        x: 60
+
+chronologie-1:
+    name: Chronologie 1
+    file: chronologie/1-frise.md
+
+    position:
+        x: 2000
 
     rotation:
         x: 60
