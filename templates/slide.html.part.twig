@@ -1,12 +1,12 @@
 <div class="step" id="{{ article.id }}"
 
-     {% if article.x %}data-x="{{ article.x }}"{% endif %}
-     {% if article.y %}data-y="{{ article.y }}"{% endif %}
-     {% if article.z %}data-z="{{ article.z }}"{% endif %}
+     {% if article.x is not null %}data-x="{{ article.x }}"{% endif %}
+     {% if article.y is not null %}data-y="{{ article.y }}"{% endif %}
+     {% if article.z is not null %}data-z="{{ article.z }}"{% endif %}
 
-	{% if article.rotateX %}data-rotate-x="{{ article.rotateX }}"{% endif %}
-	{% if article.rotateY %}data-rotate-y="{{ article.rotateY }}"{% endif %}
-	{% if article.rotateZ %}data-rotate-z="{{ article.rotateZ }}"{% endif %}
+	{% if article.rotateX is not null %}data-rotate-x="{{ article.rotateX }}"{% endif %}
+	{% if article.rotateY is not null %}data-rotate-y="{{ article.rotateY }}"{% endif %}
+	{% if article.rotateZ is not null %}data-rotate-z="{{ article.rotateZ }}"{% endif %}
 >
 	{{ article.renderContent() | raw }}
 </div>

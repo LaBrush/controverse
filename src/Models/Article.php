@@ -46,6 +46,8 @@ class Article
 	public function renderContent(){
 		$content = file_get_contents($this->contentFile);
 
+		//dump($this);
+
 		if(pathinfo($this->contentFile)["extension"] == "md"){
 
 			$parsedown = new Parsedown();
@@ -53,11 +55,13 @@ class Article
 
 			preg_match_all('/(?<!\\\\){(.+)(?<!\\\\)}/m', $content, $matches);
 
-			dump($matches);
-
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
-				$content = preg_replace('/ ?' . $matches[0][$i] . '/', "<sup>$i</sup>", $content, 1);
-				$content .= "\n <small>$i : " . $matches[1][$i] ."</small><br>";
+				try {
+					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$i</sup>", $content, 1);
+					$content .= "\n <small>$i : " . $matches[1][$i] . "</small><br>";
+				} catch (\Exception $e){
+					throw new \Exception($this->name);
+				}
 			}
 
 			$content = str_replace("\{", "{", $content);

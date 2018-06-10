@@ -1,0 +1,1 @@
+![Vue globale](images/frise_0_global.png)

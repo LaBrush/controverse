@@ -11,10 +11,29 @@
 #        z: 2
 
 
+#Accueil
+
 accueil:
     name: Accueil
     file: accueil.html
     isHead: true
+
+# Chronologie
+
+0-chronologie-globale:
+    name: Chronologie
+    file: chronologie/0-global.md
+    isHead: true
+
+    position:
+        x: 1500
+        y: -700*sin(2*pi()/3)
+        z: 700*cos(2*pi()/3)
+
+    rotation:
+        x: 60
+
+# Etude de cas
 
 etude-de-cas:
     name: Etude de cas
@@ -22,4 +41,49 @@ etude-de-cas:
     isHead: true
 
     position:
-        x: 1000
+        x: 1500
+        y: 0
+        z: 0
+
+1-bazar-et-etude-de-cas:
+    name: Bazar et étude de cas
+    file: etude-de-cas/1-bazar-et-etude-de-cas.md
+    position:
+        x: 2500
+
+2-combat-du-siecle-des-comites:
+    name: Combat du siècle des comités
+    file: etude-de-cas/2-combat-du-siecle-des-comites.md
+    position:
+        x: 3500
+
+3-impact-sur-la-circulation:
+    name: Impact sur la circulation
+    file: etude-de-cas/3-impact-sur-la-circulation.md
+    position:
+        x: 4500
+
+4-encadre-qui-sont-les-victimes-de-la-pollution:
+    name: Qui sont les victimes de la pollution
+    file: etude-de-cas/4-encadre-qui-sont-les-victimes-de-la-pollution.md
+    position:
+        x: 5500
+
+4-impact-sur-la-pollution:
+    name: Impact sur la pollution
+    file: etude-de-cas/4-impact-sur-la-pollution.md
+    position:
+        x: 6500
+
+5-economie-locale:
+    name: L'économie locale
+    file: etude-de-cas/5-economie-locale.md
+    position:
+        x: 7500
+
+6-des-inegalites-renforcees:
+    name: Des inégalités renforcées ?
+    file: etude-de-cas/6-des-inegalites-renforcees.md
+    position:
+        x: 8500
+
