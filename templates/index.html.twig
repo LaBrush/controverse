@@ -1,68 +1,160 @@
-<!doctype html>
-
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-	<meta charset="utf-8"/>
-	<meta name="viewport" content="width=1024"/>
-	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Faut-il supprimer les voitures des villes ?</title>
 
-	<meta name="description" content=""/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+	<link rel="stylesheet" href="css/contro.css">
+
 	<meta name="author" content="Adrien BOCQUET"/>
 	<meta name="author" content="Gaël BLAISE"/>
 	<meta name="author" content="Morgane GOULAIN"/>
 	<meta name="author" content="Ines HARANG"/>
 	<meta name="author" content="Pierre WAN-FAT"/>
-
-	<link rel="stylesheet" href="css/reveal.css">
-	<link rel="stylesheet" href="css/theme/white.css">
-	<link rel="stylesheet" href="css/contro.css">
-
 </head>
-
 <body>
 
-<div class="reveal">
-
-	<div class="slides">
-		{% for article in articles %}
-			{% if article.isHead %}
-				{% if not loop.first %}
-					</section>
-				{% endif %}
-
-				<section>
-			{% endif %}
-			{{ render(article) }}
-
-			{% if loop.last %}
-				</section>
-			{% endif %}
-		{% endfor %}
+<nav class="navbar is-transparent">
+	<div class="navbar-brand">
+		<div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
 	</div>
 
+	<div id="navbarExampleTransparentExample" class="navbar-menu">
+		<div class="navbar-start">
+			{% for article in articles %}
+				{% if not loop.first and article.isHead %}
+						</div>
+					</div>
+				{% endif %}
+
+				{% if loop.first or article.isHead %}
+					<div class="navbar-item has-dropdown is-hoverable">
+						<a href="#{{ article.id }}" class="navbar-link">{{ article.name }}</a>
+						<div class="navbar-dropdown is-boxed">
+				{% else %}
+					<a href="#{{ article.id }}" class="navbar-item">{{ article.name }}</a>
+				{% endif %}
+
+			{% endfor %}
+
+		</div>
+	</div>
+</nav>
+
+
+
+<div id="content">
+	{% for article in articles %}
+
+		{% if not loop.first and article.isHead %}
+			</div>
+			</section>
+		{% endif %}
+
+		{% if loop.first or article.isHead %}
+			<section class="section">
+				<div class="container">
+		{% endif %}
+
+		{{ render(article) }}
+
+	{% endfor %}
+
+		</div>
+	</section>
 </div>
 
-
-<script src="reveal/lib/js/head.min.js"></script>
-<script src="js/reveal.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-	Reveal.initialize({
-		dependencies: [
-			{ src: 'bower_components/reveal.js-menu/menu.js', async: true }
-		],
 
-		transition: 'slide',
-		history: true,
+	var selected = 1 ;
+	var maxSelected = $("section.section").length - 1;
 
-		menu: {
-			openSlideNumber: true,
-			themes: true,
-			themesPath: 'lib/reveal.js/css/theme/'
+	function refresh(){
+		$('section').each(function(index){
+			$(this).animate({
+				"left": ((index - selected) * 100) + "%"
+			}, 1000)
+
+			if (index == selected){
+				$(this).focus();
+			}
+		});
+	}
+
+	$('section.section').each(function(index){
+		$(this).css("left", ((index - selected) * 100) + "%")
+	}).first().focus();
+
+	$('a').click(function(e){
+		if($(this).attr("href").indexOf("#") === 0){
+			var id = $(this).attr('href');
+
+			$('section.section').each(function(index){
+				if($(this).find(id).length > 0){
+					console.log(index, $(this).find(id));
+					selected = index ;
+					return false ;
+				}
+			});
+
+			refresh();
 		}
+	});
+
+	$(document).keydown(function(e) {
+		switch(e.which) {
+			case 37: // left
+				if(selected > 0)
+				selected-- ;
+				break;
+			case 39: // right
+				if(selected < maxSelected)
+				selected++ ;
+				break;
+			default: return; // exit this handler for other keys
+		}
+		console.log(selected);
+		refresh();
+
+		e.preventDefault(); // prevent the default action (scroll / move caret)
+	});
+
+</script>
+
+<script>
+	document.addEventListener('DOMContentLoaded', function () {
+
+		// Get all "navbar-burger" elements
+		var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+		// Check if there are any navbar burgers
+		if ($navbarBurgers.length > 0) {
+
+			// Add a click event on each of them
+			$navbarBurgers.forEach(function ($el) {
+				$el.addEventListener('click', function () {
+
+					// Get the target from the "data-target" attribute
+					var target = $el.dataset.target;
+					var $target = document.getElementById(target);
+
+					// Toggle the class on both the "navbar-burger" and the "navbar-menu"
+					$el.classList.toggle('is-active');
+					$target.classList.toggle('is-active');
+
+				});
+			});
+		}
+
 	});
 </script>
 
 </body>
 </html>
-

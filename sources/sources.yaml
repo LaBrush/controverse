@@ -20,6 +20,7 @@ accueil:
 
 # Chronologie
 
+
 chronologie-globale:
     name: Chronologie
     file: chronologie/0-global.md
@@ -28,36 +29,44 @@ chronologie-globale:
 
 chronologie-1:
     name: Prélude
-    file: chronologie/1-frise.md
+    file: chronologie/1-frise.html
     background: "#e74c3c"
+
 chronologie-2:
     name: Fermeture rive gauche
-    file: chronologie/2-frise.md
+    file: chronologie/2-frise.html
     background: "#e74c3c"
+
 chronologie-3:
     name: Annonces pour la rive droite
-    file: chronologie/3-frise.md
+    file: chronologie/3-frise.html
     background: "#e74c3c"
+
 chronologie-4:
     name: Etude d'impact et débats
-    file: chronologie/4-frise.md
+    file: chronologie/4-frise.html
     background: "#e74c3c"
+
 chronologie-5:
     name: Fermeture rive droite
-    file: chronologie/5-frise.md
+    file: chronologie/5-frise.html
     background: "#e74c3c"
+
 chronologie-6:
     name: Etude de suivi
-    file: chronologie/6-frise.md
+    file: chronologie/6-frise.html
     background: "#e74c3c"
+
 chronologie-7:
     name: "Justice : fermeture rive droite"
-    file: chronologie/7-frise.md
+    file: chronologie/7-frise.html
     background: "#e74c3c"
+
 chronologie-8:
     name: Réouverture avec de nouveaux arguments
-    file: chronologie/8-frise.md
+    file: chronologie/8-frise.html
     background: "#e74c3c"
+
 
 
 # Etude de cas
