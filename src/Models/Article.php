@@ -73,7 +73,6 @@ class Article
 			$content = str_replace("\{", "{", $content);
 			$content = str_replace("\}", "}", $content);
 
-			$content = preg_replace("/<h([1-6])>/", "<h$1 class='title is-$1'>", $content);
 		}
 
 		/* Réécriture des urls */

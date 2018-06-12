@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Faut-il supprimer les voitures des villes ?</title>
 
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 	<link rel="stylesheet" href="css/contro.css">
 
 	<meta name="author" content="Adrien BOCQUET"/>
@@ -16,37 +16,34 @@
 </head>
 <body>
 
-<nav class="navbar is-transparent">
-	<div class="navbar-brand">
-		<div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
-			<span></span>
-			<span></span>
-			<span></span>
-		</div>
-	</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
 
-	<div id="navbarExampleTransparentExample" class="navbar-menu">
-		<div class="navbar-start">
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+		<ul class="navbar-nav mr-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="#accueil">Accueil</a>
+			</li>
 			{% for article in articles %}
 				{% if not loop.first and article.isHead %}
 						</div>
-					</div>
+					</li>
 				{% endif %}
 
 				{% if loop.first or article.isHead %}
-					<div class="navbar-item has-dropdown is-hoverable">
-						<a href="#{{ article.id }}" class="navbar-link">{{ article.name }}</a>
-						<div class="navbar-dropdown is-boxed">
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" role="button" id="navbarDropdownMenuLink_{{ loop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#{{ article.id }}">{{ article.name }}</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink_{{ loop.index }}">
 				{% else %}
-					<a href="#{{ article.id }}" class="navbar-item">{{ article.name }}</a>
+							<a href="#{{ article.id }}" class="dropdown-item">{{ article.name }}</a>
 				{% endif %}
 
 			{% endfor %}
-
-		</div>
+		</ul>
 	</div>
 </nav>
-
 
 
 <div id="content">
@@ -70,7 +67,9 @@
 	</section>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 <script>
 
 	var selected = 1 ;

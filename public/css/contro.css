@@ -11,6 +11,10 @@ section.section {
 	overflow: scroll;
 }
 
+img {
+	max-width: 100% ;
+}
+
 
 .example-header {
 	background: #3D4351;
