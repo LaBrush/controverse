@@ -17,55 +17,48 @@ accueil:
     name: Accueil
     file: accueil.html
     isHead: true
+    color: "#fff"
 
 # Chronologie
 
 
 chronologie-globale:
     name: Chronologie
-    file: chronologie/0-global.md
+    file: chronologie/0-global.html
     isHead: true
-    background: "#e74c3c"
+    color: "#e74c3c"
 
 chronologie-1:
     name: Prélude
     file: chronologie/1-frise.html
-    background: "#e74c3c"
 
 chronologie-2:
     name: Fermeture rive gauche
     file: chronologie/2-frise.html
-    background: "#e74c3c"
 
 chronologie-3:
     name: Annonces pour la rive droite
     file: chronologie/3-frise.html
-    background: "#e74c3c"
 
 chronologie-4:
     name: Etude d'impact et débats
     file: chronologie/4-frise.html
-    background: "#e74c3c"
 
 chronologie-5:
     name: Fermeture rive droite
     file: chronologie/5-frise.html
-    background: "#e74c3c"
 
 chronologie-6:
     name: Etude de suivi
     file: chronologie/6-frise.html
-    background: "#e74c3c"
 
 chronologie-7:
     name: "Justice : fermeture rive droite"
     file: chronologie/7-frise.html
-    background: "#e74c3c"
 
 chronologie-8:
     name: Réouverture avec de nouveaux arguments
     file: chronologie/8-frise.html
-    background: "#e74c3c"
 
 
 
@@ -75,43 +68,35 @@ etude-de-cas:
     name: Etude de cas
     file: etude-de-cas/presentation.md
     isHead: true
-    background: "#2ecc71"
-
+    color: "#f1c40f"
 
 bazar-et-etude-de-cas:
     name: Bazar et étude de cas
     file: etude-de-cas/1-bazar-et-etude-de-cas.md
-    background: "#2ecc71"
 
 combat-du-siecle-des-comites:
     name: Combat du siècle des comités
     file: etude-de-cas/2-combat-du-siecle-des-comites.md
-    background: "#2ecc71"
 
 impact-sur-la-circulation:
     name: Impact sur la circulation
     file: etude-de-cas/3-impact-sur-la-circulation.md
-    background: "#2ecc71"
 
 encadre-qui-sont-les-victimes-de-la-pollution:
     name: Qui sont les victimes de la pollution
     file: etude-de-cas/4-encadre-qui-sont-les-victimes-de-la-pollution.md
-    background: "#2ecc71"
 
 impact-sur-la-pollution:
     name: Impact sur la pollution
     file: etude-de-cas/4-impact-sur-la-pollution.md
-    background: "#2ecc71"
 
 economie-locale:
     name: L'économie locale
     file: etude-de-cas/5-economie-locale.md
-    background: "#2ecc71"
 
 des-inegalites-renforcees:
     name: Des inégalités renforcées ?
     file: etude-de-cas/6-des-inegalites-renforcees.md
-    background: "#2ecc71"
 
 # approche thématique
 
@@ -119,68 +104,62 @@ approche-thematique:
     name: Approche thématique
     file: approche-thematique/approche_thematique.html
     isHead: true
-    background: "#f1c40f"
+    color: "#2ecc71"
+
 
 
 # comment gouverner
 mesures-containdre-vehicules:
     name: Les mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
-    background: "#f1c40f"
 
 mobilites-alternatives:
     name: Les mobilités alternatives
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
-    background: "#f1c40f"
 
 vehicules-thermiques:
     name: Véhicules thermiques
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
-    background: "#f1c40f"
 
 
 voiture-electrique:
     name: Véhicules éléctriques
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
-    background: "#f1c40f"
 
 vehicules-autonomes:
     name: Véhicules thermiques
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
-    background: "#f1c40f"
+    menu_sep: true
 
 #quantifier
 
 comment-prevoir-les-consequences:
     name: Comment prévoir les conséquences ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
-    background: "#f1c40f"
 
 mais-comment-verifier-la-concordance-entre-previsions-et-realite:
     name: Comment vérifier la concordance entre prévisions et réalité ?
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
-    background: "#f1c40f"
+
 airparif:
     name: Véhicules thermiques
     file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
-    background: "#f1c40f"
+    menu_sep: true
+
 #quelles-sont-les-inegalites-engendrees
 
 inegalites-economie-locale:
     name: Comment prévoir les conséquences ?
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/4-economie-locale.md
-    background: "#f1c40f"
+
 classes-modestes:
     name: Comment vérifier la concordance entre prévisions et réalité ?
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/5-classes-modestes.md
-    background: "#f1c40f"
-    position:
 
 competence-territoriale:
     name: Comment prévoir les conséquences ?
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
-    background: "#f1c40f"
+
 qui-est-consulte:
     name: Comment vérifier la concordance entre prévisions et réalité ?
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
-    background: "#f1c40f"

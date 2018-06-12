@@ -1,3 +1,12 @@
+article {
+	background: white;
+	border-radius: 5px;
+}
+
+nav {
+	z-index: 1000;
+}
+
 section.section {
 	position: fixed;
 	top: 60px;
@@ -6,7 +15,7 @@ section.section {
 	margin-top: 0;
 	padding-top: 0;
 
-	height: 100vh;
+	height: calc(100vh - 60px);
 	width: 100%;
 	overflow: scroll;
 }
@@ -15,43 +24,13 @@ img {
 	max-width: 100% ;
 }
 
-
-.example-header {
-	background: #3D4351;
-	color: #FFF;
-	font-weight: 300;
-	padding: 3em 1em;
-	text-align: center;
-}
-.example-header h1 {
-	color: #FFF;
-	font-weight: 300;
-	margin-bottom: 20px;
-}
-.example-header p {
-	font-size: 12px;
-	text-transform: uppercase;
-	letter-spacing: 3px;
-	font-weight: 700;
+.navbar {
+	background: rgb(255, 255, 255) !important;
 }
 
-.container-fluid .row {
-	padding: 0 0 4em 0;
-}
-.container-fluid .row:nth-child(even) {
-	background: #F1F4F5;
-}
-
-.example-title {
-	text-align: center;
-	margin-bottom: 60px;
-	padding: 3em 0;
-	border-bottom: 1px solid #E4EAEC;
-}
-.example-title p {
-	margin: 0 auto;
-	font-size: 16px;
-	max-width: 400px;
+.navbar-spy {
+	position: fixed;
+	top: 80px ;
 }
 
 /*==================================
@@ -72,6 +51,7 @@ img {
 
 .timeline-title {
 	font-weight: bold;
+	line-height: 1.3em !important;
 }
 
 .timeline-title:not(:first-child) {

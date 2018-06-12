@@ -12,7 +12,8 @@ class Article
 	private $name ;
 	private $contentFile ;
 	private $references ;
-	private $background ;
+	private $color ;
+	private $menuSep ;
 
 	private $isHead ;
 
@@ -26,7 +27,8 @@ class Article
 		$this->name = $config["name"];
 		$this->relativePath = $config["file"] ;
 		$this->contentFile = __DIR__ . "/../../sources/" . $config["file"] ;
-		$this->background = isset($config["background"]) ? $config["background"] : null ;
+		$this->color = isset($config["color"]) ? $config["color"] : null ;
+		$this->menuSep = isset($config["menu_sep"]) ? $config["menu_sep"] : null ;
 
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
 
@@ -130,9 +132,17 @@ class Article
 	/**
 	 * @return null
 	 */
-	public function getBackground()
+	public function getColor()
 	{
-		return $this->background;
+		return $this->color;
+	}
+
+	/**
+	 * @return null
+	 */
+	public function getMenuSep()
+	{
+		return $this->menuSep;
 	}
 
 
