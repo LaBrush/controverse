@@ -86,8 +86,16 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 <script>
 
-	var selected = 1 ;
 	var maxSelected = $("section.section").length - 1;
+	var selected = 0 ;
+	var id = location.hash;
+
+	$('section.section').each(function(index){
+		if($(this).find(id).length > 0){
+			selected = index ;
+			return false ;
+		}
+	});
 
 	function refresh(){
 		$('section').each(function(index){
@@ -106,6 +114,8 @@
 		});
 	}
 
+
+
 	$('section.section').each(function(index){
 		$(this).css("left", ((index - selected) * 100) + "%")
 
@@ -116,20 +126,17 @@
 		}
 	}).first().focus();
 
-	$('a').click(function(e){
-		if($(this).attr("href").indexOf("#") === 0){
-			var id = $(this).attr('href');
+	$(window).on('hashchange', function(e){
+		var id = location.hash;
 
-			$('section.section').each(function(index){
-				if($(this).find(id).length > 0){
-					console.log(index, $(this).find(id));
-					selected = index ;
-					return false ;
-				}
-			});
+		$('section.section').each(function(index){
+			if($(this).find(id).length > 0){
+				selected = index ;
+				return false ;
+			}
+		});
 
-			refresh();
-		}
+		refresh();
 	});
 
 	$(document).keydown(function(e) {

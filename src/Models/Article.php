@@ -51,6 +51,8 @@ class Article
 			$parsedown = new Parsedown();
 			$content = $parsedown->text($content);
 
+			$content = preg_replace('/quote\{(.+)\}\{(.+)}/m', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$2</footer></blockquote>', $content);
+
 			preg_match_all('/(?<!\\\\){(.+)(?<!\\\\)}/m', $content, $matches);
 
 			$classes = [] ;
