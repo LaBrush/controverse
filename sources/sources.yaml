@@ -17,7 +17,7 @@ accueil:
     name: Accueil
     file: accueil.html
     isHead: true
-    color: "#fff"
+    color: "#000"
 
 # Chronologie
 
@@ -127,7 +127,7 @@ voiture-electrique:
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
 
 vehicules-autonomes:
-    name: Véhicules thermiques
+    name: Véhicules autonomes
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
     menu_sep: true
 
@@ -142,7 +142,7 @@ mais-comment-verifier-la-concordance-entre-previsions-et-realite:
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
 
 airparif:
-    name: Véhicules thermiques
+    name: La qualité de l'air
     file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
     menu_sep: true
 
@@ -157,7 +157,7 @@ classes-modestes:
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/5-classes-modestes.md
 
 competence-territoriale:
-    name: Comment prévoir les conséquences ?
+    name: Compétences territoriale
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
 
 qui-est-consulte:

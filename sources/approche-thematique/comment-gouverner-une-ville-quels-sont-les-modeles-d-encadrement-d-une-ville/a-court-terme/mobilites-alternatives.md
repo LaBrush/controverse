@@ -36,10 +36,7 @@ tiers des déplacements à Paris, un quart en IDF. En fait, **c’est le
 (mauvais) usage de la route qui est limitant.** 
 {gazette_reussir_penser} 
  
-Selon **Pascal Thévenot, maire Les Républicains de Vélizy-
-Villacoublay** (Yvelines) : *« Si les Parisiens peuvent se passer de 
-voitures, chez nous le maillage et l’état du RER ne le permettent 
-pas.»* {} 
+quote{« Si les Parisiens peuvent se passer de voitures, chez nous le maillage et l’état du RER ne le permettent pas.»}{Pascal Thévenot, maire Les Républicains de Vélizy-Villacoublay(Yvelines)}
  
 **Florence Berthout, vice-présidente de la région IDF**, prétend 
 qu’à cause d’une négligence de l’ancien mandat régional, « il faudra 

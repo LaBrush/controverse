@@ -6,6 +6,7 @@
 	<title>Faut-il supprimer les voitures des villes ?</title>
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+	<link href="/css/doc.min.css" rel="stylesheet"/>
 	<link rel="stylesheet" href="css/contro.css">
 
 	<meta name="author" content="Adrien BOCQUET"/>
@@ -16,47 +17,47 @@
 </head>
 <body>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-		<span class="navbar-toggler-icon"></span>
-	</button>
+<div class="container-fluid">
 
-	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		<ul class="navbar-nav mr-auto container">
-			<li class="nav-item">
-				<a class="nav-link" href="#accueil">Accueil</a>
-			</li>
-			{% for article in articles %}
-				{% if not loop.first and article.isHead %}
-						</div>
-					</li>
-				{% endif %}
-
-				{% if loop.first or article.isHead %}
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" role="button" id="navbarDropdownMenuLink_{{ loop.index }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#{{ article.id }}">{{ article.name }}</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink_{{ loop.index }}">
-				{% else %}
-							<a href="#{{ article.id }}" class="dropdown-item">{{ article.name }}</a>
-
-							{% if article.menuSep %}<hr>{% endif %}
-				{% endif %}
-
-			{% endfor %}
-		</ul>
+	<div id="sidebar_toggle" class="col-12 col-md-3 col-xl-2 mt-3">
+		<button class="btn btn-primary btn-block btn-outline-secondary">Menu</button>
 	</div>
-</nav>
+	<div id="sidebar" class="col-12 col-xl-2 bd-sidebar">
+		<div class="row flex-xl-nowrap">
+			<nav class="collapse show bd-links" id="bd-docs-nav">
+				{% for article in articles %}
+					{% if article.isHead %}
+						{% if not loop.first %}
+								</ul>
+							</div>
+						{% endif %}
 
+						<div class="bd-toc-item active">
+							<a class="bd-toc-link" href="#{{ article.id }}">{{ article.name }}</a>
+							<ul class="nav bd-sidenav">
+					{% else %}
+						<li><a href="#{{ article.id }}">{{ article.name }}</a></li>
+					{% endif %}
 
-<div id="content">
-	{% for article in articles %}
+					{% if article.menuSep %}
+						<li><br></li>
+					{% endif %}
+				{% endfor %}
+								</ul>
+							</div>
 
-		{% if not loop.first and article.isHead %}
-			</div>
-			</section>
-		{% endif %}
+			</nav>
+		</div>
+	</div>
+	<div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" id="content">
 
-		{% if loop.first or article.isHead %}
+		{% for article in articles %}
+			{% if not loop.first and article.isHead %}
+					</div>
+				</section>
+			{% endif %}
+
+			{% if loop.first or article.isHead %}
 			<section class="section {% if article.color is not null %}color_{{ article.color | trim("#") }}"{% endif %}>
 
 				<style>
@@ -66,17 +67,18 @@
 				</style>
 
 				<div class="container">
-		{% endif %}
+					{% endif %}
 
-		<article class="p-4 mb-3 mt-2">
-			{{ render(article) }}
-		</article>
+					<article class="p-4 mb-3 mt-2">
+						{{ render(article) }}
+					</article>
 
-	{% endfor %}
+					{% endfor %}
 
-		</div>
-	</section>
+				</div>
+			</section>
 
+	</div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
@@ -155,6 +157,17 @@
 		e.preventDefault(); // prevent the default action (scroll / move caret)
 	});
 
+	$('#sidebar_toggle').click(function(){
+		$('#sidebar').toggle("slide");
+	});
+
+	$('#sidebar').toggle();
+
+	$('#sidebar a').click(function(){
+		$('#sidebar').toggle("slide");
+	})
+
+	$('.fade').delay(2000).fadeOut(400)
 </script>
 
 </body>

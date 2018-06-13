@@ -1,23 +1,15 @@
-article {
-	background: white;
-	border-radius: 5px;
-}
-
-nav {
-	z-index: 1000;
-}
-
 section.section {
 	position: fixed;
-	top: 60px;
+	top: 0;
 	left: 0;
 
 	margin-top: 0;
 	padding-top: 0;
 
-	height: calc(100vh - 60px);
+	height: 100vh;
 	width: 100%;
 	overflow: scroll;
+	z-index: -1;
 }
 
 img {
@@ -31,6 +23,42 @@ p {
 .blockquote {
 	font-style: italic;
 }
+
+#sidebar {
+	height: 100%;
+	position: fixed;
+	top: 0rem ;
+	padding-top: 4rem ;
+	z-index: 90;
+
+	border: none;
+	overflow: scroll;
+}
+
+#sidebar_toggle {
+	position: fixed;
+	top: 0;
+	left: 0 ;
+	z-index: 100;
+}
+
+#sidebar_toggle .btn {
+	background-color: white;
+}
+
+#bd-docs-nav {
+	background-color: white;
+	width: 100%;
+	height: 100%;
+}
+
+@media(min-width: 768px) {
+	.bd-links {
+		max-height: calc(100vh - 4rem);
+		overflow: scroll;
+	}
+}
+
 
 /*==================================
     TIMELINE
