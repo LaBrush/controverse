@@ -23,7 +23,7 @@
 		<button class="btn btn-primary btn-block btn-outline-secondary">Menu</button>
 	</div>
 	<div id="sidebar" class="col-12 col-xl-2 bd-sidebar">
-		<div class="row flex-xl-nowrap">
+		<div class="row flex-xl-nowrap hidden">
 			<nav class="collapse show bd-links" id="bd-docs-nav">
 				{% for article in articles %}
 					{% if article.isHead %}
@@ -48,6 +48,8 @@
 
 			</nav>
 		</div>
+		</nav>
+	</div>
 	</div>
 	<div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" id="content">
 
