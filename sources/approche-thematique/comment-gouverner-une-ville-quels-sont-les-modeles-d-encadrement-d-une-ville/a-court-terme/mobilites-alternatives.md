@@ -1,7 +1,6 @@
-
 # Mobilités alternatives
 
-## Politique de Paris
+## La politique de Paris
 
 La politique de la ville **n’est pas orientée vers l’interdiction
 pure de certains types de véhicules**. À la place, elle *« a décidé
@@ -18,7 +17,7 @@ Ainsi, de 2000 à 2014, Paris a connu **un doublement du nombre de
 déplacements à vélo**, conséquence du triplement du nombre
 d’aménagements cyclables. {afp_empreinte_delanoe}
 
-## Covoiturage / voiture partagée
+## Le covoiturage
 
 Selon une étude sur les conséquences éventuelles du covoiturage
 en Île-de-France, la politique locale devrait essayer de **développer
@@ -70,23 +69,25 @@ pour des petits trajets. D’ailleurs beaucoup de convertis au vélo
 utilisaient déjà un moyen de transport non polluant (la marche ou les
 transports en commun). {connexion_limiter_30}
 
-## Gratuité des transports publics
+## La gratuité des transports publics
 
-L’idée a été lancée par Hidalgo et est en cours d’étude ; la
+L’idée a été lancée par Anne Hidalgo et est en cours d’étude ; la
 difficulté, c’est qu’il n’y a, dans le monde, **aucun exemple de la
 taille de Paris**.
-	Valérie Pécresse attire l’attention sur les problèmes de
+
+Valérie Pécresse attire quant à elle l’attention sur les problèmes de
 financement évidents que cette mesure engendrerait ; il pourrait aussi
 y avoir **des inégalités entre les Parisiens et les banlieusards**.
 {bulletin_quotidien_gratuite_transports}
 
 **Testée à Rome en 1970**, la tentative s’est soldée par un
-**échec**.
-	À Denver et à Austin, le dispositif a **surtout séduit des
+**échec**. À Denver et à Austin, le dispositif a **surtout séduit des
 piétons et des cyclistes**, pas des automobilistes.
-	À Tallinn, capitale de l’Estonie, cela s’est partiellement bien
+
+À Tallinn, capitale de l’Estonie, cela s’est partiellement bien
 passé : **la ville est devenue plus attractive**, ce qui a apporté plus
 d’argent en général, et **le trafic a baissé en centre-ville** ;
 cependant, **il a augmenté en banlieue**.
-	À Singapour, **la tarification dynamique a été adoptée** : les
+
+Enfin, à Singapour, **la tarification dynamique a été adoptée** : les
 transports publics sont gratuits aux heures creuses. {tribune_gratuite_transports}
