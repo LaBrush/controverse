@@ -51,7 +51,7 @@
 		</nav>
 	</div>
 	</div>
-	<div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" id="content">
+	<div class="bd-content" id="content">
 
 		{% for article in articles %}
 			{% if not loop.first and article.isHead %}
@@ -68,16 +68,12 @@
 					}
 				</style>
 
-				<div class="container">
 					{% endif %}
 
-					<article class="p-4 mb-3 mt-2">
-						{{ render(article) }}
-					</article>
+					{{ render(article) }}
 
 					{% endfor %}
 
-				</div>
 			</section>
 
 	</div>
@@ -88,13 +84,16 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
 <script>
 
-	var maxSelected = $("section.section").length - 1;
+	$('section.section').addClass("switch-section");
+
+	var maxSelected = $("section.switch-section").length - 1;
 	var selected = 0 ;
 	var id = location.hash;
 
-	$('section.section').each(function(index){
+	$('section.switch-section').each(function(index){
 		if($(this).find(id).length > 0){
 			selected = index ;
 			return false ;
@@ -120,7 +119,7 @@
 
 
 
-	$('section.section').each(function(index){
+	$('section.switch-section').each(function(index){
 		$(this).css("left", ((index - selected) * 100) + "%")
 
 		if (index == selected){
@@ -133,7 +132,7 @@
 	$(window).on('hashchange', function(e){
 		var id = location.hash;
 
-		$('section.section').each(function(index){
+		$('section.switch-section').each(function(index){
 			if($(this).find(id).length > 0){
 				selected = index ;
 				return false ;
@@ -171,6 +170,21 @@
 
 	$('.fade').delay(2000).fadeOut(400)
 </script>
+
+<script>
+	function msieversion()
+	{
+		var ua = window.navigator.userAgent;
+		var msie = ua.indexOf("MSIE ");
+		return msie > 0; // If Internet Explorer, return true
+	}
+
+	if(msieversion()){
+		$('.switch-section').removeClass('switch-section');
+		$('section').first().append("<div class=\"alert alert-danger show mt-3\" role=\"alert\"> Vous utilisez IE6, nous vous conseillons d'utiliser un navigateur récent pour plus de confort de navigation\n</div>");
+	}
+
+	</script>
 
 </body>
 </html>

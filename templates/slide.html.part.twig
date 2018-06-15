@@ -1,23 +1,4 @@
 
 <div id="{{ article.id }}">
 	{{ article.renderContent() | raw }}
-
-	{% if article.references | length > 0 %}
-		<hr>
-
-		<strong>Références : </strong> <br>
-		<ol>
-			{% for reference in article.references %}
-				<li>
-					{% if reference.type == "article" %}
-						{{ reference.author | default("") }} ({{ reference.year | default("") }}) {{ reference.title }} <em>{{ reference.journal }}</em> {{ reference.month | default("") }} {{ reference.year }}
-					{% else %}
-						Nom de l’auteur, Initiale du prénom (Année de publication) Titre du rapport ou de la note professionnelle (en italiques). Entreprise, mois.
-						({{ reference.year | default("") }}) <em>{{ reference.title }}</em>. {{ reference.author | default("") }}, {{ reference.month | default("") }}
-					{% endif %}
-				</li>
-			{% endfor %}
-		</ol>
-	{% endif %}
-
 </div>
