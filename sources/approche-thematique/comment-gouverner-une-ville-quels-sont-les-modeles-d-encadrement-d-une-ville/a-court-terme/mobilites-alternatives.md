@@ -1,4 +1,3 @@
-
 ### Mobilités alternatives 
  
 #### Politique de Paris 
@@ -42,8 +41,7 @@ quote{« Si les Parisiens peuvent se passer de voitures, chez nous le maillage e
 qu’à cause d’une négligence de l’ancien mandat régional, « il faudra 
 attendre encore quelques années pour que les lignes de RER et les 
 trains de banlieues ne soient plus saturés comme ils le sont 
-aujourd'hui. » {Atlantico - 2016-09-26 - Piétonnisation des voies sur 
-berges Anne Hidalgo veut-elle achever d’interdire Paris aux pauvres} 
+aujourd'hui. » {atlantico_interdire_paris_pauvres} 
  
 **Serge Federbusch, président du parti libéral**, fustige l’*« 
 indigence absolue de la réflexion sur l'accompagnement du projet [de 
@@ -52,17 +50,14 @@ transport alternatif »*. À propos de l’argument sur l’attractivité de
 la capitale, il cite une étude de l'Atelier parisien d'urbanisme qui 
 rappelle que : *« À Paris, **80,2 % des déplacements en automobile ont 
 un motif professionnel**, dont 54 % pour aller au travail et 46 % pour 
-l'exercice même d'une activité. »* {le figaro - 2016-08-25 - 
-Piétonnisation} 
+l'exercice même d'une activité. »* {figaro_vsb_justice} 
  
 #### Le vélo 
 L’usage du vélo a **décuplé entre 1991 et 2017** et s’est 
-démocratisé, à Paris comme en petite couronne. {L'Obs - 2017-10-11 - 
-Réduire la place des voitures à Paris C'est la droite qui a commencé} 
+démocratisé, à Paris comme en petite couronne. {obs_reduire_voiture} 
  
 Cependant, le problème reste la difficulté d’établir **des « 
-liaisons courtes entre les gares et les zones d’emploi »**. {La Gazette - 2017-03-31 - Paris, la région et la métropole vont-elles réussir à 
-penser} 
+liaisons courtes entre les gares et les zones d’emploi »**. {gazette_reussir_penser} 
  
 Selon **Frédéric Héran**, plusieurs moyens permettraient 
 d’encourager le vélo : créer des zones 30 (pour que les voitures 
@@ -72,8 +67,7 @@ dédiés aux vélos. Cependant, il souligne que **le vélo n’aura pas
 beaucoup d’impact sur les émissions**, car on l’utilise majoritairement 
 pour des petits trajets. D’ailleurs beaucoup de convertis au vélo 
 utilisaient déjà un moyen de transport non polluant (la marche ou les 
-transports en commun). {Connexion Transports Territoires - 2016-04-01 - 
-Limiter la vitesse à 30km/h} 
+transports en commun). {connexion_limiter_30} 
  
 #### Gratuité des transports publics 
  
@@ -95,5 +89,4 @@ passé : **la ville est devenue plus attractive**, ce qui a apporté plus
 d’argent en général, et **le trafic a baissé en centre-ville** ; 
 cependant, **il a augmenté en banlieue**. 
 	À Singapour, **la tarification dynamique a été adoptée** : les 
-transports publics sont gratuits aux heures creuses. {La Tribune - 
-2018-03-22 - La gratuité des transports publics : quelle efficacité ?}
+transports publics sont gratuits aux heures creuses. {tribune_gratuite_transports}
