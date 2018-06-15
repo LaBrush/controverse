@@ -1,4 +1,4 @@
-### Mise en place de mesure pour contraindre les véhicules (piétonisation, limitations…) 
+#### Mise en place de mesure pour contraindre les véhicules
 Pour faire évoluer les habitudes de mobilité urbaine, des mesures contraignant les automobilistes peuvent être adoptées par les collectivités. Elles cherchent ainsi à **rendre les voitures moins intéressantes**, que ce soit financièrement, en termes de temps de trajets ou de confort. Ces dernières sont donc délaissées : ce phénomène est appelé **« évaporation du trafic »**.
 
 #### Mettre la voiture au second plan et réduire la pollution en renforçant les limitations de vitesse

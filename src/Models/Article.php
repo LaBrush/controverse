@@ -21,8 +21,6 @@ class Article
 
 	static private $entries = null ;
 
-
-
 	public function __construct($id, $config)
 	{
 		$this->id = $id ;
@@ -56,6 +54,24 @@ class Article
 
 			$parsedown = new Parsedown();
 			$content = $parsedown->text($content);
+
+			$bib = "<ol class='text-muted'>" ;
+
+			foreach (Article::$entries as $entry){
+				$bib .= "<li>" ;
+
+				if($entry["type"] == "article"){
+					$bib .= (isset($entry["author"]) ? $entry["author"] : "") . " (" . (isset($entry["year"]) ? $entry["year"] : "") . ")" . (isset($entry["title"]) ? $entry["title"] : "") . " <em>" . (isset($entry["journal"]) ? $entry["journal"] : "") . "</em>";
+				} else {
+					$bib .= (isset($entry["year"]) ? $entry["year"] : ""). " <em>" . (isset($entry["title"]) ? $entry["title"] : ""). "</em> " . (isset($entry["author"]) ? $entry["author"] : "") . ", " . (isset($entry["month"]) ? $entry["month"] : "");
+				}
+
+				$bib .= "</li>" ;
+			}
+
+			$bib .= "</ol>";
+
+			$content = str_replace("{{bibliographie}}", $bib, $content);
 
 			preg_match_all('/(?<!quote)(?<!\\\\){((.(?!\{))+)(?<!\\\\)}/mU', $content, $matches);
 

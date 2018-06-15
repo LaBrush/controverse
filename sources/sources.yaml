@@ -31,6 +31,10 @@ clause-non-responsabilite:
     name: Clause de non responsabilité
     file: accueil/responsabilite.html
 
+bibliographie:
+    name: Bibliographie
+    file: accueil/bibliographie.md
+
 # Chronologie
 
 
