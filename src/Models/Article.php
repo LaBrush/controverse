@@ -16,6 +16,8 @@ class Article
 	private $menuSep ;
 
 	private $isHead ;
+	private $isTitle ;
+	private $titleLevel ;
 
 	static private $entries = null ;
 
@@ -31,6 +33,8 @@ class Article
 		$this->menuSep = isset($config["menu_sep"]) ? $config["menu_sep"] : null ;
 
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
+		$this->isTitle = isset($config["type"]) && strpos($config['type'], "title") == 0;
+		$this->titleLevel = $this->isTitle ? explode("-", $config['type'])[1] : 0 ;
 
 		if(Article::$entries == null){
 			$parser = new Parser();          // Create a Parser
@@ -42,6 +46,10 @@ class Article
 	}
 
 	public function renderContent(){
+		if($this->isTitle()){
+			return "<div class='container'><h" . $this->titleLevel .">" . $this->getName() . "</h" . $this->titleLevel ."></div>" ;
+		}
+
 		$content = file_get_contents($this->contentFile);
 
 		if(pathinfo($this->contentFile)["extension"] == "md"){
@@ -49,9 +57,7 @@ class Article
 			$parsedown = new Parsedown();
 			$content = $parsedown->text($content);
 
-			$content = preg_replace('/quote\{(.+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$2</footer></blockquote>', $content);
-
-			preg_match_all('/(?<!\\\\){(.+)(?<!\\\\)}/mU', $content, $matches);
+			preg_match_all('/(?<!quote)(?<!\\\\){((.(?!\{))+)(?<!\\\\)}/mU', $content, $matches);
 
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
 				try {
@@ -64,6 +70,10 @@ class Article
 							$citation = $entry ;
 							break ;
 						}
+					}
+
+					if($citation == null){
+						$citation = ["author" => "<span style='color: red;'>" . $matches[0][$i] . "</span>"];
 					}
 
 					if($citation){
@@ -86,6 +96,8 @@ class Article
 
 			$content = str_replace("\{", "{", $content);
 			$content = str_replace("\}", "}", $content);
+
+			$content = preg_replace('/quote\{((.|\n)+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$3</footer></blockquote>', $content);
 
 			$content = "<div class='container'>$content</div>";
 		}
@@ -156,6 +168,22 @@ class Article
 	public function getMenuSep()
 	{
 		return $this->menuSep;
+	}
+
+	/**
+	 * @return bool
+	 */
+	public function isTitle(): bool
+	{
+		return $this->isTitle;
+	}
+
+	/**
+	 * @return int
+	 */
+	public function getTitleLevel(): int
+	{
+		return $this->titleLevel;
 	}
 
 

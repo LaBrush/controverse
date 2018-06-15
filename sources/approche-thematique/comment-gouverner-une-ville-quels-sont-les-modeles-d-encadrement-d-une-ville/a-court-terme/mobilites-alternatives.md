@@ -1,7 +1,7 @@
 
-# Mobilités alternatives 
+### Mobilités alternatives 
  
-## Politique de Paris 
+#### Politique de Paris 
  
 La politique de la ville **n’est pas orientée vers l’interdiction 
 pure de certains types de véhicules**. À la place, elle *« a décidé 
@@ -18,7 +18,7 @@ Ainsi, de 2000 à 2014, Paris a connu **un doublement du nombre de
 déplacements à vélo**, conséquence du triplement du nombre 
 d’aménagements cyclables. {afp_empreinte_delanoe} 
  
-## Covoiturage / voiture partagée 
+#### Covoiturage / voiture partagée 
  
 Selon une étude sur les conséquences éventuelles du covoiturage 
 en Île-de-France, la politique locale devrait essayer de **développer 
@@ -29,7 +29,7 @@ curbing urban sprawl and deterring distant residential location choices
 development policies in the most distant parts of the metropolitan 
 area”* {cleaner_prod_benefits_ride_sharing} 
  
-## Limites des transports publics 
+#### Limites des transports publics 
 Selon **Stéphane Beaudet, vice-président de la région IDF en 
 charge des transports**, les transports publics ne représentent qu’un 
 tiers des déplacements à Paris, un quart en IDF. En fait, **c’est le 
@@ -55,7 +55,7 @@ un motif professionnel**, dont 54 % pour aller au travail et 46 % pour
 l'exercice même d'une activité. »* {le figaro - 2016-08-25 - 
 Piétonnisation} 
  
-## Le vélo 
+#### Le vélo 
 L’usage du vélo a **décuplé entre 1991 et 2017** et s’est 
 démocratisé, à Paris comme en petite couronne. {L'Obs - 2017-10-11 - 
 Réduire la place des voitures à Paris C'est la droite qui a commencé} 
@@ -75,7 +75,7 @@ utilisaient déjà un moyen de transport non polluant (la marche ou les
 transports en commun). {Connexion Transports Territoires - 2016-04-01 - 
 Limiter la vitesse à 30km/h} 
  
-## Gratuité des transports publics 
+#### Gratuité des transports publics 
  
 L’idée a été lancée par Hidalgo et est en cours d’étude ; la 
 difficulté, c’est qu’il n’y a, dans le monde, **aucun exemple de la 

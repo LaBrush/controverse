@@ -1,5 +1,5 @@
 
-## Les véhicules autonomes bientôt sur les routes ?
+### Les véhicules autonomes bientôt sur les routes ?
  
 Pour d’autres acteurs, le futur de la voiture c’est le véhicule autonome. Plusieurs start-up française se sont lancée dans la conception de tels véhicules avec pour ambition de les voir circuler d’ici quelques années. C’est ainsi que Navya a signé un contrat avec EDF pour faire circuler  6 navettes autonomes afin de transporter les employés sur le site de la centrale de Civaux. Plusieurs tests sont en court mais la règlementation française exige pour l’instant la présence d’un opérateur à bord pour veiller au bon fonctionnement du véhicule. La RATP a ainsi conduit une expérimentation sur le pont Charles de Gaulle entre la Gare de Lyon et celle d’Austerlitz en début d’année, avec plus de 30 000 voyageurs qui ont pu monter à leur bord. {atelier_bnp_vehicule_demain}
  

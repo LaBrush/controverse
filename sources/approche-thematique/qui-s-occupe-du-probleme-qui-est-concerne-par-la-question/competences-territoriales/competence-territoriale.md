@@ -1,19 +1,19 @@
 
-# Compétence territoriale : Répartition du pouvoir ? Qui peut agir, comment et où ? 
+### Compétence territoriale : Répartition du pouvoir ? Qui peut agir, comment et où ? 
 
 Différents acteurs peuvent prendre des mesures pour agir sur la mobilité dans Paris. Ces acteurs ont des champs d’action différents, que ce soit en termes de domaines de compétences ou de découpage des territoires sur lesquels leurs pouvoirs s’étendent. Ainsi, planifier des mesures pour la ville demande une grande coopération. La contraposée étant que des divergences entre les acteurs peut être source de difficultés dans la prise de décision et la mise en place d’actions sur le long terme. 
 
-## Anne Hidalgo et le conseil de Paris : un champ d’action limité qui impose une dépendance auprès des autres acteurs
+#### Anne Hidalgo et le conseil de Paris : un champ d’action limité qui impose une dépendance auprès des autres acteurs
 
 L’administration de la ville de Paris agit sur une échelle localisée et restreinte. La ville peut par exemple décider d’étendre les zones de limitations à 30km/h, fermer provisoirement des voies, ou exclure les véhicules les plus polluants dans Paris intra-muros.{La Matinale du Monde - 2016-07-06 - A Paris la moitié de la voirie sera en zone 30 à l’été 2017}
 
 Pour les prises de décision à l’échelle de la Ville, le **Conseil de Paris** est une assemblée d’élus où sont votées des mesures. Des délibérations y sont menées, afin de discuter des projets proposés par le maire. Pour **Anne Hidalgo**, les prises de décisions sont compliquées par le fait que son parti (le PS) ne possède pas la majorité au conseil. En revanche, le soutien des élus d’Europe Ecologie Les Verts lui assurerait la majorité. Selon les propos de **Pierre Chasseray**, délégué général de l’association 40 Millions d’automobilistes, cela expliquerait le fait qu’elle s’accroche au projet de fermeture des voies sur berges, ou plus généralement aux entreprises luttant pour réduire la place de la voiture. Cela constitue pour elle une garanti de soutien des verts, et donc un atout politique. { AFP - 2016-08-23 - Paris Hidalgo veut piétonniser les voies sur berge malgré l’enquête publique} {Entretien avec Pierre Chasseray}
 
-Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales] #4-economie-locale). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
+Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#4-economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
 
 Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir.{AFP - 2016-09-23 - Polémique la piétonisation des berges de Seine rive droite sera votée lundi} {AFP - 2015-05-05 - Paris Anne Hidalgo veut rendre aux piétons les voies sur berge rive droite }
 
-## La région Ile-de-France via Valérie Pécresse et le comité régional : un pouvoir important à travers la gestion des transports publics
+#### La région Ile-de-France via Valérie Pécresse et le comité régional : un pouvoir important à travers la gestion des transports publics
 
 La **région Ile-de-France**, présidée par **Valérie Pécresse**, possède la responsabilité des aménagements territoriaux en ce qui concerne les transports en communs. Son pouvoir s’étend sur tout la région, et donc à fortiori dans la ville de Paris. Cela pose alors des problèmes de coordination entre la  ville et la Région. 
 
@@ -21,7 +21,7 @@ La **région Ile-de-France**, présidée par **Valérie Pécresse**, possède la
 
 **Ile-de-France Mobilités** (anciennement appelé le STIF : Syndicat des transports d’Ile-de-France )  est une instance régionale. Elle est l’autorité organisatrice des transports en Île-de-France, finançant  certains projets comme l’augmentation du nombre de couloirs de bus pendant le mandat de Delanoë. 88% de leur investissement concerne des rémunérations contractuelles de ce type. {Université Paris Est - 2008-11 - Evaluation économique de l'impact des politiques publiques liées à la mobilité, les cas de Paris, Londres, Bogota et Santiago} {https://www.iledefrance-mobilites.fr/decouvrir-ile-de-france-mobilites/ }
 
-## La collaboration à différentes échelles : Paris, la métropole, la région, l’état.
+#### La collaboration à différentes échelles : Paris, la métropole, la région, l’état.
 
 Quels que soient les intérêts des acteurs, tous s’accordent à dire qu’il est nécessaire qu’une coordination existe entre les représentants de territoires à champs d’actions plus ou moins étendus spatialement. Par exemple, pour des mesures telles que la suppression des voitures diesel dans Paris, il peut être intéressant de réfléchir à l'échelle nationale en proposant une prime à la casse. C’est ce qu'**Anne Hidalgo** invitait l’état à faire, dès 2013 (soit avant son élection au poste de maire de Paris). De même, les conceptions de plans pour les politiques de mobilités sont faites en réflexions conjointes de la ville, la région et la métropole. 
 
@@ -35,7 +35,7 @@ Au delà du manque de concertation entre les acteurs agissant pour la mobilité,
 
 Plus généralement, les personnes attaquants la décision de piétonisation de la rive droite en Novembre 2016 indiquent que la principale motivation de leur action est le passage en force de la Ville de Paris sur ce projet. {le Figaro -12-11-2016- Voies sur berge}
 
-## La préfecture de Police : un soutien nécessaire à l’aboutissement de tout projet
+#### La préfecture de Police : un soutien nécessaire à l’aboutissement de tout projet
 
 Le préfet de police doit valider toute mesure de modification de la voirie. Il a autorité en matière de circulation dans la ville de Paris, et son feu vert est essentiel pour permettre aux élus parisiens de mettre en place leurs mesures. Par exemple, pour le projet des voies sur berges, celui-ci a appuyé Anne Hidalgo en permettant une période d’essai en septembre 2016. Ses décisions sont principalement basées sur des critères de sécurité. Ainsi, il cherche notamment à assurer que les véhicules de secours puissent circuler, même dans un contexte de fermeture de voies.
 
@@ -44,9 +44,9 @@ quote{Les conditions de recours à la clause de réversibilité des aménagement
 
 Des concertations entre la maire **Anne Hidalgo** et la préfecture sont courantes afin d’élaborer des projets complets et sûrs. C’est d’ailleurs un fait qui est mis en avant par la maire elle-même, quand elle affirme avoir pris un arrêté de piétonisation des voies sur berges en quote{concertation avec l'Etat et le préfet de police, pour pouvoir maintenir les berges piétonnes.}{Anne Hidalgo} Ainsi, c’est même un argument qu’elle utilise pour critiquer les propositions d’alternatives portées par la région à propos de ce même projet. {Challenges - 2018-03-08 - Voies sur berges à Paris: Hidalgo a signé un nouvel arrêté de piétonnisation }
 
-## La commission d’enquête publique : fournisseur de rapport consultatifs centraux dans les débats publics
+#### La commission d’enquête publique : fournisseur de rapport consultatifs centraux dans les débats publics
 
-La **commission d’enquête publique** de la ville de Paris est une commission formée au sein de l’assemblée nationale et du Sénat. Son rôle est purement consultatif : l’objectif est pour elle est d’estimer les conséquences de décisions, en se basant sur les mesures officielles existantes, prises notamment par **Airparif** ([voir : Qui fait les mesures ?] #3-airparif) . Vis-à-vis des avis qu’elle rend, les élus restent toutefois libres de passer outre ses recommandations, quitte à être les cibles de critiques. 
+La **commission d’enquête publique** de la ville de Paris est une commission formée au sein de l’assemblée nationale et du Sénat. Son rôle est purement consultatif : l’objectif est pour elle est d’estimer les conséquences de décisions, en se basant sur les mesures officielles existantes, prises notamment par **Airparif** ([voir : Qui fait les mesures ?](#3-airparif)) . Vis-à-vis des avis qu’elle rend, les élus restent toutefois libres de passer outre ses recommandations, quitte à être les cibles de critiques. 
 
 Ainsi, dans le cas de la fermeture des voies sur berges, **Anne Hidalgo** a décidé en Août 2016 de faire fi de la condamnation du projet par la commission d’enquête. Cela lui vaut des réactions indignées, notamment par Philippe Goujon, maire d’arrondissement, qui affirme qu’**Anne Hidalgo** n’écoute que les avis qui vont dans le sens du projet. {AFP - 2016-09-07 - Piétonisation des voies sur berges à Paris LR va aller en justice} {AFP - 2016-08-23 - Paris Hidalgo veut piétonniser les voies sur berge malgré l’enquête publique} {Le Moniteur - 2016-08-23 - Anne Hidalgo tient bon sur la piétonisation des voies sur berge} {Le figaro -2016-10-22 - Voies de berge}
 
@@ -56,7 +56,7 @@ Ce poids de la commission dans les débats politiques explique la vive réaction
 
 La mairie de Paris et **Christophe Nadjovski** accusent ainsi la commission d’enquête d’avoir une opinion biaisée sur le projet, et d’avoir minimisé les avantages au profit des inconvénients listés par les opposants. {20 Minutes - 2016-08-22 - Piétonisation des berges rive droite La commission d’enquête a 50 ans de retard} Anne Hidalgo affirme en effet que le rapport de la commission d’enquête ne tient pas compte des motifs environnementaux, sanitaires, urbains et culturels à l'origine de ce projet de piétonisation. {AFP - 2016-08-23 - Paris **Hidalgo** veut piétonniser les voies sur berge malgré l’enquête publique} {Le Moniteur - 2016-08-23 - Anne Hidalgo tient bon sur la piétonisation des voies sur berge}
 
-## Le tribunal administratif : arbitre qui garantit la bonne répartition des pouvoirs
+#### Le tribunal administratif : arbitre qui garantit la bonne répartition des pouvoirs
 
 Le tribunal administratif a un rôle juridique vis-à-vis de la répartition du pouvoir, notamment ici concernant la politique de mobilité territoriale. Ainsi, en cas d’abus de position d’un acteur, il est en son pouvoir de revenir sur des décisions, ou interdire certaines mesures.
 

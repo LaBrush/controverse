@@ -1,10 +1,10 @@
-# Mise en place de mesure pour contraindre les véhicules (piétonisation, limitations…) 
+### Mise en place de mesure pour contraindre les véhicules (piétonisation, limitations…) 
 Pour faire évoluer les habitudes et la politique de mobilité urbaine à Paris, des mesures contraignantes pour les automobilistes peuvent êtres adoptées par les collectivités. L’espoir de telles mesures et de réussir à encourager les automobilistes à abandonner leur véhicule, qui devient moins intéressant pour eux financièrement, en termes de temps de trajets ou de confort. Ce renoncement est appelé l’évaporation du trafic. 
 
-## Mettre la voiture au second plan et réduire la pollution en renforçant les limitations de vitesse
+#### Mettre la voiture au second plan et réduire la pollution en renforçant les limitations de vitesse
 La mairie de Paris prévoit de multiplier les zones 30. Les objectifs d’une telle mesure est double. D’une part, on rend les voies plus sûres pour les modes de transports doux qui circulent autour, comme les vélos. D’autre part, un véhicule limité à 30 km/h pollue beaucoup moins que s’il est limité à 50 km/h. Dominique Riou ingénieur transports à l’Institut d’aménagement et d’urbanisme de l’Ile de-France (IAUIF), indique en effet que la conduite est plus apaisée à cette vitesse : elle se fait avec moins d’accélérations et freinages forts, ce qui est source de pollution. En définitive, limiter à 30km/h encouragerait l’abandon de la voiture au profit de modes plus doux, rendus moins dangereux. {lrp_paris_vsb} {matinale_moitie_voirie_zone_30}
 
-## Contraindre la mobilité en fermant des voies et en piétonnisant 
+#### Contraindre la mobilité en fermant des voies et en piétonnisant 
 Piétonniser un espace urbain, c’est à la fois limiter la place de la voiture en espérant une évaporation du trafic, mais aussi proposer un espace supplémentaire de promenade aux piétons et vélos, et ainsi améliorer la qualité de vie des parisiens. 
 
 L'exécutif parisien espère des reports de circulations temporaires, arguant que les usagers viendront naturellement à changer de moyen de transport à terme. Cela suppose néanmoins que l’offre de transports en communs soit suffisant pour absorber cette évaporation. ([voir Favoriser les mobilités alternatives] #mobilites-alternatives) {afp_pietonisation}

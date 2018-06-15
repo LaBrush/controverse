@@ -120,6 +120,11 @@ approche-thematique:
 
 # qui s'occupe du problème ?
 
+qui-est-concerne:
+    name: Qui est concerné ?
+    type: title-2
+    file: ~
+
 competence-territoriale:
     name: Compétences territoriale
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
@@ -129,6 +134,17 @@ qui-est-consulte:
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
 
 # comment gouverner
+
+modeles-encadrement:
+    name: Quels sont les modeles d'encadrement d'une ville ?
+    type: title-2
+    file: ~
+
+court-terme:
+    name: Mise en place de politiques à court terme
+    type: title-3
+    file: ~
+
 mesures-contraindre-vehicules:
     name: Les mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
@@ -141,10 +157,15 @@ mobilites-alternatives:
     name: Les mobilités alternatives
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
 
+
+long-terme:
+    name: "Vision sur le long terme : le progrès technique"
+    type: title-3
+    file: ~
+
 vehicules-thermiques:
     name: Véhicules thermiques
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
-
 
 voiture-electrique:
     name: Véhicules éléctriques
@@ -172,14 +193,15 @@ airparif:
 
 #quelles-sont-les-inegalites-engendrees
 
+inegalites-engendrees:
+    name: Quelles sont les inégalités engendrées ?
+    type: title-2
+    file: ~
+
 inegalites-spatiales:
     name: Les inégalités spatiales
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
 
-classes-modestes:
-    name: Comment vérifier la concordance entre prévisions et réalité ?
-    file: approche-thematique/quelles-sont-les-inegalites-engendrees/5-classes-modestes.md
-
-inegalites-economie-locale:
-    name: Conséquences sur l'économie locale
-    file: approche-thematique/quelles-sont-les-inegalites-engendrees/4-economie-locale.md
+inegalites-socioprofessionnelle:
+    name: Inégalités socioprofessionnels
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md

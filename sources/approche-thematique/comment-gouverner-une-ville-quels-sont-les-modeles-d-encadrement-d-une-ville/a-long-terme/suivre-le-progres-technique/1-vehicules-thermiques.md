@@ -1,5 +1,5 @@
 
-# Renouvellement du parc automobile : des véhicules thermiques plus propres?
+### Renouvellement du parc automobile : des véhicules thermiques plus propres?
  
 Pour certains, supprimer la voiture individuelle parce qu’elle pollue n’est pas une raison valable puisque le parc automobile est sans cesse en train de s’améliorer et de se renouveler, produisant ainsi des véhicules toujours plus propres.  Ainsi, **Pierre Chesnay**, délégué général de 40 millions d’automobilistes met en garde contre une idée véhiculée par les média selon laquelle la pollution globale de l’air est en augmentation. En réalité, celle-ci décroît et pour lui l’impression que le nombre de pics de pollution augmente vient de l’abaissement des normes sur la qualité de l’air qui résulte de la loi de Corinne Lepage. Ainsi,lorsque l’on prétend que la fermeture des voies sur Berges a laissé le taux de pollution inchangé c’est donc un échec en soit puisqu’il aurait dû diminuer. Mais rappelons que le réel impact de la fermeture des voies sur Berges fait l’objet de vifs débats et renvoie aux problématiques liées à la mesure et son interprétation ([voir Comment mesurer ?](#airparif)).
 
