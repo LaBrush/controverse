@@ -51,7 +51,7 @@
 		</nav>
 	</div>
 	</div>
-	<div class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" id="content">
+	<div class="bd-content" id="content">
 
 		{% for article in articles %}
 			{% if not loop.first and article.isHead %}
@@ -68,16 +68,12 @@
 					}
 				</style>
 
-				<div class="container">
 					{% endif %}
 
-					<article class="p-4 mb-3 mt-2">
-						{{ render(article) }}
-					</article>
+					{{ render(article) }}
 
 					{% endfor %}
 
-				</div>
 			</section>
 
 	</div>

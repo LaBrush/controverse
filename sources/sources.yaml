@@ -106,12 +106,24 @@ approche-thematique:
     isHead: true
     color: "#2ecc71"
 
+# qui s'occupe du problème ?
 
+competence-territoriale:
+    name: Compétences territoriale
+    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
+
+qui-est-consulte:
+    name: Qui est consulté ?
+    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
 
 # comment gouverner
-mesures-containdre-vehicules:
+mesures-contraindre-vehicules:
     name: Les mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
+
+selectionner-vehicules:
+    name: Séléctionner les véhicules ?
+    file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/selectionner-vehicules.md
 
 mobilites-alternatives:
     name: Les mobilités alternatives
@@ -148,18 +160,14 @@ airparif:
 
 #quelles-sont-les-inegalites-engendrees
 
-inegalites-economie-locale:
-    name: Comment prévoir les conséquences ?
-    file: approche-thematique/quelles-sont-les-inegalites-engendrees/4-economie-locale.md
+inegalites-spatiales:
+    name: Les inégalités spatiales
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
 
 classes-modestes:
     name: Comment vérifier la concordance entre prévisions et réalité ?
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/5-classes-modestes.md
 
-competence-territoriale:
-    name: Compétences territoriale
-    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
-
-qui-est-consulte:
-    name: Comment vérifier la concordance entre prévisions et réalité ?
-    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
+inegalites-economie-locale:
+    name: Conséquences sur l'économie locale
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/4-economie-locale.md

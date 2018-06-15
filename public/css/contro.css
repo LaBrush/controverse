@@ -33,8 +33,6 @@ p {
 
 	border: none;
 	overflow: scroll;
-
-	box-shadow: 10px 0 10px #dadada;
 }
 
 #sidebar_toggle {
@@ -61,6 +59,25 @@ p {
 	}
 }
 
+.background-image {
+	height: 100vh;
+	width: 100% ;
+	background-image: url('../minivan.jpg');
+
+	background-size:     cover;
+	background-repeat:   no-repeat;
+	background-position: center center;
+
+	padding-top: 15vh ;
+
+	color: white ;
+	text-align: center;
+}
+
+.background-image h1 {
+	font-size: 7em ;
+	color: white !important;
+}
 
 /*==================================
     TIMELINE

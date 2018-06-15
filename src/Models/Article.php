@@ -77,6 +77,8 @@ class Article
 			$content = str_replace("\{", "{", $content);
 			$content = str_replace("\}", "}", $content);
 
+			$content = "<div class='container'>$content</div>";
+
 		}
 
 		/* Réécriture des urls */
