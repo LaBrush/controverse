@@ -44,8 +44,6 @@ class Article
 	public function renderContent(){
 		$content = file_get_contents($this->contentFile);
 
-		//dump($this);
-
 		if(pathinfo($this->contentFile)["extension"] == "md"){
 
 			$parsedown = new Parsedown();
@@ -55,22 +53,34 @@ class Article
 
 			preg_match_all('/(?<!\\\\){(.+)(?<!\\\\)}/mU', $content, $matches);
 
-			$classes = [] ;
-
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
 				try {
-					$c = $i + 1 ;
-					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$c</sup> ", $content, 1);
-					$classes[] = $matches[1][$i];
+
+					$citation_key = $matches[1][$i];
+					$citation = null ;
+
+					foreach(Article::$entries as $entry){
+						if($entry["citation-key"] == $citation_key){
+							$citation = $entry ;
+							break ;
+						}
+					}
+
+					if($citation){
+						$author = "" ;
+						$year = "" ;
+
+						if(isset($citation["author"])){ $author = $citation["author"] ; }
+						if(isset($citation["journal"])){ $author = $citation["journal"] ; }
+
+						if(isset($citation["year"])){ $year = ", " . $citation["year"]; }
+
+						$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<span class='text-muted'>(" . $author . $year . ")</span>", $content, 1);
+					}
 
 				} catch (\Exception $e){
-					throw new \Exception($this->name);
-				}
-			}
-
-			foreach (Article::$entries as $entry){
-				if(in_array($entry["citation-key"], $classes)){
-					$this->references[] = $entry ;
+					//throw new \Exception($this->name);
+					throw $e ;
 				}
 			}
 
@@ -78,7 +88,6 @@ class Article
 			$content = str_replace("\}", "}", $content);
 
 			$content = "<div class='container'>$content</div>";
-
 		}
 
 		/* Réécriture des urls */

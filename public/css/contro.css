@@ -1,4 +1,4 @@
-section.section {
+section.switch-section {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -8,7 +8,8 @@ section.section {
 
 	height: 100vh;
 	width: 100%;
-	overflow: scroll;
+	overflow-y: scroll;
+	overflow-x: hidden;
 	z-index: -1;
 }
 
@@ -62,7 +63,7 @@ p {
 .background-image {
 	height: 100vh;
 	width: 100% ;
-	background-image: url('../minivan.jpg');
+	background-image: url('../images/minivan.jpg');
 
 	background-size:     cover;
 	background-repeat:   no-repeat;

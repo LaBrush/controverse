@@ -19,6 +19,18 @@ accueil:
     isHead: true
     color: "#000"
 
+cartographie:
+    name: Cartographie de la controverse
+    file: accueil/cartographie.html
+
+equipe:
+    name: Qui sommes nous ?
+    file: accueil/equipe.html
+
+clause-non-responsabilite:
+    name: Clause de non responsabilité
+    file: accueil/responsabilite.html
+
 # Chronologie
 
 

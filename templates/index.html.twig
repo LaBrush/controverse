@@ -84,13 +84,16 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
 <script>
 
-	var maxSelected = $("section.section").length - 1;
+	$('section.section').addClass("switch-section");
+
+	var maxSelected = $("section.switch-section").length - 1;
 	var selected = 0 ;
 	var id = location.hash;
 
-	$('section.section').each(function(index){
+	$('section.switch-section').each(function(index){
 		if($(this).find(id).length > 0){
 			selected = index ;
 			return false ;
@@ -116,7 +119,7 @@
 
 
 
-	$('section.section').each(function(index){
+	$('section.switch-section').each(function(index){
 		$(this).css("left", ((index - selected) * 100) + "%")
 
 		if (index == selected){
@@ -129,7 +132,7 @@
 	$(window).on('hashchange', function(e){
 		var id = location.hash;
 
-		$('section.section').each(function(index){
+		$('section.switch-section').each(function(index){
 			if($(this).find(id).length > 0){
 				selected = index ;
 				return false ;
@@ -177,7 +180,7 @@
 	}
 
 	if(msieversion()){
-		$('.section').removeClass('section');
+		$('.switch-section').removeClass('switch-section');
 		$('section').first().append("<div class=\"alert alert-danger show mt-3\" role=\"alert\"> Vous utilisez IE6, nous vous conseillons d'utiliser un navigateur récent pour plus de confort de navigation\n</div>");
 	}
 
