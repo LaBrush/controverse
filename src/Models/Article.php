@@ -60,7 +60,7 @@ class Article
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
 				try {
 					$c = $i + 1 ;
-					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$c</sup>", $content, 1);
+					$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<sup>$c</sup> ", $content, 1);
 					$classes[] = $matches[1][$i];
 
 				} catch (\Exception $e){
