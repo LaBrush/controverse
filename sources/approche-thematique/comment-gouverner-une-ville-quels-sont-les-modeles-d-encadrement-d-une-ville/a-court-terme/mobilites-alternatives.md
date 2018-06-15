@@ -71,11 +71,11 @@ transports en commun). {connexion_limiter_30}
 
 ## La gratuité des transports publics
 
-L’idée a été lancée par Anne Hidalgo et est en cours d’étude ; la
+L’idée a été lancée par **Anne Hidalgo** et est en cours d’étude ; la
 difficulté, c’est qu’il n’y a, dans le monde, **aucun exemple de la
 taille de Paris**.
 
-Valérie Pécresse attire quant à elle l’attention sur les problèmes de
+**Valérie Pécresse** attire quant à elle l’attention sur les problèmes de
 financement évidents que cette mesure engendrerait ; il pourrait aussi
 y avoir **des inégalités entre les Parisiens et les banlieusards**.
 {bulletin_quotidien_gratuite_transports}
