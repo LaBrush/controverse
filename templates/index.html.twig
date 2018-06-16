@@ -36,7 +36,17 @@
 							<a class="bd-toc-link" href="#{{ article.id }}">{{ article.name }}</a>
 							<ul class="nav bd-sidenav">
 					{% else %}
-						<li><a href="#{{ article.id }}">{{ article.name }}</a></li>
+						<li>
+							<a href="#{{ article.id }}">
+								{% if article.titleLevel == 2 %}
+									<strong class="stronger">{{ article.name }}</strong>
+								{% elseif article.titleLevel == 3 %}
+									<strong>{{ article.name }}</strong>
+								{% else %}
+									{{ article.name }}
+								{% endif %}
+							</a>
+						</li>
 					{% endif %}
 
 					{% if article.menuSep %}
@@ -93,6 +103,34 @@
 	var selected = 0 ;
 	var id = location.hash;
 
+	var updateBackListener = function(){
+
+		$target = $($(this).attr("href"));
+
+		var $cur = $(this) ;
+		while($cur.attr('id') == null && $cur.length > 0){
+			$cur = $cur.parent();
+		}
+
+		$backButton.remove();
+
+		if($cur.attr('id')){
+			$backButton.find('a')
+				.text($cur.find('h1,h2,h3,h4,h5,h6').first().text())
+				.attr("href", "#" + $cur.attr('id'))
+			;
+
+			console.log($target);
+			$backButton.prependTo($target);
+			$backButton.find('a').on('click', updateBackListener);
+
+		}
+	};
+
+	var $backButton = $('<div class="container"><p class="alert alert-success">Revenir à <a href="#">ancien</a></p></div>');
+	$('section.switch-section a').click(updateBackListener);
+
+
 	$('section.switch-section').each(function(index){
 		if($(this).find(id).length > 0){
 			selected = index ;
@@ -117,8 +155,6 @@
 		});
 	}
 
-
-
 	$('section.switch-section').each(function(index){
 		$(this).css("left", ((index - selected) * 100) + "%")
 
@@ -132,8 +168,11 @@
 	$(window).on('hashchange', function(e){
 		var id = location.hash;
 
+		if(id === ""){ return ; }
+
 		$('section.switch-section').each(function(index){
 			if($(this).find(id).length > 0){
+				isTrueHash = true;
 				selected = index ;
 				return false ;
 			}
@@ -154,6 +193,7 @@
 				break;
 			default: return; // exit this handler for other keys
 		}
+		location.hash = "" ;
 		refresh();
 		e.preventDefault(); // prevent the default action (scroll / move caret)
 	});
@@ -166,7 +206,7 @@
 
 	$('#sidebar a').click(function(){
 		$('#sidebar').toggle("slide");
-	})
+	});
 
 	$('.fade').delay(2000).fadeOut(400)
 </script>

@@ -115,7 +115,7 @@ class Article
 
 			$content = preg_replace('/quote\{((.|\n)+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$3</footer></blockquote>', $content);
 
-			$content = "<div class='container'>$content</div>";
+			$content = "<div class='container text-justify'>$content</div>";
 		}
 
 		/* Réécriture des urls */

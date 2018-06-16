@@ -17,10 +17,6 @@ img {
 	max-width: 100% ;
 }
 
-p {
-	text-align: justify;
-}
-
 .blockquote {
 	font-style: italic;
 }
@@ -53,6 +49,10 @@ p {
 	height: 100%;
 }
 
+.bd-toc-link {
+	font-size: 120%;
+}
+
 @media(min-width: 768px) {
 	.bd-links {
 		max-height: calc(100vh - 4rem);
@@ -78,6 +78,10 @@ p {
 .background-image h1 {
 	font-size: 7em ;
 	color: white !important;
+}
+
+.stronger {
+	font-size: 110%;
 }
 
 /*==================================
