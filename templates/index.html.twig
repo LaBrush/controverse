@@ -112,22 +112,23 @@
 			$cur = $cur.parent();
 		}
 
-		$backButton.remove();
+		$('.back-button').remove();
+
+		console.log($cur);
 
 		if($cur.attr('id')){
+			var $backButton = $('<div class="container back-button"><p class="alert alert-success">Revenir à <a href="#">ancien</a><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></p></div>');
+
 			$backButton.find('a')
 				.text($cur.find('h1,h2,h3,h4,h5,h6').first().text())
 				.attr("href", "#" + $cur.attr('id'))
 			;
 
-			console.log($target);
-			$backButton.prependTo($target);
 			$backButton.find('a').on('click', updateBackListener);
-
+			$backButton.prependTo($target).clone().appendTo($target);
 		}
 	};
 
-	var $backButton = $('<div class="container"><p class="alert alert-success">Revenir à <a href="#">ancien</a></p></div>');
 	$('section.switch-section a').click(updateBackListener);
 
 
