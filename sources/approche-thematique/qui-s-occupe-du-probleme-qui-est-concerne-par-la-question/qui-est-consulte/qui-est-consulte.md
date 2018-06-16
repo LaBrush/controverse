@@ -17,10 +17,6 @@ C’est également le point de vue de **Serge Federbusch, président du Parti de
 
 ### Un autre sondage en 2017
 **En juin 2017**, un sondage IPSOS est commandé par **la mairie de Paris**. 66 % des Parisien·ne·s se disent favorables à sa politique de réduction de la place de la voiture, et 55 % d’entre eux·elles sont en faveur de la piétonisation {La Tribune - 2018-03-08 - Voies sur berges les Parisiens donnent raison à Hidalgo}.
-<<<<<<< HEAD
-
-### La communication avec les associations de citoyens
-**Pierre Chasseray, délégué général de l’association 40 millions d’automobilistes** — qui se revendique comme étant la plus présente dans l’opposition —, se plaint du manque de communication avec la mairie de Paris. Ainsi, madame Hidalgo n’a jamais voulu le rencontrer ou parler avec lui, que ce soit par lettre ou lors d’un entretien.
 
 ### La communication avec les associations de citoyens
 **Pierre Chasseray, délégué général de l’association 40 millions d’automobilistes** — qui se revendique comme étant la plus présente dans l’opposition —, se plaint du manque de communication avec la mairie de Paris. Ainsi, **madame Hidalgo** n’a jamais voulu le rencontrer ou parler avec lui, que ce soit par lettre ou lors d’un entretien.
