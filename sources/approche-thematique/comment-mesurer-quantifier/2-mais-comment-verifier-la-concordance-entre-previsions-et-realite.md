@@ -1,8 +1,16 @@
 # Qui réalise les mesures ?
 
-## Que mesurer ?
+En Île-de-France, les mesures sont réalisées par des organismes proches des collectivités territoriales : Direction de la voirie et des déplacements de la Mairie de Paris, Direction des routes d’Île-de-France de la Préfecture de Police de Paris ou encore Airparif. La mesure étant une activité difficile et l’installation de capteurs étant onéreuse, les acteurs réalisant ces mesures sont donc peu nombreux : ainsi les données utilisées par les différents organismes des comités d’étude ou de suivi proviennent pour leur majorité de sources communes. Dès lors, seule l’absence de mesures de certaines grandeurs est critiquée par les acteurs comme **Olivier Blond**, la fiabilité et la précision des résultats étant la même pour chacune de leurs exploitations.
 
-## Une évaporation du trafic ?
-L’un des problèmes majeur soulevé lorsqu’on veut mesurer l’impact des politiques sur la circulation est l’(évaporation de la circulation)(#bazar-et-etude-de-cas), c’est à dire que  certains usagers vont délaisser leur voitures au profits d’autres moyens de transports. Comme expliqué dans l’étude de cas, les principaux débats portent sur l’existence de cette évaporation du trafic  mais également sur le temps au bout duquel on pourra effectivement observer ses effets. Ainsi les mesures sur des horizons de temps trop faibles, comme l’explique Olivier Blond ou Frank Laval ne seront pas pertinentes.
+A Paris et dans ses environs, les données relatives au trafic automobile, à savoir les temps de parcours et les débits de véhicules, sont relevées par la Direction de la voirie et des aménagements de la Mairie de Paris et la Direction des Routes d’Île-de-France (DiRIF), membre de la Direction Régionale et Interdépartementale de l’Equipement et de l’Aménagement (DRIEA), qui mettent ensuite à disposition des organismes d’étude les données recueillies sur les routes d’Île-de-France, notamment par l’intermédiaire du site SYTADIN. Ces données peuvent être affinées en utilisant les applications TomTom et Google Maps (préfecture de police de Paris) ou Coyote (Institut d’Aménagement et d’Urbanisme (IAU) d’Île-de-France). 
 
-**Tous ces paramètres, parfois difficilement mesurables ou faisant l’objet de débat sont pourtant essentiels afin de déterminer l’impact réel des politiques visant à restreindre la place de la voiture en ville sur la pollution ou le trafic.**
+A Paris et en Île-de-France, Airparif est l’organisme chargé de mesurer les concentrations de ces particules, de déterminer leurs sources et ainsi d’évaluer l’efficacité des projets mis en place par les collectivités. Aujourd’hui Airparif est la seule source de données sur la qualité de l’air à Paris et détient le monopole depuis plus de 20 ans : les tentatives de mesures d’autres organismes sont très peu nombreuses car il s’agit d’une tâche compliquée. {Entretien Olivier Blond, Respire}
+
+quote{« Même si les mesures d’Airparif sont fiables, elles demeurent lacunaires. »}{Olivier Blond, membre du Conseil d’administration d’Airparif et président de Respire{Entretien Olivier Blond, Respire}
+
+En effet, une station fixe de mesure coûte plus d’un million d’euros ce qui limite leur nombre à 70 en Île-de-France en 2018. Olivier Blond explique que des modélisations 3D très fines peuvent alors être construites mais elles fournissent seulement des estimations dans certaines zones qui dépendent alors des hypothèses retenues. {Entretien Olivier Blond, Respire}. 
+
+**Peu d'organismes réalisent donc des mesures qui est une activité difficile et onéreuse. Les débats ne portent donc pas sur la fiabilité des mesures en elle même, mais sur les hypothèses retenues et leur interprétation**
+
+
+
