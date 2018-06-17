@@ -195,7 +195,7 @@ vehicules-autonomes:
 
 #quantifier
 
-problème_mesure:
+probleme-mesure:
     name: Le problème de la mesure
     type: title-2
     file: ~
