@@ -6,7 +6,7 @@ En août 2016, **la commission d’enquête** estime que le projet de piétonisa
 
 Conséquences : les commerçants se plaignent d’une diminution de leur chiffre d’affaire {figaro-vsb-justice} mais également d'un éloignement entre la zone piétone et les enseignes qui réduit leur fréquentation. {figaro-vsb-divisent}
 
-C’est pour ces raisons que plusieurs commerçants ont accompagné les riverains dans un recours à la justice pour obtenir la réouverture des voies sur berge. {point-revers-hidalgo} Cette situation fait écho à la proposition du groupe des Républicains au Conseil de Paris en amont du projet de piétonniser les quais hauts. {afp-rendre-berges} En réponse aux inquiétudes formulées par la **commission d’enquête**, **Anne Hidalgo** argumente en faveur de la piétonisation de la rive droite car elle améliorerait l’image internationale de Paris et attirerait ainsi marques de luxe et touristes. {jdd-projet-hidalgo}
+C’est pour ces raisons que plusieurs commerçants ont accompagné les riverains dans un recours à la justice pour obtenir la réouverture des voies sur berge. {point-revers-hidalgo} Cette situation fait écho à la proposition du groupe des Républicains au Conseil de Paris en amont du projet de piétonniser les quais hauts. {afp-rendre-berges} En réponse aux inquiétudes formulées par la **commission d’enquête**, **people{Anne Hidalgo}{anne-hidalgo}** argumente en faveur de la piétonisation de la rive droite car elle améliorerait l’image internationale de Paris et attirerait ainsi marques de luxe et touristes. {jdd-projet-hidalgo}
 
 ## Des inégalités renforcées à cause des mesures anti-voitures ?
 

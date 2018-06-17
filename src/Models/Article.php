@@ -5,6 +5,7 @@ namespace App\Models ;
 use Parsedown;
 use RenanBr\BibTexParser\Listener;
 use RenanBr\BibTexParser\Parser;
+use Symfony\Component\DomCrawler\Crawler;
 
 class Article
 {
@@ -131,10 +132,6 @@ class Article
 			$content = preg_replace('/quote\{((.|\n)+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$3</footer></blockquote>', $content);
 
 			# ajout des noms de personnes
-			foreach(People::$list as $people){
-				$content = str_replace($people->getName(), $this->makeHover($people), $content);
-			}
-
 			$content = preg_replace_callback("/people{(.+)}{(.+)}/U", function($arg){
 
 				foreach (People::$list as $people){

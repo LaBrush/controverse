@@ -138,6 +138,7 @@ qui-est-concerne:
     type: title-2
     file: ~
     illustration: approche-thematique/illustrations/qui_est_concerne.jpg
+    new_page: true
 
 competence-territoriale:
     name: Compétences territoriale
@@ -155,6 +156,7 @@ modeles-encadrement:
     type: title-2
     file: ~
     illustration: approche-thematique/illustrations/modeles_encadrement.jpg
+    new_page: true
 
 court-terme:
     name: Mise en place de politiques à court terme
@@ -199,6 +201,7 @@ problème_mesure:
     name: Le problème de la mesure
     type: title-2
     file: ~
+    new_page: true
 
 comment-prevoir-les-consequences:
     name: Que faut-il mesurer ?
@@ -220,6 +223,7 @@ inegalites-engendrees:
     type: title-2
     file: ~
     illustration: approche-thematique/illustrations/inegalites_spatiales.jpg
+    new_page: true
 
 inegalites-spatiales:
     name: Inégalités spatiales

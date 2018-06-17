@@ -15,7 +15,7 @@ Piétonniser un espace urbain, c’est à la fois **limiter la place de la voitu
 
 Face aux critiques de sa politique de piétonnisation, l'exécutif parisien espère **des reports de circulations temporaires**, arguant que les usagers viendront naturellement à changer de moyen de transport à terme. Cela suppose néanmoins que l’offre de transports en communs soit suffisante pour absorber cette évaporation. ([voir Favoriser les mobilités alternatives](#mobilites-alternatives)) {afp-pietonisation}
 
-Anne Hidalgo présente le projet de piétonnisation des voies sur berges comme une **modification de la place de la voiture au sein de la ville**. D’ailleurs, bien que la Région soit opposée au projet tel quel, elle s’accorde avec la ville sur le fait qu’il faut **réduire la place de l’automobile**, jugée polluante.
+people{Anne Hidalgo}{anne-hidalgo} présente le projet de piétonnisation des voies sur berges comme une **modification de la place de la voiture au sein de la ville**. D’ailleurs, bien que la Région soit opposée au projet tel quel, elle s’accorde avec la ville sur le fait qu’il faut **réduire la place de l’automobile**, jugée polluante.
 
 En ce sens, les élus de la Région ont été amenés à **proposer des projets alternatifs**, basés sur une fermeture progressive des voies sur berge avec une meilleure utilisation des lieux, notamment des 800 mètres de tunnel au niveau des Tuileries. {moniteur-hidalgo-tient-bon} {lrp-paris-vsb} {express-pietonisation-paris}
 
