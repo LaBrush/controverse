@@ -4,6 +4,7 @@ Dans un deuxième temps, pour vérifier la concordance entre prévision et réal
 
 # Que faut-il mesurer?
 
+## Impact sur la polution 
 *Selon Olivier Blond, président de l'association Respire, trois grandeurs sont essentielles pour évaluer les impacts des différentes mesures prises sur la pollution : l’émission individuelle des véhicules, la concentration de l’air ainsi que l’exposition individuelle.* 
 
 Les **émissions individuelles** des véhicules font l’objet de normes européennes, définissant des taux d’émissions que les véhicules doivent respecter pour être commercialisé. Ainsi, certains constructeurs ou équipementiers automobiles annoncent la création de moteurs innovants, avec pour Bosch par exemple, des émissions jusqu’à dix fois inférieures aux normes en vigueur. {monde_bosch_revolution}
@@ -16,12 +17,11 @@ Un autre point source de débats est que tous les polluants ne sont pas mesurés
 
 Enfin, **l’exposition individuelle**, c'est-à-dire les quantités de chaque composant présents dans l’air que respire une personne au cours de sa vie est une grandeur très difficilement mesurable. Pour l'instant, elle fait l'objet d'estimations très grossières puisqu'elle est calculée en réalisant une moyenne annuelle sur le lieu d'habitation. Or,  cette exposition va dépendre de nombreux paramètres comme le métier de l'individu, du niveau de richesse ou encore des modes de transports utilisés. Ainsi une personne travaillant dans un bureau est bien moins exposée qu'un officier de police, de même qu’une personne se déplaçant en vélo plutôt qu’en métro où l’air est extrêmement riche en particules fines. **insérer image particules et pollution**
 
-## Qui réalise les mesures ?
-A Paris et en Île-de-France, **Airparif** est l’organisme chargé de mesurer les concentrations de ces particules, de déterminer leurs sources et ainsi d’évaluer l’efficacité des projets mis en place par les collectivités. Aujourd’hui Airparif est la seule source de données sur la qualité de l’air à Paris et détient le monopole depuis plus de 20 ans : les tentatives de mesures d’autres organismes sont très peu nombreuses car il s’agit d’une tâche compliquée. {Entretien Olivier Blond, Respire}
+## Impact sur la circulation  
+Les acteurs s’accordent davantage sur les grandeurs à mesurer pour évaluer les conséquences des projets mis en place sur la circulation automobile. Les **temps de parcours** et le **comptage des véhicules**  sont les deux principales grandeurs retenues. Les temps de parcours sont généralement obtenues à l’aide des appareils embarqués dans les véhicules utilisant des données GPS tandis que le comptage des véhicules est réalisé en utilisant des boucles électromagnétiques disposées sur la chaussée. Des informations complémentaires sur les méthodologies utilisées sont présentées sur le site de la Direction des Routes d’Île-de-France (DiRIF) (http://www.dir.ile-de-france.developpement-durable.gouv.fr/donnees-routieres-r467.html). 
 
-quote{« Même si les mesures d’Airparif sont fiables, elles demeurent lacunaires. »}{Olivier Blond, membre du Conseil d’administration d’Airparif et président de Respire{Entretien Olivier Blond, Respire}
+Toutefois, Frédéric Héran professeur spécialiste des questions de mobilité souligne que ces organismes « ont déjà plus de mal à mesurer combien d'usagers changent de mode de déplacement » {l Express - 23-11-2016 - voies sur berges} et que la mesure de paramètres complémentaires est déjà plus difficile à mettre en oeuvre. 
 
-En effet, une station fixe de mesure coûte plus d’un million d’euros ce qui limite leur nombre à 70 en Île-de-France en 2018. Olivier Blond explique que des modélisations 3D très fines peuvent alors être construites mais elles fournissent seulement des estimations dans certaines zones qui dépendent alors des hypothèses retenues. {Entretien Olivier Blond, Respire}. 
 
 
 
