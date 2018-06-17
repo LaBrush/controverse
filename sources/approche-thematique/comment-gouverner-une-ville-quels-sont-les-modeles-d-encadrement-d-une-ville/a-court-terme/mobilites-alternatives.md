@@ -15,6 +15,8 @@ L’idée a été lancée par people{Anne Hidalgo}{anne-hidalgo} et est aujourd�
 Valérie Pécresse attire l’attention sur les problèmes de financement évidents que cette mesure engendrerait ; il pourrait aussi y avoir **des inégalités entre les Parisiens et les banlieusards**. {bulletin-quotidien-gratuite-transports}
 
 ##### Le vélo
+![Vélo sur berges (source : flikr.com)](2262242541_035d50c5c5_o.jpg)
+
 L’usage du vélo a **décuplé entre 1991 et 2017** et s’est démocratisé, à Paris comme en petite couronne. {obs-reduire-voiture} Cependant, le problème reste la difficulté d’établir **des « liaisons courtes entre les gares et les zones d’emploi »**. {gazette-reussir-penser}
 
 Selon **Frédéric Héran**, spécialiste de la mobilité, plusieurs moyens permettraient d’encourager le vélo : créer des zones 30 (pour que les voitures puissent cohabiter avec le reste des usagers sans problème), des aménagements cyclables sur les avenues plus rapides, et des services dédiés aux vélos. Cependant, il souligne que **le vélo n’aura pas beaucoup d’impact sur les émissions**, car on l’utilise majoritairement pour des petits trajets. D’ailleurs beaucoup de convertis au vélo utilisaient déjà un moyen de transport non polluant (la marche ou les transports en commun). {connexion-limiter-30}
