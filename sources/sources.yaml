@@ -23,6 +23,11 @@ cartographie:
     name: Cartographie de la controverse
     file: accueil/cartographie.html
 
+chronologie-controverse:
+    name: Chronologie de la controverse
+    file: accueil/chronologie-controverse.html
+    color: "e74c3c"
+
 acteurs:
     name: Acteurs de la controverse
     file: accueil/acteurs.html
