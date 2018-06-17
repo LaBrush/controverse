@@ -10,7 +10,7 @@ De plus, la Commission d’enquête invite la Mairie de Paris à inclure dans l�
 
 **Christophe Najdovski** (Europe Ecologie Les Verts), adjoint d’Anne Hidalgo en charge des transports rétorque en affirmant que des études d’impact sur un périmètre plus large ont déjà été réalisées : _« Nous avions alors regardé les reports de circulation dans Paris, sur le périphérique et en dehors de Paris. Nous avions alors mis en évidence que les reports de circulation se faisaient essentiellement dans Paris intra-muros, ils étaient marginaux sur le périphérique et quasiment inexistant en dehors de Paris. »_ {20-minutes-50-ans-retard}. Il poursuit en précisant que _« les études montrent que la piétonisation des berges rive droite entraîneront des reports de circulation sur les quais hauts et le boulevard Saint-Germain. »_ tandis que **la maire de Paris** complète en affirmant que ce report de circulation est _« tout à fait absorbable »_ sur ces deux axes. {afp-hidalgo-pietoniser}
 
-![plan de Paris float-right](1-fermeture-rive-droite.png)
+![plan de Paris float-right col-5](1-fermeture-rive-droite.png)
 
 ## Une évaporation de la circulation ?
 
