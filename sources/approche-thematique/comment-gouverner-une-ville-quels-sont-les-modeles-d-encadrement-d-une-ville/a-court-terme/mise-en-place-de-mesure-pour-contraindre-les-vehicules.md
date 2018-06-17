@@ -10,7 +10,7 @@ Par ailleurs, un véhicule limité à 30 km/h **pollue beaucoup moins** que s�
 
 En définitive, limiter la vitesse à 30 km/h encouragerait **l’abandon de la voiture au profit de modes de transport plus doux** et rendus moins dangereux. {lrp-paris-vsb} {matinale-moitie-voirie-zone-30}
 
-### Fermer des voies pour les piétonniser
+#### Fermer des voies pour les piétonniser
 Piétonniser un espace urbain, c’est à la fois **limiter la place de la voiture** en espérant une évaporation du trafic, mais aussi proposer **un espace supplémentaire de promenade** aux piétons et vélos et ainsi améliorer la qualité de vie des citadins.
 
 Face aux critiques de sa politique de piétonnisation, l'exécutif parisien espère **des reports de circulations temporaires**, arguant que les usagers viendront naturellement à changer de moyen de transport à terme. Cela suppose néanmoins que l’offre de transports en communs soit suffisante pour absorber cette évaporation. ([voir Favoriser les mobilités alternatives](#mobilites-alternatives)) {afp-pietonisation}
