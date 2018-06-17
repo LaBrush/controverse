@@ -8,7 +8,7 @@ Le véhicule autonome représente cependant **un véritable défi technologique*
 
 Monsieur Sapet, président de Navya assure que **le véhicule autonome saura répondre à ces défis technologiques** grâce à ses multiples capteurs assurant la collecte *« de données importantes pour assurer la sécurité de fonctionnement de nos véhicules »*. Un réseau 5G est également nécessaire pour **assurer la communication des véhicules** entre eux mais aussi avec les infrastructures et les autres usagers de la route.
 
-![La voiture sans chauffeur (Salon Viva Technology, Parc des expositions, 2 juillet 2016) (photographe : Jean Pierre Dalbera)  float-right col-6](LavoituresanschauffeurSalonVivaTechnologyParisParcdesexpositions2Juillet2016JeanPierreDalbera.png)
+![La voiture sans chauffeur (Salon Viva Technology, Parc des expositions, 2 juillet 2016) (photographe : Jean Pierre Dalbera)  float-right col-6](voituregoogle.jpg)
 
 L’accident mortel impliquant une voiture sans chauffeur et la société Uber qui a coûté la vie à une piétonne le 18 mars dernier suscite encore des débats sur la sécurité de tels engins. Un autre problème soulevé est **d’ordre éthique**. Que devrait faire une voiture autonome face à un dilemme moral, sauver la vie de son passager ou le sacrifier pour en sauver d’autres ? Si la logique suivie peut être de sauver le plus grand nombre de vie, **aucun consommateur n’est prêt à acheter un véhicule qui pourrait volontairement le sacrifier**. {point-navya} {france-bleu-autonome-periph} {figaro-francais-murs}
 
