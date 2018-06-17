@@ -14,7 +14,7 @@ Les données sont recueillies et analysées par différents organismes : la poll
 
 Quelques jours après la demande de mise en place d’un comité de suivi par la **Préfecture de police de Paris**, la présidente de la Région Île-de-France, **Valérie Pécresse** annonce la création d’un comité de suivi régional {afp-pietonisation-votee}. Installé le 12 septembre 2016, cet observatoire est présidé par **Pierre Carli**, médecin chef du Samu de Paris, et regroupe plusieurs institutions dont certaines sont également membres du comité de suivi de la préfecture comme **Airparif** et Bruitparif en charge des aspects de pollution de l’air et des nuisances sonores. Tandis que la **RATP** et **Île-de-France mobilités** (ex STIF) observent les impacts sur les transports publics, c’est l’Institut d’Aménagement et d’Urbanisme d’Île-de-France qui exploite les données fournies par la DRIEA, le Conseil départemental des Hauts-de-Seine (débits et comptages) et la société Autoroutes Trafic (temps de parcours). L’ONG France Nature Environnement Île-de-France et l’Observatoire Régional de Santé Île-de-France complètent ce comité. {rapport-comite-regional}
 
-![Quel organisme de mesure appartient à quel comité? (schéma réalisé par le groupe)](schema.png)
+![Quel organisme de mesure appartient à quel comité? (schéma réalisé par le groupe) col-8](schema.png)
 
 ## Des résultats (déjà) contestés
 
