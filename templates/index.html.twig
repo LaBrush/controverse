@@ -107,6 +107,10 @@
 
 	var updateBackListener = function(){
 
+		if($(this).hasClass("no-back")){
+			return ;
+		}
+
 		$target = $($(this).attr("href"));
 
 		var $cur = $(this) ;

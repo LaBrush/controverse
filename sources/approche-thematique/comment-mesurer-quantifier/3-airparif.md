@@ -7,4 +7,4 @@ Les restrictions spatiales choisis par la Mairie dans son étude d’impact sont
 
 **Olivier Blond** affirme de plus que la durée de l’étude de suivi, fixée à six mois par le préfet de police Michel Cadot, n’est pas assez longue pour observer les conséquences de la piétonisation de la rive droite sur la qualité de l’air. {entretien-blond} Franck Laval, président de l’association *Ecologie sans frontière*, souligne également que ce type de projet doit être jugé sur le long terme. {monde-polemique-berges}
 
-Enfin, les débats opposants les comités de suivi de la Préfecture de Police et du Conseil Régional mettent en lumière (les choix difficiles des hypothèses d’interprétation des mesures.)(#impact-sur-la-circulation)
+Enfin, les débats opposants les comités de suivi de la Préfecture de Police et du Conseil Régional mettent en lumière [les choix difficiles des hypothèses d’interprétation des mesures.](#impact-sur-la-circulation)
