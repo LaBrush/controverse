@@ -230,6 +230,12 @@ inegalites-spatiales:
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
 
 inegalites-socioprofessionnelle:
-    name: Inégalités socioprofessionnels
+    name: Impact sur l'économie locale
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
     illustration: approche-thematique/illustrations/inegalites_pros.jpg
+    
+classes-modestes:
+    name: Les classes modestes les plus impactées ?
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/classes-modestes.md
+    
+    
