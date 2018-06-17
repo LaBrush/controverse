@@ -3,6 +3,8 @@
 Face à de vives critiques en octobre 2017 suite à la prise de position de la mairie de Paris pour une [interdiction des véhicules à moteurs thermiques](#mesures-contraindre-vehicules){figaro-douze-ans-bannir}, la mairie a dû préciser que sa politique était plutôt *« d’investir dans le développement des alternatives et dans le renforcement des aides financières qui permettent aux particuliers et aux professionnels d’acheter des véhicules propres. »* {paris-fin-diesel} Ainsi, la disparition des moteurs thermiques en 2030 est une *« ambition »* qui ne serait pas imposée. Pour atteindre cet objectif, la ville a adopté **le Plan Climat Air Énergie territorial** {20-min-paris-dement} en mars 2018. Plusieurs axes de ce plan ont été sujet à débat.
 
 ##### Limites des transports publics
+![Métro parisien (source : unsplash.com)](photo14.jpg)
+
 À propos du réseau de transport francilien, **Florence Berthout, vice-présidente de la région IDF**, prétend qu’à cause d’une négligence de l’ancien mandat régional, « il faudra attendre encore quelques années pour que les lignes de RER et les trains de banlieues ne soient plus saturés comme ils le sont aujourd'hui. » {atlantico-interdire-paris-pauvres}
 
 Par ailleurs, selon **Stéphane Beaudet, vice-président de la région IDF en charge des transports**, les transports publics ne représentent qu’un tiers des déplacements à Paris, un quart en IDF. En fait, **c’est le (mauvais) usage de la route qui est limitant.** {gazette-reussir-penser}
@@ -15,6 +17,8 @@ L’idée a été lancée par people{Anne Hidalgo}{anne-hidalgo} et est aujourd�
 Valérie Pécresse attire l’attention sur les problèmes de financement évidents que cette mesure engendrerait ; il pourrait aussi y avoir **des inégalités entre les Parisiens et les banlieusards**. {bulletin-quotidien-gratuite-transports}
 
 ##### Le vélo
+![Vélo sur berges (source : flikr.com)](2262242541_035d50c5c5_o.jpg)
+
 L’usage du vélo a **décuplé entre 1991 et 2017** et s’est démocratisé, à Paris comme en petite couronne. {obs-reduire-voiture} Cependant, le problème reste la difficulté d’établir **des « liaisons courtes entre les gares et les zones d’emploi »**. {gazette-reussir-penser}
 
 Selon **Frédéric Héran**, spécialiste de la mobilité, plusieurs moyens permettraient d’encourager le vélo : créer des zones 30 (pour que les voitures puissent cohabiter avec le reste des usagers sans problème), des aménagements cyclables sur les avenues plus rapides, et des services dédiés aux vélos. Cependant, il souligne que **le vélo n’aura pas beaucoup d’impact sur les émissions**, car on l’utilise majoritairement pour des petits trajets. D’ailleurs beaucoup de convertis au vélo utilisaient déjà un moyen de transport non polluant (la marche ou les transports en commun). {connexion-limiter-30}
