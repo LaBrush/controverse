@@ -7,7 +7,7 @@ Dans un deuxième temps, pour vérifier la concordance entre prévision et réal
 ## Impact sur la polution
 *Selon Olivier Blond, président de l'association Respire, trois grandeurs sont essentielles pour évaluer les impacts des différentes mesures prises sur la pollution : l’émission individuelle des véhicules, la concentration de l’air ainsi que l’exposition individuelle.*
 
-Les **émissions individuelles** des véhicules font l’objet de normes européennes, définissant des taux d’émissions que les véhicules doivent respecter pour être commercialisé. Ainsi, certains constructeurs ou équipementiers automobiles annoncent la création de moteurs innovants, avec pour Bosch par exemple, des émissions jusqu’à dix fois inférieures aux normes en vigueur. {monde_bosch_revolution}
+Les **émissions individuelles** des véhicules font l’objet de normes européennes, définissant des taux d’émissions que les véhicules doivent respecter pour être commercialisé. Ainsi, certains constructeurs ou équipementiers automobiles annoncent la création de moteurs innovants, avec pour Bosch par exemple, des émissions jusqu’à dix fois inférieures aux normes en vigueur. {monde-bosch-revolution}
 
 Cependant, **Olivier Blond** critique ces normes car selon lui les plus petites particules, qui sont les plus toxiques ne font pas l’objet de réglementations ([voir renouvellement du parc automobile] (#vehicules-thermiques)). Un deuxième problème est que les mesures sont généralement effectuées en masse (kg/km) alors que pour des particules de faibles diamètre, les scientifiques s’accordent à dire que ces valeurs n’ont que peu de sens, des mesures en nombre seraient alors plus pertinentes.
 
@@ -20,7 +20,7 @@ Enfin, **l’exposition individuelle**, c'est-à-dire les quantités de chaque c
 ## Impact sur la circulation  
 Les acteurs s’accordent davantage sur les grandeurs à mesurer pour évaluer les conséquences des projets mis en place sur la circulation automobile. Les **temps de parcours** et le **comptage des véhicules**  sont les deux principales grandeurs retenues. Les temps de parcours sont généralement obtenues à l’aide des appareils embarqués dans les véhicules utilisant des données GPS tandis que le comptage des véhicules est réalisé en utilisant des boucles électromagnétiques disposées sur la chaussée. Des informations complémentaires sur les méthodologies utilisées sont présentées sur le site de la Direction des Routes d’Île-de-France (DiRIF) (http://www.dir.ile-de-france.developpement-durable.gouv.fr/donnees-routieres-r467.html).
 
-Toutefois, Frédéric Héran professeur spécialiste des questions de mobilité souligne que ces organismes « ont déjà plus de mal à mesurer combien d'usagers changent de mode de déplacement » {express_trafic_diminue} et que la mesure de paramètres complémentaires est déjà plus difficile à mettre en oeuvre. 
+Toutefois, Frédéric Héran professeur spécialiste des questions de mobilité souligne que ces organismes « ont déjà plus de mal à mesurer combien d'usagers changent de mode de déplacement » {express-trafic-diminue} et que la mesure de paramètres complémentaires est déjà plus difficile à mettre en oeuvre. 
 
 **Tous ces paramètres, parfois difficilement mesurables ou faisant l’objet de débat sont pourtant essentiels afin de déterminer l’impact réel des politiques visant à restreindre la place de la voiture en ville sur la pollution ou le trafic.** 
 

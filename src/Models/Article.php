@@ -90,7 +90,7 @@ class Article
 					}
 
 					if($citation == null){
-						$citation = ["author" => "<span style='color: red;'>" . $matches[0][$i] . "</span>"];
+						$citation = ["author" => "<span style='color: red;'><strong>Référence incorrecte</strong>" . $matches[0][$i] . "</span>"];
 					}
 
 					if($citation){
@@ -113,6 +113,9 @@ class Article
 
 			$content = str_replace("\{", "{", $content);
 			$content = str_replace("\}", "}", $content);
+
+			$content = str_replace("\start_encadre", "<div class='border p-3 rounded'>", $content);
+			$content = str_replace("\stop_encadre", "</div>", $content);
 
 			$content = preg_replace('/quote\{((.|\n)+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$3</footer></blockquote>', $content);
 
