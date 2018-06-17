@@ -102,7 +102,7 @@ class Article
 
 						if(isset($citation["year"])){ $year = ", " . $citation["year"]; }
 
-						$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', "<span class='text-muted'>(" . $author . $year . ")</span>", $content, 1);
+						$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', " <span class='text-muted'>(" . $author . $year . ")</span>", $content, 1);
 					}
 
 				} catch (\Exception $e){

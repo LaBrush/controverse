@@ -10,17 +10,9 @@ Pour les prises de décision à l’échelle de la Ville, le **Conseil de Paris*
 
 Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#4-economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
 
-Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir.{afp-pietonisation-votee} {afp-rendre-berges}
+Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir.{afp-pietonisation-votee} {afp-rendre-berges} 
 
-#### La région Ile-de-France via Valérie Pécresse et le comité régional : un pouvoir important à travers la gestion des transports publics
-
-La **région Ile-de-France**, présidée par **Valérie Pécresse**, possède la responsabilité des aménagements territoriaux en ce qui concerne les transports en communs. Son pouvoir s’étend sur tout la région, et donc à fortiori dans la ville de Paris. Cela pose alors des problèmes de coordination entre la  ville et la Région.
-
-**Anne Hidalgo** affirme en effet en mars dernier (2018) que **Valérie Pécresse**, à qui elle attribue la charge des transports publics en tant que dirigeante de la région, retarde la création d’un bus sur les quais hauts en site propre (annoncée en 2021 au lieu de 2019 comme initialement prévu). Elle aimerait ainsi que la mairie de Paris et la Métropole aient davantage de pouvoir décisionnel dans la gestion des transports en commun par rapport au **Conseil régional**. {challenge-vsb-arrete-pietonnisation}
-
-**Ile-de-France Mobilités** (anciennement appelé le STIF : Syndicat des transports d’Ile-de-France )  est une instance régionale. Elle est l’autorité organisatrice des transports en Île-de-France, finançant  certains projets comme l’augmentation du nombre de couloirs de bus pendant le mandat de Delanoë. 88% de leur investissement concerne des rémunérations contractuelles de ce type. {evaluation-economique-mobilite} {https://www.iledefrance-mobilites.fr/decouvrir-ile-de-france-mobilites/ }
-
-Il faut garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#4-economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros. Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir.{afp-pietonisation-votee} {afp-rendre-berges}
+**Insérer image maillon-d-interet-regional-va-avec-competences-terr.png** 
 
 De façon inverse, la ville souhaiterait avoir plus de pouvoir afin de faciliter les prises de décisions. **Anne Hidalgo** affirme en mars dernier (2018) que **Valérie Pécresse**, à qui elle attribue la charge des transports publics en tant que dirigeante de la région, retarde la création d’un bus sur les quais hauts en site propre (annoncée en 2021 au lieu de 2019 comme initialement prévu). Elle aimerait ainsi que la mairie de Paris et la Métropole aient davantage de pouvoir décisionnel dans la gestion des transports en commun par rapport au **Conseil régional**. {challenge-vsb-arrete-pietonnisation}
 
