@@ -59,6 +59,8 @@ class Article
 
 			$content = $this->parsedown->text($content);
 
+			# creation de la biliographie
+
 			$bib = "<ol class='text-muted'>" ;
 
 			foreach (Article::$entries as $entry){
@@ -76,6 +78,8 @@ class Article
 			$bib .= "</ol>";
 
 			$content = str_replace("{{bibliographie}}", $bib, $content);
+
+			# création des liens
 
 			preg_match_all('/ (?<!quote)(?<!\\\\){((.(?!\{))+)(?<!\\\\)}/mU', $content, $matches);
 
@@ -114,13 +118,34 @@ class Article
 				}
 			}
 
+
+			# échappement des accolades
 			$content = str_replace("\{", "{", $content);
 			$content = str_replace("\}", "}", $content);
 
+			# encadrés
 			$content = str_replace("\start_encadre", "<div class='border p-3 rounded'>", $content);
 			$content = str_replace("\stop_encadre", "</div>", $content);
 
+			# ajout des citations
 			$content = preg_replace('/quote\{((.|\n)+)\}\{(.+)}/mU', '<blockquote class="blockquote"><p class="mb-0">$1</p><footer class="blockquote-footer">$3</footer></blockquote>', $content);
+
+			# ajout des noms de personnes
+			foreach(People::$list as $people){
+				$content = str_replace($people->getName(), $this->makeHover($people), $content);
+			}
+
+			$content = preg_replace_callback("/people{(.+)}{(.+)}/U", function($arg){
+
+				foreach (People::$list as $people){
+					if($people->getId() == $arg[2]){
+						return $this->makeHover($people, $arg[1]);
+					}
+				}
+
+				return "<span class='text-danger'>Bad reference made to " . $arg[1] .  " with " . $arg[2] . "</span>";
+
+			},$content);
 
 			$content = "<div class='container text-justify'>$content</div>";
 		}
@@ -166,6 +191,10 @@ class Article
  		}, $content);
 
 		return $content ;
+	}
+
+	function makeHover(People $people, $name = null){
+		return "<span class='text-primary' data-container='body' data-toggle='popover' data-trigger='hover' data-placement='top' data-title='" . $people->getName() . "' data-content='" . $people->getDescription() . "'>" . ($name !== null ? $name : $people->getName()) ."</span>" ;
 	}
 
 	/**

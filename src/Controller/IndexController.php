@@ -3,6 +3,7 @@
 namespace App\Controller;
 
 use App\Models\Article;
+use App\Models\People;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\Yaml\Yaml;
@@ -22,6 +23,10 @@ class IndexController extends Controller
 		}
 
 		$this->copyFolder(__DIR__ . "/../../sources", $public_images);
+
+		# on charge les personnes
+
+	    People::loadPeople();
 
 		# puis on compile la page
 		$config = Yaml::parseFile(__DIR__ . "/../../sources/sources.yaml");
