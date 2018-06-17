@@ -1,4 +1,6 @@
-# Les reports, une menace pour l’économie locale ?
+# Au-delà de la pollution, un impact économique et social ?
+
+## Les reports, une menace pour l’économie locale ?
 
 En août 2016, **la commission d’enquête** estime que le projet de piétonisation des voies sur berge de la rive droite pourrait avoir des conséquences négatives sur les activités économiques locales. {20_min_empecher_retour_voitures} Finalement adoptée, la fermeture des quais bas à la circulation automobile a entraîné un report des véhicules sur les quais hauts, ce qui a augmenté les taux de pollution et les nuisances sonores sur les terrasses des commerces.
 
