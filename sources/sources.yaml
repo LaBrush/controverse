@@ -130,6 +130,7 @@ approche-thematique:
     file: approche-thematique/approche_thematique.html
     isHead: true
     color: "#2ecc71"
+    new_page: true
 
 # qui s'occupe du problème ?
 

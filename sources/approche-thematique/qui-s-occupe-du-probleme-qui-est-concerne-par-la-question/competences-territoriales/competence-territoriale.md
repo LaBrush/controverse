@@ -22,22 +22,13 @@ Toutefois, quels que soient les intérêts des acteurs, tous s’accordent à di
 
 ![Valérie Pécresse et people{Anne Hidalgo}{anne-hidalgo} float-right col-3](opposition_Pécresse_Hidalgo.jpg)
 
-<<<<<<< HEAD
 Dans ce contexte, l’opposition actuelle entre **people{Anne Hidalgo}{anne-hidalgo}** et **Valérie Pécresse** peut être un frein aux planifications concernant la mobilité. _“L'épineuse question des transports en Île-de-France ne pourra être résolue sans que ces deux actrices travaillent ensemble…”_. Le manque de concertation pendant la mise en place de la fermeture des voies sur berge a été un des points les plus critiqués. ([voir Qui est consulté ? Écouté prioritairement ?](#qui-est-consulte)) {moniteur-hidalgo-tient-bon}
-=======
-Dans ce contexte, l’opposition actuelle entre **Anne Hidalgo** et **Valérie Pécresse** peut être un frein aux planifications concernant la mobilité. _“L'épineuse question des transports en Île-de-France ne pourra être résolue sans que ces deux actrices travaillent ensemble…”_. Le manque de concertation pendant la mise en place de la fermeture des voies sur berge a été un des points les plus critiqués. ([voir Qui est consulté et écouté prioritairement ?](#qui-est-consulte)) {moniteur-hidalgo-tient-bon}
->>>>>>> f5bebae04e1f1ab8af0324f383e1271cb093d2c2
-
 
 En 2016, au moment où le projet est lancé, les réactions accusant le manque de coopération sont nombreuses : plusieurs maires de banlieue (Hervé Marseille, Jacques J.P. Martin, Christian Cambon) soutiennent que la mairie de Paris prend des décisions unilatérales et réclament une meilleure concertation entre la capitale et la banlieue. En outre, Les Républicains déplorent l’absence d’étude sur le tracé alternatif qu’ils ont proposé en amont du projet. Ainsi, Les Républicains 75 ainsi que le **Conseil Régional** (Vincent Roger) accusent **people{Anne Hidalgo}{anne-hidalgo}** de ne pas permettre le dialogue, voire de refuser le débat. Cette opinion est également partagée par des élus de la ville comme Eric Azière, président du groupe UDI-Modem au Conseil de Paris, bien qu’il réagisse avec moins d’animosité, invitant à la collaboration dans le cadre d’un nouveau plan de circulation. {gazette-reussir-penser} {figaro-vsb-paris} {afp-pietonisation-votee} {afp-pietonisation-lr-justice} {afp-hidalgo-pietoniser}
 
 Pour pallier à ce manque de coopération, plusieurs solutions sont proposées par les élus de la région et de Paris. Jacques J.P Martin, maire de Nogent-sur-Marne, demande à la mairie la création d’un comité de pilotage mixte Paris-banlieue afin d’étudier des solutions de transports alternatives. L’Udi-Modem souhaiterait la tenue d’Etats Généraux de la circulation. {afp-pietonisation-votee} {monde-polemique-berges}
 
-<<<<<<< HEAD
 Au delà du manque de concertation entre les acteurs agissant pour la mobilité, c’est également un manque de prise en compte de l’avis des habitants qui est déploré dans le cadre du projet de fermeture des voies sur berges. L’association 40 Millions d’automobilistes (via son délégué général **Pierre Chasseray**) accuse ainsi people{Anne Hidalgo}{anne-hidalgo} d’imposer la fermeture des voies sur berge durant la fin des vacances afin de rencontrer une opposition plus faible de la part des parisiens. {20-min-empecher-retour-voitures}
-=======
-Au delà du manque de concertation entre les acteurs agissant pour la mobilité, c’est également un manque de prise en compte de l’avis des habitants qui est déploré dans le cadre du projet de fermeture des voies sur berges. L’association 40 Millions d’automobilistes (via son délégué général **Pierre Chasseray**) accuse ainsi **Anne Hidalgo** d’imposer la fermeture des voies sur berge durant la fin des vacances afin de rencontrer une opposition plus faible de la part des parisiens. {20-min-empecher-retour-voitures}
->>>>>>> f5bebae04e1f1ab8af0324f383e1271cb093d2c2
 
 Plus généralement, les personnes attaquants la décision de piétonisation de la rive droite en Novembre 2016 indiquent que la principale motivation de leur action est le passage en force de la Ville de Paris sur ce projet. {figaro-forcing-hidalgo}
 
@@ -47,11 +38,7 @@ Le préfet de police doit valider toute mesure de modification de la voirie, et 
 
 Le préfet de police Michel Gaudin affirmait, au lancement du projet : *"les conditions de recours à la clause de réversibilité des aménagements devront être précisées, de même qu'un travail complémentaire sur les questions de pollution et de temps de trajet des secours."* {figaro-mag-vsb-remous}
 
-<<<<<<< HEAD
 Ces collaborations sont d’ailleurs un fait qui est mis en avant par la maire elle-même, quand elle affirme avoir pris un arrêté de piétonisation des voies sur berges en quote{concertation avec l'Etat et le préfet de police, pour pouvoir maintenir les berges piétonnes.}{people{Anne Hidalgo}{anne-hidalgo}} Ainsi, c’est même un argument qu’elle utilise pour critiquer les propositions d’alternatives portées par la région à propos de ce même projet. {challenge-vsb-arrete-pietonnisation}
-=======
-Ces collaborations sont d’ailleurs un fait qui est mis en avant par la maire elle-même, quand elle affirme avoir pris un arrêté de piétonisation des voies sur berges *"concertation avec l'Etat et le préfet de police, pour pouvoir maintenir les berges piétonnes."* Ainsi, c’est même un argument qu’elle utilise pour critiquer les propositions d’alternatives portées par la région à propos de ce même projet. {challenge-vsb-arrete-pietonnisation}
->>>>>>> f5bebae04e1f1ab8af0324f383e1271cb093d2c2
 
 #### La commission d’enquête publique : fournisseur de rapport consultatifs centraux dans les débats publics
 

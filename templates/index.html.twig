@@ -22,6 +22,7 @@
 	<div id="sidebar_toggle" class="col-12 col-md-3 col-xl-2 mt-3">
 		<button class="btn btn-primary btn-block btn-outline-secondary">Menu</button>
 	</div>
+
 	<div id="sidebar" class="col-12 col-xl-2 bd-sidebar">
 		<div class="row flex-xl-nowrap hidden">
 			<nav class="collapse show bd-links" id="bd-docs-nav">
@@ -60,23 +61,35 @@
 		</div>
 		</nav>
 	</div>
+
 	</div>
 	<div class="bd-content" id="content">
 
 		{% for article in articles %}
+			{% if not loop.first and article.isNewPage %}
+				</div>
+			{% endif %}
+
 			{% if not loop.first and article.isHead %}
 					</div>
 				</section>
 			{% endif %}
 
 			{% if loop.first or article.isHead %}
-			<section class="section {% if article.color is not null %}color_{{ article.color | trim("#") }}"{% endif %}>
+				<section class="section {% if article.color is not null %}color_{{ article.color | trim("#") }}{% endif %}">
+			{% endif %}
 
-				<style>
-					.color_{{ article.color | trim("#") }} h1, .color_{{ article.color | trim("#") }} h2 {
-						color: {{ article.color }};
-					}
-				</style>
+			{% if loop.first or article.isNewPage %}
+					<div class="page">
+			{% endif %}
+
+					{% if article.color is not null %}
+
+						<style>
+							.color_{{ article.color | trim("#") }} h1, .color_{{ article.color | trim("#") }} h2 {
+								color: {{ article.color }};
+							}
+						</style>
 
 					{% endif %}
 
@@ -84,6 +97,7 @@
 
 					{% endfor %}
 
+				</div>
 			</section>
 
 	</div>
@@ -181,12 +195,27 @@
 			if($(this).find(id).length > 0){
 				isTrueHash = true;
 				selected = index ;
+
+				var $rightSection = $(this).find(id).first();
+				var $page = $rightSection.parent();
+
+				while(!$page.hasClass("page") && $page.length > 0){
+					$page = $page.parent()
+				}
+
+				if($page.length > 0){
+					$page.parent().find(".page").hide();
+					$page.show();
+				}
+
 				return false ;
 			}
 		});
 
 		refresh();
 	});
+
+	$('.section').find('.page:not(:first-child)').hide();
 
 	$(document).keydown(function(e) {
 		switch(e.which) {

@@ -5,7 +5,6 @@ namespace App\Models ;
 use Parsedown;
 use RenanBr\BibTexParser\Listener;
 use RenanBr\BibTexParser\Parser;
-use Symfony\Component\DomCrawler\Crawler;
 
 class Article
 {
@@ -14,11 +13,14 @@ class Article
 	private $contentFile ;
 	private $references ;
 	private $color ;
-	private $menuSep ;
 
-	private $isHead ;
 	private $isTitle ;
 	private $titleLevel ;
+
+	private $menuSep ;
+	private $isHead ;
+	private $newPage ;
+
 
 	private $parsedown;
 
@@ -31,12 +33,14 @@ class Article
 		$this->relativePath = $config["file"] ;
 		$this->contentFile = __DIR__ . "/../../sources/" . $config["file"] ;
 		$this->color = isset($config["color"]) ? $config["color"] : null ;
-		$this->menuSep = isset($config["menu_sep"]) ? $config["menu_sep"] : null ;
 		$this->illustration = isset($config["illustration"]) ? "images/" . $config["illustration"] : null ;
 
-		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
 		$this->isTitle = isset($config["type"]) && strpos($config['type'], "title") == 0;
 		$this->titleLevel = $this->isTitle ? explode("-", $config['type'])[1] : 0 ;
+
+		$this->menuSep = isset($config["menu_sep"]) ? $config["menu_sep"] : null ;
+		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
+		$this->newPage = isset($config["new_page"]) && $config["new_page"] === true ;
 
 		$this->parsedown = new Parsedown()  ;
 
@@ -266,5 +270,11 @@ class Article
 		return $this->titleLevel;
 	}
 
-
+	/**
+	 * @return bool
+	 */
+	public function isNewPage(): bool
+	{
+		return $this->newPage;
+	}
 }
