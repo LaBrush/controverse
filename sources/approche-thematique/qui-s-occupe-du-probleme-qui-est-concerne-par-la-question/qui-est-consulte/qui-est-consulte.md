@@ -1,4 +1,3 @@
-
 ## Qui est consulté et écouté prioritairement ?
 
 ### La consultation publique du projet de fermeture des voies sur berges

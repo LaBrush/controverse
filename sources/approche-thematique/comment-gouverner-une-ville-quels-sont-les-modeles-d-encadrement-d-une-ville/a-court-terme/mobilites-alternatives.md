@@ -2,7 +2,7 @@
 
 #### Politique de Paris
 
-La politique de la ville  n’est pas orientée vers [l’interdiction pure de certains types de véhicules](#mesures-contraindre-vehicules). À la place, elle *« a décidé
+La politique de la ville n’est pas orientée vers [l’interdiction pure de certains types de véhicules](#mesures-contraindre-vehicules). À la place, elle *« a décidé
 d’investir dans le développement des alternatives et dans le
 renforcement des aides financières qui permettent aux particuliers et
 aux professionnels d’acheter des véhicules propres. »*
@@ -15,17 +15,6 @@ En particulier, **Paris a développé Vélib’ et Autolib’**. En mars
 Ainsi, de 2000 à 2014, Paris a connu **un doublement du nombre de
 déplacements à vélo**, conséquence du triplement du nombre
 d’aménagements cyclables. {afp_empreinte_delanoe}
-
-#### Covoiturage / voiture partagée
-
-Selon une étude sur les conséquences éventuelles du covoiturage
-en Île-de-France, la politique locale devrait essayer de **développer
-le covoiturage sur les trajets de longue durée**. De plus, cette
-politique devrait être plus large :*“improving public transport,
-curbing urban sprawl and deterring distant residential location choices
-(e.g. through local taxation), or reducing long distance trips through
-development policies in the most distant parts of the metropolitan
-area”* {cleaner_prod_benefits_ride_sharing}
 
 #### Limites des transports publics
 Selon **Stéphane Beaudet, vice-président de la région IDF en
