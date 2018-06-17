@@ -22,6 +22,8 @@ Les acteurs s’accordent davantage sur les grandeurs à mesurer pour évaluer l
 
 Toutefois, Frédéric Héran professeur spécialiste des questions de mobilité souligne que ces organismes « ont déjà plus de mal à mesurer combien d'usagers changent de mode de déplacement » {l Express - 23-11-2016 - voies sur berges} et que la mesure de paramètres complémentaires est déjà plus difficile à mettre en oeuvre. 
 
+**Tous ces paramètres, parfois difficilement mesurables ou faisant l’objet de débat sont pourtant essentiels afin de déterminer l’impact réel des politiques visant à restreindre la place de la voiture en ville sur la pollution ou le trafic.** 
+
 
 
 
