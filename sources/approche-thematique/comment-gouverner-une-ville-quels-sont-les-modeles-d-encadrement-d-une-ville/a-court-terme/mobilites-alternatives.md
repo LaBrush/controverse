@@ -3,6 +3,8 @@
 Face à de vives critiques en octobre 2017 suite à la prise de position de la mairie de Paris pour une [interdiction des véhicules à moteurs thermiques](#mesures-contraindre-vehicules){figaro-douze-ans-bannir}, la mairie a dû préciser que sa politique était plutôt *« d’investir dans le développement des alternatives et dans le renforcement des aides financières qui permettent aux particuliers et aux professionnels d’acheter des véhicules propres. »* {paris-fin-diesel} Ainsi, la disparition des moteurs thermiques en 2030 est une *« ambition »* qui ne serait pas imposée. Pour atteindre cet objectif, la ville a adopté **le Plan Climat Air Énergie territorial** {20-min-paris-dement} en mars 2018. Plusieurs axes de ce plan ont été sujet à débat.
 
 ##### Limites des transports publics
+![Métro parisien (source : unsplash.com)](photo14.jpg)
+
 À propos du réseau de transport francilien, **Florence Berthout, vice-présidente de la région IDF**, prétend qu’à cause d’une négligence de l’ancien mandat régional, « il faudra attendre encore quelques années pour que les lignes de RER et les trains de banlieues ne soient plus saturés comme ils le sont aujourd'hui. » {atlantico-interdire-paris-pauvres}
 
 Par ailleurs, selon **Stéphane Beaudet, vice-président de la région IDF en charge des transports**, les transports publics ne représentent qu’un tiers des déplacements à Paris, un quart en IDF. En fait, **c’est le (mauvais) usage de la route qui est limitant.** {gazette-reussir-penser}
