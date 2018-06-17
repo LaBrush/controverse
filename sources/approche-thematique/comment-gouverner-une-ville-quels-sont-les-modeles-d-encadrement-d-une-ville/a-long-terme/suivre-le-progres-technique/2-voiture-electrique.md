@@ -2,7 +2,7 @@
 
 La voiture électrique contribue également à **l’amélioration du parc automobile** mais son utilisation soulève encore de nombreux problèmes.
 
-![Peugeot BB1 car (Salon de l'automobile, Parc des expositions, Paris 4 octobre 2010)](peugeatBB1.jpg)
+![Peugeot BB1 car (Salon de l'automobile, Parc des expositions, Paris 4 octobre 2010)](peugeotBB1.jpg)
 
 À Paris, certains reprochent à people{Anne Hidalgo}{anne-hidalgo} de mettre en place des mesures pour supprimer les voitures thermiques alors que les solutions de remplacement, dont fait partie la voiture électrique **ne sont pas encore assez développées**. C'est par exemple le cas de Sylvain Maillard, député de Paris (La République en marche) : « Pour une meilleure qualité de l’air, nous sommes tous pour la sortie des énergies fossiles mais à ce jour les freins sont multiples. Ainsi par exemple, les véhicules électriques ont une autonomie limitée ».
 
