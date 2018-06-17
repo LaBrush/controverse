@@ -2,7 +2,7 @@
 
 #### Politique de Paris
 
-La politique de la ville  n’est pas orientée vers **([l’interdiction pure de certains types de véhicules](#mesures-contraindre-vehicules)) **. À la place, elle *« a décidé
+La politique de la ville  n’est pas orientée vers [l’interdiction pure de certains types de véhicules](#mesures-contraindre-vehicules). À la place, elle *« a décidé
 d’investir dans le développement des alternatives et dans le
 renforcement des aides financières qui permettent aux particuliers et
 aux professionnels d’acheter des véhicules propres. »*

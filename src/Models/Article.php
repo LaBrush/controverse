@@ -73,7 +73,7 @@ class Article
 
 			$content = str_replace("{{bibliographie}}", $bib, $content);
 
-			preg_match_all('/(?<!quote)(?<!\\\\){((.(?!\{))+)(?<!\\\\)}/mU', $content, $matches);
+			preg_match_all('/ (?<!quote)(?<!\\\\){((.(?!\{))+)(?<!\\\\)}/mU', $content, $matches);
 
 			for($i = 0 ; $i < count($matches[0]) ; $i++){
 				try {
@@ -126,6 +126,19 @@ class Article
 
 			return $res;
 		}, $content);
+
+		$content = preg_replace_callback('/<img .+ alt="(.+)" .+>/U', function($arg) {
+			$alt = $arg[1] ;
+			$alt = str_replace("float-left", '', $alt);
+			$alt = str_replace("float-right", '', $alt);
+
+			$float = "" ;
+			if(strpos($arg[1], 'float-left')){ $float = "float-left" ; }
+			elseif(strpos($arg[1], 'float-right')){ $float = "float-right" ; }
+
+			return "<div class='text-center p-4 $float'>" . $arg[0] ."<p class='text-muted pt-2'><em>" . $alt . "</em></p></div>";
+		}, $content);
+		$content = $content . "<div class='clearfix'></div>";
 
 		return $content ;
 	}
