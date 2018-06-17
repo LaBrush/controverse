@@ -1,4 +1,4 @@
-## Que faut-il mesurer?
+## Le problème de la mesure
 
 La mise en place de projets pour modifier la place de la voiture en ville  nécessite la réalisation d’une étude d’impact préliminaire. Cette étude est ensuite généralement observée par une commission d’enquête désignée par le tribunal administratif de Paris qui rend un avis favorable ou défavorable. L’étude d’impact met en lumière les difficultés et les désaccords relatifs à la modélisation des flux et du dynamisme d’une ville telle que Paris. La modélisation du trafic automobile n'échappe pas à la règle, notamment à travers le choix du périmètre, l’origine géographique des véhicules empruntant les itinéraires étudiés, l’évolution des comportements face aux contraintes ou aux facilitations apportées par le projet.
 
