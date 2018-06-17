@@ -10,7 +10,7 @@ Pour les prises de décision à l’échelle de la Ville, le **Conseil de Paris*
 
 Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
 
-Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir. {afp-pietonisation-votee} {afp-rendre-berges} 
+Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir. {afp-pietonisation-votee} {afp-rendre-berges}
 
 ![des voies d'intérêt régional?](maillon-d-interet-regional-va-avec-competences-terr.png)
 
@@ -57,7 +57,7 @@ La mairie de Paris et **Christophe Nadjovski** accusent ainsi la commission d’
 
 Le tribunal administratif a un rôle juridique vis-à-vis de la répartition du pouvoir, notamment ici concernant la politique de mobilité territoriale. Ainsi, si il fait état d’un abus de position d’un acteur, il est en son pouvoir de revenir sur des décisions, ou interdire certaines mesures. Le tribunal administratif sanctionne également le cadre dans lequel la décision a été prise. Il souligne par exemple que l'utilisation de l'article L. 2213-2 du Code général des collectivités territoriales (CGCT) ne permet pas au maire d'interdire de façon permanente une voie aux automobilistes. {gazette-feuilleton-vsb}
 
-De plus, après la décision par le tribunal d’annuler la fermeture des voies sur berges en 2018, il était à craindre que la tentative d’**Hidalgo** de changer d’objectifs pour prolonger le projet soit à nouveau rejeté par le tribunal. En effet, Yvon Goutal, avocat spécialiste des contentieux administratifs indique que le tribunal administratif pourrait considérer la modification des objectifs du projet par la Mairie de Paris dans le nouvel arrêté comme un obstacle à la décision de justice.{gazette-feuilleton-vsb}
+De plus, après la décision par le tribunal d’annuler la fermeture des voies sur berges en 2018, il était à craindre que la tentative d’**Hidalgo** de changer d’objectifs pour prolonger le projet soit à nouveau rejeté par le tribunal. En effet, Yvon Goutal, avocat spécialiste des contentieux administratifs indique que le tribunal administratif pourrait considérer la modification des objectifs du projet par la Mairie de Paris dans le nouvel arrêté comme un obstacle à la décision de justice. {gazette-feuilleton-vsb}
 
 Toutefois, La Mairie de Paris affirme que le nouvel arrêté de Mars 2018 n’a pas pour but de contourner la décision du tribunal administratif mais en tire les conséquences. {monde-nouvel-arrete}
 
