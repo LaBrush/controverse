@@ -77,7 +77,7 @@ chronologie-6:
 chronologie-7:
     name: "Justice : réouverture aux voitures rive droite"
     file: chronologie/7-frise.html
-    color: "#FFF15F"
+    color: "#f7d762"
 
 chronologie-8:
     name: Fermeture avec de nouveaux arguments

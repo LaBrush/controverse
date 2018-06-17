@@ -17,6 +17,10 @@ img {
 	max-width: 100% ;
 }
 
+.w-50 {
+	max-width: 80px ;
+}
+
 .blockquote {
 	font-style: italic;
 }
