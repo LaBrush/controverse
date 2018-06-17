@@ -47,34 +47,42 @@ chronologie-globale:
 chronologie-1:
     name: Prélude
     file: chronologie/1-frise.html
+    color: "#F9B256"
 
 chronologie-2:
     name: Fermeture des voies sur berge (rive gauche)
     file: chronologie/2-frise.html
+    color: "#AFD39A"
 
 chronologie-3:
     name: Annonces pour la rive droite
     file: chronologie/3-frise.html
+    color: "#AEC6FF"
 
 chronologie-4:
     name: Etude d'impact et débats
     file: chronologie/4-frise.html
+    color: "#F29FC5"
 
 chronologie-5:
     name: Fermeture des voies sur berge (rive droite)
     file: chronologie/5-frise.html
+    color: "#E30613"
 
 chronologie-6:
     name: Étude de suivi par le comité Régional
     file: chronologie/6-frise.html
+    color: "#8BADDC"
 
 chronologie-7:
     name: "Justice : réouverture aux voitures rive droite"
     file: chronologie/7-frise.html
+    color: "#FFF15F"
 
 chronologie-8:
     name: Fermeture avec de nouveaux arguments
     file: chronologie/8-frise.html
+    color: "#7FD8CA"
 
 
 
@@ -109,10 +117,6 @@ impact-sur-la-pollution:
 economie-locale:
     name: L'économie locale
     file: etude-de-cas/5-economie-locale.md
-
-des-inegalites-renforcees:
-    name: Des inégalités renforcées ?
-    file: etude-de-cas/6-des-inegalites-renforcees.md
 
 # approche thématique
 
