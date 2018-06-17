@@ -19,6 +19,8 @@ class Article
 	private $isTitle ;
 	private $titleLevel ;
 
+	private $parsedown;
+
 	static private $entries = null ;
 
 	public function __construct($id, $config)
@@ -34,6 +36,8 @@ class Article
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
 		$this->isTitle = isset($config["type"]) && strpos($config['type'], "title") == 0;
 		$this->titleLevel = $this->isTitle ? explode("-", $config['type'])[1] : 0 ;
+
+		$this->parsedown = new Parsedown()  ;
 
 		if(Article::$entries == null){
 			$parser = new Parser();          // Create a Parser
@@ -53,8 +57,7 @@ class Article
 
 		if(pathinfo($this->contentFile)["extension"] == "md"){
 
-			$parsedown = new Parsedown();
-			$content = $parsedown->text($content);
+			$content = $this->parsedown->text($content);
 
 			$bib = "<ol class='text-muted'>" ;
 
@@ -143,6 +146,24 @@ class Article
 			return "<div class='text-center p-4 $float'>" . $arg[0] ."<p class='text-muted pt-2'><em>" . $alt . "</em></p></div>";
 		}, $content);
 		$content = $content . "<div class='clearfix'></div>";
+
+		$content = preg_replace_callback("/href=['|\"]#(.+)['|\"]/Um", function ($arg){
+			$popover = "" ;
+			$file = __DIR__ . "/../../sources/resumes/" . $arg[1] . ".md" ;
+			if(file_exists($file)) {
+				$preview = file_get_contents($file);
+				$preview = $this->parsedown->text($preview);
+
+				preg_match("/<h[1-6]>(.+)<\/h[1-6]>/", $preview, $title);
+				$title = $title[1];
+
+				$preview = preg_replace("/<h[1-6]>(.+)<\/h[1-6]>/", "", $preview);
+
+				$popover = 'data-container="body" data-toggle="popover" data-trigger="hover" data-placement="top" data-title="' . $title . '" data-content="' . $preview . '""';
+			}
+
+			return $arg[0] . " " . $popover ;
+ 		}, $content);
 
 		return $content ;
 	}
