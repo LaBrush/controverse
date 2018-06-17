@@ -47,7 +47,7 @@ La **commission d’enquête publique** de la ville de Paris est une commission 
 
 Ainsi, dans le cas de la fermeture des voies sur berges, **Anne Hidalgo** a décidé en Août 2016 de faire fi de la condamnation du projet par la commission d’enquête. Cela lui vaut des réactions indignées, notamment par Philippe Goujon, maire d’arrondissement, qui affirme qu’**Anne Hidalgo** n’écoute que les avis qui vont dans le sens du projet. {afp-pietonisation-lr-justice} {afp-hidalgo-pietoniser} {moniteur-hidalgo-tient-bon}
 
-Les rapports rendus par la commission restent une référence et constituent un argument central dans les débats publics. Par exemple, Florence Berthout, maire LR du 5ème Arrondissement, peut s’y appuyer pour souligner l’absence de concertation de la Ville de Paris avec les arrondissements et les communes concernées. Serge Federbusch, président du parti des Libertés, affirme qu’un avis défavorable de la part de la commission d’enquête est rare et prouve donc la faiblesse du projet de la Ville de Paris.{atlantico-interdire-paris-pauvres}
+Les rapports rendus par la commission restent une référence et constituent un argument central dans les débats publics. Par exemple, Florence Berthout, maire LR du 5ème Arrondissement, peut s’y appuyer pour souligner l’absence de concertation de la Ville de Paris avec les arrondissements et les communes concernées. Serge Federbusch, président du parti des Libertés, affirme qu’un avis défavorable de la part de la commission d’enquête est rare et prouve donc la faiblesse du projet de la Ville de Paris. {atlantico-interdire-paris-pauvres}
 
 Ce poids de la commission dans les débats politiques explique la vive réaction des défenseurs du projet de piétonisation lorsque le rapport s’y est montré clairement opposé.
 
@@ -62,4 +62,4 @@ De plus, après la décision par le tribunal d’annuler la fermeture des voies 
 
 Toutefois, La Mairie de Paris affirme que le nouvel arrêté de Mars 2018 n’a pas pour but de contourner la décision du tribunal administratif mais en tire les conséquences. {monde-nouvel-arrete}
 
-Aussi, ces limites légales restent critiquées, au nom de la légitimité. **Christophe Najdovski** (Mairie de Paris) affirme que Paris devrait avoir le droit de prendre la décision d’une fermeture définitive d’un axe de circulation sinon elle serait incapable de mettre fin à une autoroute urbaine.{point-revers-hidalgo}
+Aussi, ces limites légales restent critiquées, au nom de la légitimité. **Christophe Najdovski** (Mairie de Paris) affirme que Paris devrait avoir le droit de prendre la décision d’une fermeture définitive d’un axe de circulation sinon elle serait incapable de mettre fin à une autoroute urbaine. {point-revers-hidalgo}
