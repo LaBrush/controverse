@@ -1,5 +1,5 @@
 
-<div id="{{ article.id }}">
+<div id="{{ article.id }}" class="{% if article.color is not null %}color_{{ article.color | trim("#") }}{% endif %}">
 
 	{% if article.illustration is not null %}
 		<img class="col-12 px-0 pb-4" src="{{ article.illustration }}" alt="Illustration pour {{ article.name }}">
@@ -7,3 +7,19 @@
 
 	{{ article.renderContent() | raw }}
 </div>
+
+{% if article.color is not null %}
+	<style>
+		.color_{{ article.color | trim("#") }} h1, .color_{{ article.color | trim("#") }} h2 {
+			color: {{ article.color }};
+		}
+
+		.color_{{ article.color | trim("#") }} .timeline-marker:before{
+			background-color: {{ article.color }};
+		}
+
+		.color_{{ article.color | trim("#") }} .timeline-item:not(.period):hover .timeline-marker:before {
+			border: 3px solid {{ article.color }};
+		}
+	</style>
+{% endif %}
