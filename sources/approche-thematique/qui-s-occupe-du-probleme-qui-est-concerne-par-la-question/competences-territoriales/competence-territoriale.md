@@ -8,7 +8,7 @@ Pour les prises de décision à l’échelle de la Ville, le **Conseil de Paris*
 
 #### Plus de pouvoir pour la région ? Pour la ville ?
 
-Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#4-economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
+Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
 
 Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir.{afp-pietonisation-votee} {afp-rendre-berges} 
 
