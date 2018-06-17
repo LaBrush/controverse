@@ -10,4 +10,4 @@ quote{« Même si les mesures d’Airparif sont fiables, elles demeurent lacunai
 
 En effet, une station fixe de mesure coûte plus d’un million d’euros ce qui limite leur nombre à 70 en Île-de-France en 2018. Olivier Blond explique que des modélisations 3D très fines peuvent alors être construites mais elles fournissent seulement des estimations dans certaines zones qui dépendent alors des hypothèses retenues. {entretien-blond}.
 
-**Peu d'organismes réalisent donc des mesures qui est une activité difficile et onéreuse. Les débats ne portent donc pas sur la fiabilité des mesures en elle même, mais sur les hypothèses retenues et leur interprétation**
+**Peu d'organismes réalisent donc des mesures car il s'agit d'une activité difficile et onéreuse. Les débats ne portent donc pas sur la fiabilité des mesures en elle même, mais sur les hypothèses retenues et leur interprétation**
