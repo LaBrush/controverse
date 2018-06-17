@@ -194,7 +194,7 @@ class Article
 	}
 
 	function makeHover(People $people, $name = null){
-		return "<span class='text-primary' data-container='body' data-toggle='popover' data-trigger='hover' data-placement='top' data-title='" . $people->getName() . "' data-content='" . $people->getDescription() . "'>" . ($name !== null ? $name : $people->getName()) ."</span>" ;
+		return "<span class='text-primary' data-container='body' data-toggle='popover' data-trigger='hover' data-placement='top' data-title='" . htmlspecialchars($people->getName()) . "' data-content='" . htmlspecialchars($people->getDescription()) . "'>" . ($name !== null ? $name : $people->getName()) ."</span>" ;
 	}
 
 	/**
