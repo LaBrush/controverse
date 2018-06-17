@@ -172,7 +172,7 @@ selectionner-vehicules:
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/selectionner-vehicules.md
 
 mobilites-alternatives:
-    name: Les mobilités alternatives
+    name: Favoriser les mobilités alternatives
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
 
 
@@ -197,7 +197,7 @@ vehicules-autonomes:
 
 #quantifier
 
-problème_mesure:
+probleme-mesure:
     name: Le problème de la mesure
     type: title-2
     file: ~

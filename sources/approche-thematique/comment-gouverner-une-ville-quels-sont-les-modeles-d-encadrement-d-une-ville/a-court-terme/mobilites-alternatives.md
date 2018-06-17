@@ -1,4 +1,4 @@
-#### Mobilités alternatives
+#### Favoriser les mobilités alternatives
 
 Face à de vives critiques en octobre 2017 suite à la prise de position de la mairie de Paris pour une [interdiction des véhicules à moteurs thermiques](#mesures-contraindre-vehicules){figaro-douze-ans-bannir}, la mairie a dû préciser que sa politique était plutôt *« d’investir dans le développement des alternatives et dans le renforcement des aides financières qui permettent aux particuliers et aux professionnels d’acheter des véhicules propres. »* {paris-fin-diesel} Ainsi, la disparition des moteurs thermiques en 2030 est une *« ambition »* qui ne serait pas imposée. Pour atteindre cet objectif, la ville a adopté **le Plan Climat Air Énergie territorial** {20-min-paris-dement} en mars 2018. Plusieurs axes de ce plan ont été sujet à débat.
 
@@ -19,6 +19,6 @@ L’usage du vélo a **décuplé entre 1991 et 2017** et s’est démocratisé, 
 
 Selon **Frédéric Héran**, spécialiste de la mobilité, plusieurs moyens permettraient d’encourager le vélo : créer des zones 30 (pour que les voitures puissent cohabiter avec le reste des usagers sans problème), des aménagements cyclables sur les avenues plus rapides, et des services dédiés aux vélos. Cependant, il souligne que **le vélo n’aura pas beaucoup d’impact sur les émissions**, car on l’utilise majoritairement pour des petits trajets. D’ailleurs beaucoup de convertis au vélo utilisaient déjà un moyen de transport non polluant (la marche ou les transports en commun). {connexion-limiter-30}
 
-Une étude scientifique de 2011 sur l’utilisation de moyens de transport dits actifs (vélo ou marche){transport-policy-benefits-shift} montre ainsi que le plus gros bénéfice (sur la santé) pour l’utilisateur provient **de l’activité physique en elle-même**, et bien moins de **la réduction de pollution conséquente**.
+Une étude scientifique de 2011 sur l’utilisation de moyens de transport dits actifs (vélo ou marche) {transport-policy-benefits-shift} montre ainsi que le plus gros bénéfice (sur la santé) pour l’utilisateur provient **de l’activité physique en elle-même**, et bien moins de **la réduction de pollution conséquente**.
 
 Par ailleurs, on peut s’inquiéter d’une **plus grande exposition des cyclistes aux particules fines** ; la même étude montre que ces désavantages existent, mais sont eux aussi **minimes** par rapport au gain sanitaire issu de l’activité physique. Selon l’Observatoire régional de santé d’Île-de-France : « les bénéfices seraient même 20 fois plus importants que les risques, en particulier lorsque “le cycliste s’écarte de la circulation” » {monde-ptit-velib}
