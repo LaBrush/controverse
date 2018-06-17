@@ -186,6 +186,11 @@ vehicules-autonomes:
 
 #quantifier
 
+problème_mesure:
+    name: Le problème de la mesure
+    type: title-2
+    file: ~
+
 comment-prevoir-les-consequences:
     name: Que faut-il mesurer ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
