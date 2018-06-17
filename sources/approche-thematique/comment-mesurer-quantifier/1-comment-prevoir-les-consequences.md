@@ -2,10 +2,8 @@ La mise en place de projets pour modifier la place de la voiture en ville  néce
 
 Dans un deuxième temps, pour vérifier la concordance entre prévision et réalité, un comité de suivi peut être mis en place afin d’étudier l’évolution du trafic dans les zones concernées pendant une durée prédéfinie. Ces comités de suivi regroupent les collectivités locales concernées telles que la Mairie de Paris, le Conseil Régional, la préfecture de police mais aussi des entreprises comme la RATP. Toutefois, certains acteurs peuvent être initialement en désaccord avec les outils et les méthodes d’étude proposés et mettent alors en place des comités d’études, parfois privées, afin d’obtenir des données complémentaires. Dès lors la multiplicité des sources de données soulève le problème de leur légitimité.
 
-# Impact sur la pollution ?
+# Que faut-il mesurer?
 
-
-## Que mesurer ?
 *Selon Olivier Blond, président de l'association Respire, trois grandeurs sont essentielles pour évaluer les impacts des différentes mesures prises sur la pollution : l’émission individuelle des véhicules, la concentration de l’air ainsi que l’exposition individuelle.* 
 
 Les **émissions individuelles** des véhicules font l’objet de normes européennes, définissant des taux d’émissions que les véhicules doivent respecter pour être commercialisé. Ainsi, certains constructeurs ou équipementiers automobiles annoncent la création de moteurs innovants, avec pour Bosch par exemple, des émissions jusqu’à dix fois inférieures aux normes en vigueur. {monde_bosch_revolution}
