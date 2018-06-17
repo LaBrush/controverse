@@ -1,4 +1,9 @@
 
 <div id="{{ article.id }}">
+
+	{% if article.illustration is not null %}
+		<img class="col-12 px-0 pb-4" src="{{ article.illustration }}" alt="Illustration pour {{ article.name }}">
+	{% endif %}
+
 	{{ article.renderContent() | raw }}
 </div>

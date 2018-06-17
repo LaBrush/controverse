@@ -128,6 +128,7 @@ qui-est-concerne:
     name: Qui est concerné ?
     type: title-2
     file: ~
+    illustration: approche-thematique/illustrations/qui_est_concerne.jpg
 
 competence-territoriale:
     name: Compétences territoriale
@@ -136,6 +137,7 @@ competence-territoriale:
 qui-est-consulte:
     name: Qui est consulté ?
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
+    illustration: approche-thematique/illustrations/qui_est_consulte.jpg
 
 # comment gouverner
 
@@ -143,6 +145,7 @@ modeles-encadrement:
     name: Quels sont les modeles d'encadrement d'une ville ?
     type: title-2
     file: ~
+    illustration: approche-thematique/illustrations/modeles_encadrement.jpg
 
 court-terme:
     name: Mise en place de politiques à court terme
@@ -166,6 +169,7 @@ long-terme:
     name: "Vision sur le long terme : le progrès technique"
     type: title-3
     file: ~
+    illustration: approche-thematique/illustrations/vision_long_terme.jpg
 
 vehicules-thermiques:
     name: Des véhicules thermiques plus propres ?
@@ -201,6 +205,7 @@ inegalites-engendrees:
     name: Quelles sont les inégalités engendrées ?
     type: title-2
     file: ~
+    illustration: approche-thematique/illustrations/inegalites_spatiales.jpg
 
 inegalites-spatiales:
     name: Les inégalités spatiales
@@ -209,3 +214,4 @@ inegalites-spatiales:
 inegalites-socioprofessionnelle:
     name: Inégalités socioprofessionnels
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
+    illustration: approche-thematique/illustrations/inegalites_pros.jpg

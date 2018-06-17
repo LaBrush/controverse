@@ -29,6 +29,7 @@ class Article
 		$this->contentFile = __DIR__ . "/../../sources/" . $config["file"] ;
 		$this->color = isset($config["color"]) ? $config["color"] : null ;
 		$this->menuSep = isset($config["menu_sep"]) ? $config["menu_sep"] : null ;
+		$this->illustration = isset($config["illustration"]) ? "images/" . $config["illustration"] : null ;
 
 		$this->isHead = isset($config["isHead"]) && $config["isHead"] === true ;
 		$this->isTitle = isset($config["type"]) && strpos($config['type'], "title") == 0;
