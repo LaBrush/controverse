@@ -2,6 +2,8 @@
 
 La voiture électrique contribue également à **l’amélioration du parc automobile** mais son utilisation soulève encore de nombreux problèmes.
 
+![Peugeot BB1 car (Salon de l'automobile, Parc des expositions, Paris 4 octobre 2010)](peugeatBB1.jpg)
+
 À Paris, certains reprochent à people{Anne Hidalgo}{anne-hidalgo} de mettre en place des mesures pour supprimer les voitures thermiques alors que les solutions de remplacement, dont fait partie la voiture électrique **ne sont pas encore assez développées**. C'est par exemple le cas de Sylvain Maillard, député de Paris (La République en marche) : « Pour une meilleure qualité de l’air, nous sommes tous pour la sortie des énergies fossiles mais à ce jour les freins sont multiples. Ainsi par exemple, les véhicules électriques ont une autonomie limitée ».
 
 Une autonomie encore insuffisante, un temps de recharge trop long, des bornes trop peu nombreuses mais également des prix trop élevés : tels sont **les nombreux obstacles soulevés**. Malgré des aides à l’achat de plus de 10 000 euros, le véhicule électrique reste pour beaucoup **un produit de luxe**, au prix encore très dissuasif.
