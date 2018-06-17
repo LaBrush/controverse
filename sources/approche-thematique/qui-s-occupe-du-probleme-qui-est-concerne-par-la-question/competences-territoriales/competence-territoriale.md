@@ -43,7 +43,7 @@ Ces collaborations sont d’ailleurs un fait qui est mis en avant par la maire e
 
 #### La commission d’enquête publique : fournisseur de rapport consultatifs centraux dans les débats publics
 
-La **commission d’enquête publique** de la ville de Paris est une commission formée au sein de l’assemblée nationale et du Sénat. Son rôle est purement consultatif : l’objectif est pour elle est d’estimer les conséquences de décisions, en se basant sur les mesures officielles existantes, prises notamment par **Airparif** ([voir : Qui fait les mesures ?](#3-airparif)) . Vis-à-vis des avis qu’elle rend, les élus restent toutefois libres de passer outre ses recommandations, quitte à être les cibles de critiques.
+La **commission d’enquête publique** de la ville de Paris est une commission formée au sein de l’assemblée nationale et du Sénat. Son rôle est purement consultatif : l’objectif est pour elle est d’estimer les conséquences de décisions, en se basant sur les mesures officielles existantes, prises notamment par **Airparif** ([voir : Qui réalise les mesures ?](#airparif)) . Vis-à-vis des avis qu’elle rend, les élus restent toutefois libres de passer outre ses recommandations, quitte à être les cibles de critiques.
 
 Ainsi, dans le cas de la fermeture des voies sur berges, **Anne Hidalgo** a décidé en Août 2016 de faire fi de la condamnation du projet par la commission d’enquête. Cela lui vaut des réactions indignées, notamment par Philippe Goujon, maire d’arrondissement, qui affirme qu’**Anne Hidalgo** n’écoute que les avis qui vont dans le sens du projet. {afp-pietonisation-lr-justice} {afp-hidalgo-pietoniser} {moniteur-hidalgo-tient-bon}
 
