@@ -12,7 +12,7 @@ Consulté au sujet de ces réunions publiques, **Pierre Chasseray, délégué g�
 
 D’autres reproches concernent **l’étendue géographique des personnes concernées**. Pour **Me Jean-Baptiste Iosca**, qui a porté cette réclamation devant le Tribunal administratif, les arrondissements consultés ont été *« choisis en fonction de leur couleur politique »* {figaro-vsb-paris}.
 
-C’est également le point de vue de **Serge Federbusch, président du Parti des Libertés**, dans une analyse publiée dans le Figaro {le figaro -2016-08-25- Piétonnisation} : *« le report du trafic se fera nécessairement sur des arrondissements non prévus dans le périmètre de l’enquête »* ou encore *« la mairie s'est refusé à […] répondre aux objections des élus du Val-de-Marne et des Hauts-de-Seine »*
+C’est également le point de vue de **Serge Federbusch, président du Parti des Libertés**, dans une analyse publiée dans le Figaro {figaro-pietonisation-quais} : *« le report du trafic se fera nécessairement sur des arrondissements non prévus dans le périmètre de l’enquête »* ou encore *« la mairie s'est refusé à […] répondre aux objections des élus du Val-de-Marne et des Hauts-de-Seine »*
 
 ### Un autre sondage en 2017
 **En juin 2017**, un sondage IPSOS est commandé par **la mairie de Paris**. 66 % des Parisien·ne·s se disent favorables à sa politique de réduction de la place de la voiture, et 55 % d’entre eux·elles sont en faveur de la piétonisation {tribune-vsb-raison-hidalgo}.
