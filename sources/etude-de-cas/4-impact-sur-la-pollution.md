@@ -1,4 +1,4 @@
-# La qualité de l'air : c'est mieux ?
+# La qualité de l'air : est-ce que c'est mieux ?
 
 \start_encadre
 
