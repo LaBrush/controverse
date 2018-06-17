@@ -1,4 +1,4 @@
-#Sélectionner les véhicules
+####Sélectionner les véhicules
 
 Pour inciter les gens à ne pas prendre leur voiture dans leurs déplacements urbains, certains proposent d’implémenter un péage urbain. Pour Nicolas Dupont-Aignant, maire Debout La France de banlieue, il faut au contraire supprimer les péages au voisinage de Paris pour limiter les reports sur les routes empruntées quotidiennement par les travailleurs {parisien-banlieue-colere}. Pour Anne Hidalgo, ce type de stratégie est intéressante car elle permettrait de financer les transports en commun et donc de ne pas faire des péages urbains une source de fracture sociale, mais plutôt un moyen de développer les transports en commun. {orange-peage-urbain}
 
