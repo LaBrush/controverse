@@ -1,4 +1,4 @@
-# La voiture électrique : alternative future à la voiture thermique ?
+#### La voiture électrique : alternative future à la voiture thermique ?
 
 La voiture électrique contribue également à **l’amélioration du parc automobile** mais son utilisation soulève encore de nombreux problèmes.
 

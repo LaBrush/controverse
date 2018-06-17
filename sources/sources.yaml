@@ -99,23 +99,23 @@ etude-de-cas:
     color: "#f1c40f"
 
 bazar-et-etude-de-cas:
-    name: Bazar et étude de cas
+    name: Les prévisions de la Mairie réalistes ou sous-estimées ?
     file: etude-de-cas/1-bazar-et-etude-de-cas.md
 
 combat-du-siecle-des-comites:
-    name: Combat du siècle des comités
+    name: Comment mesurer les conséquences ?
     file: etude-de-cas/2-combat-du-siecle-des-comites.md
 
 impact-sur-la-circulation:
-    name: Impact sur la circulation
+    name: Comment mesurer l’impact sur la circulation ?
     file: etude-de-cas/3-impact-sur-la-circulation.md
 
 impact-sur-la-pollution:
-    name: Impact sur la pollution
+    name: La qualité de l'air : est-ce que c'est mieux ?
     file: etude-de-cas/4-impact-sur-la-pollution.md
 
 economie-locale:
-    name: L'économie locale
+    name: Au-delà de la pollution, un impact économique et social ?
     file: etude-de-cas/5-economie-locale.md
 
 # approche thématique
@@ -170,7 +170,7 @@ mobilites-alternatives:
 
 
 long-terme:
-    name: "Vision sur le long terme : le progrès technique"
+    name: "Vision sur le long terme : suivre le progrès technique"
     type: title-3
     file: ~
     illustration: approche-thematique/illustrations/vision_long_terme.jpg
@@ -190,12 +190,17 @@ vehicules-autonomes:
 
 #quantifier
 
+problème_mesure:
+    name: Le problème de la mesure
+    type: title-2
+    file: ~
+
 comment-prevoir-les-consequences:
-    name: Impact sur la pollution ?
+    name: Que faut-il mesurer ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
 
 mais-comment-verifier-la-concordance-entre-previsions-et-realite:
-    name: Impact sur le trafic ?
+    name: Qui réalise les mesures ?
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
 
 airparif:
@@ -212,7 +217,7 @@ inegalites-engendrees:
     illustration: approche-thematique/illustrations/inegalites_spatiales.jpg
 
 inegalites-spatiales:
-    name: Les inégalités spatiales
+    name: Inégalités spatiales
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
 
 inegalites-socioprofessionnelle:
