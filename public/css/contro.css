@@ -1,3 +1,7 @@
+body {
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Open Sans",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
 section.switch-section {
 	position: fixed;
 	top: 0;
@@ -19,6 +23,11 @@ img {
 
 .w-50 {
 	max-width: 80px ;
+}
+
+.wh-80 {
+	max-width: 80%;
+	max-height: 80vh;
 }
 
 .blockquote {

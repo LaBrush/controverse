@@ -6,7 +6,7 @@ Différents acteurs peuvent prendre des mesures pour agir sur la mobilité dans 
 
 Pour les prises de décision à l’échelle de la Ville, le **Conseil de Paris** est une assemblée d’élus où sont votées des mesures. Pour **Anne Hidalgo**, les prises de décisions sont compliquées par le fait que son parti (le PS) ne possède pas la majorité au conseil. En revanche, le soutien des élus d’Europe Ecologie Les Verts lui assurerait la majorité. Selon les propos de **Pierre Chasseray**, délégué général de l’association 40 Millions d’automobilistes, cela expliquerait le fait qu’elle s’accroche au projet de fermeture des voies sur berges, ou plus généralement aux entreprises luttant pour réduire la place de la voiture. Cela constitue pour elle une garanti de soutien des verts, et donc un atout politique. {afp-hidalgo-pietoniser} {entretien-chasseray}
 
-#### Plus de pouvoir pour la région? Pour la ville?
+#### Plus de pouvoir pour la région ? Pour la ville ?
 
 Il faut cependant garder en tête qu’un changement de voirie au centre de Paris aura des répercussions dans des périmètres bien plus étendus. ([voir Inégalités spatiales](#4-economie-locale)). C’est pourquoi la région peut chercher à obtenir du pouvoir décisionnel sur certaines mesures prises intra-muros.
 

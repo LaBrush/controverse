@@ -23,6 +23,10 @@ cartographie:
     name: Cartographie de la controverse
     file: accueil/cartographie.html
 
+acteurs:
+    name: Acteurs de la controverse
+    file: accueil/acteurs.html
+
 equipe:
     name: Qui sommes nous ?
     file: accueil/equipe.html

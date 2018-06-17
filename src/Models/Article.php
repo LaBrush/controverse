@@ -105,11 +105,11 @@ class Article
 						$year = "" ;
 
 						if(isset($citation["author"])){ $author = $citation["author"] ; }
-						if(isset($citation["journal"])){ $author = $citation["journal"] ; }
+						if(isset($citation["journal"])){ $author = "<em>" . $citation["journal"] . "</em>" ; }
 
 						if(isset($citation["year"])){ $year = ", " . $citation["year"]; }
 
-						$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', " <span class='text-muted'>(" . $author . $year . ")</span>", $content, 1);
+						$content = preg_replace('/ ?' . preg_quote($matches[0][$i], "/") . '/', " <span class='text-muted' title='" . (isset($citation["title"]) ? $citation["title"] : "") ."'>(" . $author . $year . ")</span>", $content, 1);
 					}
 
 				} catch (\Exception $e){
