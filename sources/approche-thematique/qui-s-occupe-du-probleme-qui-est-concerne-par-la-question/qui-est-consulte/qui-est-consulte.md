@@ -11,14 +11,14 @@ Entre autres événements, **la mairie** organise donc *« 4 réunions publiques
 
 Consulté au sujet de ces réunions publiques, **Pierre Chasseray, délégué général de l’association 40 millions d’automobilistes**, est très critique : *« Le débat public n’a de public que le nom. »* Il décrit une audience biaisée et polarisée contre lui, qui n’est pas prête à écouter son point de vue, persuadée qu’il est la voix des lobbies de l’automobile.
 
-D’autres reproches concernent **l’étendue géographique des personnes concernées**. Pour **Me Jean-Baptiste Iosca**, qui a porté cette réclamation devant le Tribunal administratif, les arrondissements consultés ont été *« choisis en fonction de leur couleur politique »* {le Figaro -2016-11-12 - Voies sur berge}.
+D’autres reproches concernent **l’étendue géographique des personnes concernées**. Pour **Me Jean-Baptiste Iosca**, qui a porté cette réclamation devant le Tribunal administratif, les arrondissements consultés ont été *« choisis en fonction de leur couleur politique »* {figaro_vsb_paris}.
 
 C’est également le point de vue de **Serge Federbusch, président du Parti des Libertés**, dans une analyse publiée dans le Figaro {le figaro -2016-08-25- Piétonnisation} : *« le report du trafic se fera nécessairement sur des arrondissements non prévus dans le périmètre de l’enquête »* ou encore *« la mairie s'est refusé à […] répondre aux objections des élus du Val-de-Marne et des Hauts-de-Seine »*
 
 ### Un autre sondage en 2017
-**En juin 2017**, un sondage IPSOS est commandé par **la mairie de Paris**. 66 % des Parisien·ne·s se disent favorables à sa politique de réduction de la place de la voiture, et 55 % d’entre eux·elles sont en faveur de la piétonisation {La Tribune - 2018-03-08 - Voies sur berges les Parisiens donnent raison à Hidalgo}.
+**En juin 2017**, un sondage IPSOS est commandé par **la mairie de Paris**. 66 % des Parisien·ne·s se disent favorables à sa politique de réduction de la place de la voiture, et 55 % d’entre eux·elles sont en faveur de la piétonisation {tribune_vsb_raison_hidalgo}.
 
 ### La communication avec les associations de citoyens
 **Pierre Chasseray, délégué général de l’association 40 millions d’automobilistes** — qui se revendique comme étant la plus présente dans l’opposition —, se plaint du manque de communication avec la mairie de Paris. Ainsi, **madame Hidalgo** n’a jamais voulu le rencontrer ou parler avec lui, que ce soit par lettre ou lors d’un entretien.
 
-De même, **Michel Romanet-Perroux, président de l’Union pour la défense et l’égalité de circuler motorisé**, dénonce un manque de dialogue : *« Il faut en finir avec ces décisions isolées, et sans consultations avec les premiers concernés. »* {20 Minutes - 2017-10-12 - La mairie de Paris dément vouloir interdire les voitures à essence mais elles ne sont pas les bienvenues}
+De même, **Michel Romanet-Perroux, président de l’Union pour la défense et l’égalité de circuler motorisé**, dénonce un manque de dialogue : *« Il faut en finir avec ces décisions isolées, et sans consultations avec les premiers concernés. »* {20_min_paris_dement}
