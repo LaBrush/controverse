@@ -168,30 +168,30 @@ long-terme:
     file: ~
 
 vehicules-thermiques:
-    name: Véhicules thermiques
+    name: Des véhicules thermiques plus propres ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
 
 voiture-electrique:
-    name: Véhicules éléctriques
+    name: La voiture électrique : alternative future à la voiture thermique ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
 
 vehicules-autonomes:
-    name: Véhicules autonomes
+    name: Les véhicules autonomes bientôt sur les routes ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
     menu_sep: true
 
 #quantifier
 
 comment-prevoir-les-consequences:
-    name: Comment prévoir les conséquences ?
+    name: Impact sur la pollution ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
 
 mais-comment-verifier-la-concordance-entre-previsions-et-realite:
-    name: Comment vérifier la concordance entre prévisions et réalité ?
+    name: Impact sur le trafic ?
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
 
 airparif:
-    name: La qualité de l'air
+    name: Divergence des interprétations
     file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
     menu_sep: true
 
