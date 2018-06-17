@@ -49,7 +49,7 @@ chronologie-1:
     file: chronologie/1-frise.html
 
 chronologie-2:
-    name: Fermeture rive gauche
+    name: Fermeture des voies sur berge (rive gauche)
     file: chronologie/2-frise.html
 
 chronologie-3:
@@ -61,19 +61,19 @@ chronologie-4:
     file: chronologie/4-frise.html
 
 chronologie-5:
-    name: Fermeture rive droite
+    name: Fermeture des voies sur berge (rive droite)
     file: chronologie/5-frise.html
 
 chronologie-6:
-    name: Etude de suivi
+    name: Étude de suivi par le comité Régional
     file: chronologie/6-frise.html
 
 chronologie-7:
-    name: "Justice : fermeture rive droite"
+    name: "Justice : réouverture aux voitures rive droite"
     file: chronologie/7-frise.html
 
 chronologie-8:
-    name: Réouverture avec de nouveaux arguments
+    name: Fermeture avec de nouveaux arguments
     file: chronologie/8-frise.html
 
 
