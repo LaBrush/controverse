@@ -1,7 +1,7 @@
-### Mise en place de mesure pour contraindre les véhicules
+#### Mise en place de mesure pour contraindre les véhicules
 Pour faire évoluer les habitudes de mobilité urbaine, des mesures contraignant les automobilistes peuvent être adoptées par les collectivités. Elles cherchent ainsi à **rendre les voitures moins intéressantes**, que ce soit financièrement, en termes de temps de trajets ou de confort. Ces dernières sont donc délaissées : ce phénomène est appelé **« évaporation du trafic »**.
 
-#### Renforcer les limitations de vitesse
+##### Renforcer les limitations de vitesse
 La mairie de Paris prévoit de **multiplier les zones 30**, des zones où la vitesse maximale est limitée à 30 km/h.
 
 Tout d'abord, une telle mesure **rendrait les voies plus sûres** pour **les modes de transports doux** qui circulent aux côtés des voitures, comme les vélos.
@@ -10,7 +10,7 @@ Par ailleurs, un véhicule limité à 30 km/h **pollue beaucoup moins** que s�
 
 En définitive, limiter la vitesse à 30 km/h encouragerait **l’abandon de la voiture au profit de modes de transport plus doux** et rendus moins dangereux. {lrp-paris-vsb} {matinale-moitie-voirie-zone-30}
 
-#### Fermer des voies pour les piétonniser
+##### Fermer des voies pour les piétonniser
 Piétonniser un espace urbain, c’est à la fois **limiter la place de la voiture** en espérant une évaporation du trafic, mais aussi proposer **un espace supplémentaire de promenade** aux piétons et vélos et ainsi améliorer la qualité de vie des citadins.
 
 Face aux critiques de sa politique de piétonnisation, l'exécutif parisien espère **des reports de circulations temporaires**, arguant que les usagers viendront naturellement à changer de moyen de transport à terme. Cela suppose néanmoins que l’offre de transports en communs soit suffisante pour absorber cette évaporation. ([voir Favoriser les mobilités alternatives](#mobilites-alternatives)) {afp-pietonisation}
