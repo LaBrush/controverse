@@ -1,4 +1,4 @@
-### Compétence territoriale : Répartition du pouvoir ? Qui peut agir, comment et où ?
+### Répartition des compétences territoriales ?
 
 Différents acteurs peuvent prendre des mesures pour agir sur la mobilité dans Paris. Ces acteurs ont des champs d’action différents, que ce soit en termes de domaines de compétences ou de découpage des territoires sur lesquels leurs pouvoirs s’étendent. Cependant, les délimitations mêmes de ces domaines de compétences sont débattues et contestées. En outre, planifier des mesures pour la ville demande une grande coopération. La contraposée étant que des divergences entre les acteurs peut être source de difficultés dans la prise de décision et la mise en place d’actions sur le long terme.
 
@@ -52,7 +52,7 @@ Ce poids de la commission dans les débats politiques explique la vive réaction
 La mairie de Paris et **Christophe Nadjovski** accusent ainsi la commission d’enquête d’avoir une opinion biaisée sur le projet, et d’avoir minimisé les avantages au profit des inconvénients listés par les opposants. {20-minutes-50-ans-retard} Anne Hidalgo affirme en effet que le rapport de la commission d’enquête ne tient pas compte des motifs environnementaux, sanitaires, urbains et culturels à l'origine de ce projet de piétonisation. {afp-hidalgo-pietoniser} {moniteur-hidalgo-tient-bon}
 
 
-## Le tribunal administratif : un arbitre légal contesté
+#### Le tribunal administratif : un arbitre légal contesté
 
 Le tribunal administratif a un rôle juridique vis-à-vis de la répartition du pouvoir, notamment ici concernant la politique de mobilité territoriale. Ainsi, si il fait état d’un abus de position d’un acteur, il est en son pouvoir de revenir sur des décisions, ou interdire certaines mesures. Le tribunal administratif sanctionne également le cadre dans lequel la décision a été prise. Il souligne par exemple que l'utilisation de l'article L. 2213-2 du Code général des collectivités territoriales (CGCT) ne permet pas au maire d'interdire de façon permanente une voie aux automobilistes. {gazette-feuilleton-vsb}
 
