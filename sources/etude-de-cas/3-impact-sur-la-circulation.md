@@ -1,7 +1,9 @@
-# Mesurer l’impact sur la circulation
+# Comment mesurer l’impact sur la circulation
 
-## C’est quoi vos sources svp ?
+## D'où viennent les mesures ?
 Le rapport du **comité de suivi régional** présente les points communs et les différences des sources de données de circulation et temps de parcours des deux comités de suivi. _« Les sources de données sont les mêmes pour les débits horaires [comptage du nombre de véhicules] : l’open data de la Ville de Paris et la DIRIF [DRIEA] pour le réseau des voies rapides en banlieue. En revanche, les données de temps de parcours ont des origines différentes. »_{rapport_comite_regional} Tandis que la DIRIF (comité de la **préfecture**) exploite les données du site SYTADIN qui exploite des balises Bluetooth combinées aux informations issues de TOMTOM et GOOGLE MAPS {entretien_prefecture}, l’**IAU** (**comité régional**) utilise les données fournies par Autoroutes Trafic issues des GPS Coyote embarqués dans les véhicules pour reproduire les temps de parcours, ce qui lui permettrait d’étudier des axes de circulation en dehors de Paris. {rapport_comite_regional} Néanmoins l’**IAU** traite les données pour le **comité régional** lorsqu’elles sont mises en open-data, soit un mois à un mois et demi après les mesures tandis que la DIRIF les exploite immédiatement. {tribune_vsb_guerre_chiffres} Même si la majorité des données sont communes aux deux comités de suivi, les méthodes d’analyse diffèrent et aboutissent donc à des résultats et des conclusions différents, ce qui engendre des discussions sur la légitimité et la justesse de chaque étude.
+
+## La bataille des hypothèses : Qui a raison ?
 
 quote{« Ce ne sont que des premiers indicateurs mais sur le volume comme le temps de parcours, ce n'est pas non plus l'apocalypse annoncée par certains, loin de là. »}{Christophe Najdovski, adjoint à la Mairie de Paris en charge des transports, septembre 2016}{tribune_valide_pietonisation}
 
