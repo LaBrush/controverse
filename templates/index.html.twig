@@ -225,7 +225,13 @@
 		$('section').first().append("<div class=\"alert alert-danger show mt-3\" role=\"alert\"> Vous utilisez IE6, nous vous conseillons d'utiliser un navigateur récent pour plus de confort de navigation\n</div>");
 	}
 
-	</script>
+</script>
+
+<script>
+	$(function(){
+		$('[data-toggle="popover"]').popover({container: "body", html: true});
+	});
+</script>
 
 </body>
 </html>
