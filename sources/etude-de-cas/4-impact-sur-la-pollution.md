@@ -14,7 +14,7 @@ Les mesures et les analyses concernant la qualité de l’air des deux comités 
 
 Le rapport publié par **Airparif** au deuxième semestre de 2017 et intégré aux deux rapports du **comité régional** et de la **préfecture** présentent les variations des concentrations de dioxyde d’azote en fonction de la zone géographique. Il a ainsi été observé une amélioration de la qualité de l’air au niveau des berges piétonnisées où les taux de polluants ont diminué jusqu’à -25% sur les quais bas. Des chiffres cités par **Anne Hidalgo** pour montrer l’amélioration de l’attractivité des voies sur berge pour les piétons et cyclistes {monde-ptit-velib}. Toutefois les teneurs en dioxyde d’azote ont augmenté jusqu’à 15% sur le quai Henri IV et de Bercy et, de manière plus limitée (1% à 5%), sur les axes de report tels que le boulevard Saint-Germain. De faibles écarts ont également été notés sur l’A4, l’A86 et l’A13. {rapport-comite-regional}. **Pierre Carli**, président du comité de suivi régional complète ces données en indiquant une augmentation de 53% en oxyde d’azote et de 49% des particules fines sur les quais hauts. {tribune-vsb-guerre-chiffres}. Il en conclut que la fermeture des voies sur berge ne remplit pas l’objectif sanitaire initialement fixé par la Mairie de Paris à cause de la dégradation de la qualité de l’air. {tribune-vsb-guerre-chiffres}
 
-![Airparif](Airparif httpswww.parisdepeches.fr2-Societe4096-Grand_Paris8458-Airparif_dote_deux_nouvelles_stations_mesures.html.pnf)
+![Airparif](airparif.png)
 
 quote{« La piétonisation n'a pas annulé la pollution. Cela l'a juste déplacée »}{Stéphane Beaudet, vice-président (LR) de la région, en charge des Transports {aujourdhui-rapport-airparif}}
 
