@@ -282,7 +282,7 @@ class Article
 				$nav .= "<div class='col-md-6 text-right'><a class='no-back' href='#" . $next->getId() . "'>Article suivant : " . $next->getName() . "</a></div>";
 			}
 
-			$content = $content . "<div class='container'><div class='row'>$nav</div></div>";
+			$content = $content . "<div class='container py-4'><div class='row'>$nav</div></div>";
 		}
 
 		return $content ;
