@@ -1,3 +1,16 @@
+#sample:
+#    name: Sample
+#    file: path/to/sample.md
+#    position:
+#        x: 34
+#        y: 9 * sin(23)
+#        z: 0
+#    rotation:
+#        x: 3.14159265358979323846264338327950288419716939937510494459582097
+#        y: 0.1
+#        z: 2
+
+
 #Accueil
 
 accueil:
@@ -71,7 +84,7 @@ chronologie-6:
     color: "#8BADDC"
 
 chronologie-7:
-    name: "Justice : réouverture aux voitures rive droite"
+    name: Justice : réouverture aux voitures rive droite
     file: chronologie/7-frise.html
     color: "#f7d762"
 
@@ -123,22 +136,19 @@ approche-thematique:
 qui-est-concerne:
     name: Qui est concerné ?
     type: title-2
-    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-concerne.md
+    file: ~
     illustration: approche-thematique/illustrations/qui_est_concerne.jpg
     new_page: true
 
 competence-territoriale:
     name: Compétences territoriale
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
-    new_page: true
     illustration: approche-thematique/illustrations/champsHiver.png
 
 qui-est-consulte:
     name: Qui est consulté ?
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-consulte/qui-est-consulte.md
     illustration: approche-thematique/illustrations/qui_est_consulte.jpg
-    menu_sep: true
-    new_page: true
 
 # comment gouverner
 
@@ -154,73 +164,65 @@ court-terme:
     type: title-3
     illustration: approche-thematique/illustrations/RG.png
     file: ~
-    new_page: true
 
 mesures-contraindre-vehicules:
     name: Des mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
-    new_page: true
     illustration: approche-thematique/illustrations/RGpont.png
 
 selectionner-vehicules:
     name: Sélectionner les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/selectionner-vehicules.md
-    new_page: true
     illustration: approche-thematique/illustrations/rivoli.png
 
 mobilites-alternatives:
     name: Favoriser les mobilités alternatives
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
-    new_page: true
     illustration: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/velo.png
 
 long-terme:
-    name: "Vision sur le long terme : suivre le progrès technique"
+    name: Vision sur le long terme : suivre le progrès technique
     type: title-3
     file: ~
     illustration: approche-thematique/illustrations/vision_long_terme.jpg
-    new_page: true
 
 vehicules-thermiques:
-    name: "Renouvellement du parc automobile : des véhicules thermiques plus propres ?"
+    name: Renouvellement du parc automobile : des véhicules thermiques plus propres ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
-    new_page: true
+    illustration: approche-thematique/illustrations/renouvellement.png
 
 voiture-electrique:
-    name: "La voiture électrique : alternative future à la voiture thermique ?"
+    name: La voiture électrique : alternative future à la voiture thermique ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
-    new_page: true
+    illustration: approche-thematique/illustrations/voitureAuto.png
 
 vehicules-autonomes:
     name: Les véhicules autonomes bientôt sur les routes ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
+    illustration: approche-thematique/illustrations/voitureElec.png
     menu_sep: true
-    new_page: true
 
 #quantifier
 
 probleme-mesure:
     name: Le problème de la mesure
     type: title-2
-    file: approche-thematique/comment-mesurer-quantifier/probleme-mesure.md
+    file: ~
     illustration: approche-thematique/illustrations/mesures.png
     new_page: true
 
 comment-prevoir-les-consequences:
     name: Que faut-il mesurer ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
-    new_page: true
 
 mais-comment-verifier-la-concordance-entre-previsions-et-realite:
     name: Qui réalise les mesures ?
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
-    new_page: true
 
 airparif:
     name: Divergence des interprétations
     file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
     menu_sep: true
-    new_page: true
 
 #quelles-sont-les-inegalites-engendrees
 
@@ -232,12 +234,10 @@ inegalites-engendrees:
     new_page: true
 
 inegalites-spatiales:
-    name: "Inégalités spatiales : les banlieues trop souvent laissées à l’écart"
+    name: Inégalités spatiales
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
-    new_page: true
 
 inegalites-socioprofessionnelle:
     name: Impact sur l'économie locale
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
     illustration: approche-thematique/illustrations/inegalites_pros.jpg
-    new_page: true
