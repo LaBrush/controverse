@@ -136,7 +136,7 @@ approche-thematique:
 qui-est-concerne:
     name: Qui est concerné ?
     type: title-2
-    file: ~
+    file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/qui-est-concerne.md
     illustration: approche-thematique/illustrations/qui_est_concerne.jpg
     new_page: true
 
