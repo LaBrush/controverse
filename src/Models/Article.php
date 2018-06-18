@@ -242,7 +242,7 @@ class Article
 
 					$preview = preg_replace("/<h[1-6]>(.+)<\/h[1-6]>/", "", $preview);
 
-					$popover = 'data-container="body" data-toggle="popover" data-trigger="hover" data-placement="top" data-title="' . $title . '" data-content="' . $preview . '""';
+					$popover = 'data-container="body" data-toggle="popover" data-trigger="focus hover" data-placement="top" data-title="' . $title . '" data-content="' . $preview . '""';
 				}
 
 				return $arg[0] . " " . $popover;
