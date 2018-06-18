@@ -170,12 +170,13 @@ class Article
 			$float = "" ;
 			if(strpos($arg[1], 'float-left')){ $float = "float-left" ; }
 			elseif(strpos($arg[1], 'float-right')){ $float = "float-right" ; }
+			else { $float = "m-auto" ; }
 
 			$col = "" ;
 			preg_match("/col-([0-9]+)/", $arg[1], $match);
 
 			if($match){
-				$col = "col-md-" . $match[1];
+				$col = "col-md-" . $match[1] ;
 			}
 
 			return "<div class='text-center px-4 $float $col'>" . $arg[0] ."<p class='text-muted pt-2 mb-0'><em>" . $alt . "</em></p></div>";

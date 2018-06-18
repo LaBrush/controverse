@@ -203,6 +203,9 @@
 					$page = $page.parent()
 				}
 
+				refresh();
+
+
 				if($page.length > 0){
 					$page.parent().find(".page").hide();
 					$page.show();
@@ -212,10 +215,8 @@
 			}
 		});
 
-		refresh();
-	});
+	}).trigger("hashchange");
 
-	$('.section').find('.page:not(:first-child)').hide();
 
 	$(document).keydown(function(e) {
 		switch(e.which) {

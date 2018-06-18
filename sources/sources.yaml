@@ -48,7 +48,7 @@ bibliographie:
 
 
 chronologie-globale:
-    name: Chronologie
+    name: Chronologie de la controverse
     file: chronologie/0-global.html
     isHead: true
     color: "#e74c3c"
@@ -92,8 +92,6 @@ chronologie-8:
     name: Fermeture avec de nouveaux arguments
     file: chronologie/8-frise.html
     color: "#7FD8CA"
-
-
 
 # Etude de cas
 
