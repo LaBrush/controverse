@@ -271,5 +271,13 @@
 	});
 </script>
 
+<script>
+	var $legende = $('#cartographie_legende');
+
+	$('#cartographie_map area').mouseenter(function(e){
+		$legende.html($(this).attr("data-legend"));
+	});
+</script>
+
 </body>
 </html>
