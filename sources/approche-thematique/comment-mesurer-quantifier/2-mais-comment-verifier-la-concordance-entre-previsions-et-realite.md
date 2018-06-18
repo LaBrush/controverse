@@ -6,7 +6,7 @@ A Paris et dans ses environs, les données relatives au trafic automobile, à sa
 
 A Paris et en Île-de-France, Airparif est l’organisme chargé de mesurer les concentrations de ces particules, de déterminer leurs sources et ainsi d’évaluer l’efficacité des projets mis en place par les collectivités. Aujourd’hui, Airparif est la seule source de données sur la qualité de l’air à Paris et détient le monopole depuis plus de 20 ans : les tentatives de mesures d’autres organismes sont très peu nombreuses car il s’agit d’une tâche compliquée. {entretien-blond}
 
-quote{« Même si les mesures d’Airparif sont fiables, elles demeurent lacunaires. »}{Olivier Blond, membre du Conseil d’administration d’Airparif et président de Respire
+quote{« Même si les mesures d’Airparif sont fiables, elles demeurent lacunaires. »}{Olivier Blond, membre du Conseil d’administration d’Airparif et président de Respire}
 
 En effet, une station fixe de mesure coûte plus d’un million d’euros ce qui limite leur nombre à 70 en Île-de-France en 2018. Olivier Blond explique que des modélisations 3D très fines peuvent alors être construites mais elles fournissent seulement des estimations dans certaines zones qui dépendent alors des hypothèses retenues. {entretien-blond}.
 
