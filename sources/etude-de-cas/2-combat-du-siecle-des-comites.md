@@ -4,9 +4,7 @@
 
 Un mois après la publication du rapport de la commission d’enquête, le préfet de police people{Michel Cadot}{michel-cadot} demande la tenue d’une période de suivi d’au moins six mois au cours de laquelle seront observées les conséquences de la piétonnisation sur la circulation, la pollution atmosphérique et les nuisances sonores. Ce comité est mis en place le 3 octobre 2016 et est composé des acteurs institutionnels tels que les **conseils régional et départemental**, la **mairie de Paris**, la **métropole du Grand Paris** ou encore **la chambre de commerce et d’industrie**. Sa fonction est de regrouper l’ensemble des données disponibles et relatives au trafic automobile et à la pollution et d’en proposer une analyse afin d’évaluer l’impact de la piétonnisation des voies sur berge. {rapport-vsb-prefecture}
 
-_« [Les acteurs se sont accordés] sur une méthodologie et des outils de mesure qui pourront être suivis au fil des mois jusqu'au terme des six mois d'observation»_
-
-**Michel Cadot, préfet de police** {monde-fermeture-qualite-air}
+quote{« [Les acteurs se sont accordés] sur une méthodologie et des outils de mesure qui pourront être suivis au fil des mois jusqu'au terme des six mois d'observation»}{Michel Cadot, préfet de police {monde-fermeture-qualite-air}}
 
 Les données sont recueillies et analysées par différents organismes. **La pollution de l’air et les nuisances sonores** sont traitées respectivement par people{Airparif}{airparif} et people{Bruitparif}{bruitparif}. **Le trafic routier régional** est étudié par la Direction Régionale et Interdépartementale de l’Equipement et de l’Aménagement d’Île-de-France (DRIEA), composé notamment de people{la Direction interdépartementale des routes d’Île-de-France (DiRIF)}{dirif}. **Les informations sur le trafic routier parisien** sont relevées par la Direction de la Voirie et des Déplacements de la mairie de Paris puis sont exploitées par la société SYSTRA. Enfin, **les circulations des véhicules de secours et de police et les transports publics** sont respectivement observées par les services opérationnels de la **préfecture de police** et la **RATP**. {rapport-vsb-prefecture}
 
