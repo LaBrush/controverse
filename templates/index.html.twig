@@ -271,12 +271,20 @@
 </script>
 
 <script>
-	var $legende = $('#cartographie_legende');
 
 	$('#cartographie_map area').mouseenter(function(e){
 		var legend = $(this).attr("data-legend");
 		if (legend !== undefined) {
-			$legende.html(legend + "<a href='" + $(this).attr("href") + "'>Lire la suite</a>");
+			$('#cartographie_legende').html(legend + "<a href='" + $(this).attr("href") + "'>Lire la suite</a>");
+		}
+	});
+
+
+	$('#acteurs_map area').mouseenter(function(e){
+		console.log("bip");
+		var legend = $(this).attr("data-legend");
+		if (legend !== undefined) {
+			$('#acteurs_legende').html(legend);
 		}
 	});
 </script>
