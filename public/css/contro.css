@@ -30,6 +30,13 @@ img {
 	max-height: 80vh;
 }
 
+@media (min-width: 700px) {
+	.wh-60 {
+		max-width: 60%;
+		max-height: 60vh;
+	}
+}
+
 .blockquote {
 	font-style: italic;
 }
