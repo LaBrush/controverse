@@ -1,4 +1,4 @@
-# Qui réalise les mesures ?
+### Qui réalise les mesures ?
 
 En Île-de-France, les mesures sont réalisées par des organismes proches des collectivités territoriales : Direction de la voirie et des déplacements de la Mairie de Paris, Direction des routes d’Île-de-France de la Préfecture de Police de Paris ou encore Airparif. La mesure étant une activité difficile et l’installation de capteurs étant onéreuse, les acteurs réalisant ces mesures sont donc peu nombreux : ainsi les données utilisées par les différents organismes des comités d’étude ou de suivi proviennent pour leur majorité de sources communes. Dès lors, seule l’absence de mesures de certaines grandeurs est critiquée par les acteurs comme **Olivier Blond**, la fiabilité et la précision des résultats étant la même pour chacune de leurs exploitations.
 
