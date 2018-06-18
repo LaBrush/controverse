@@ -196,16 +196,19 @@ long-terme:
 vehicules-thermiques:
     name: "Renouvellement du parc automobile : des véhicules thermiques plus propres ?"
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
+    illustration: approche-thematique/illustrations/renouvellement.png
     new_page: true
 
 voiture-electrique:
     name: "La voiture électrique : alternative future à la voiture thermique ?"
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
+    illustration: approche-thematique/illustrations/voituresElec.png
     new_page: true
 
 vehicules-autonomes:
     name: Les véhicules autonomes bientôt sur les routes ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/3-vehicules-autonomes.md
+    illustration: approche-thematique/illustrations/voitureAuto.png
     menu_sep: true
     new_page: true
 
@@ -221,16 +224,19 @@ probleme-mesure:
 comment-prevoir-les-consequences:
     name: Que faut-il mesurer ?
     file: approche-thematique/comment-mesurer-quantifier/1-comment-prevoir-les-consequences.md
+    illustration: approche-thematique/illustrations/capteurs.png
     new_page: true
 
 mais-comment-verifier-la-concordance-entre-previsions-et-realite:
     name: Qui réalise les mesures ?
     file: approche-thematique/comment-mesurer-quantifier/2-mais-comment-verifier-la-concordance-entre-previsions-et-realite.md
+    illustration: approche-thematique/illustrations/airparif.png
     new_page: true
 
 airparif:
     name: Divergence des interprétations
     file: approche-thematique/comment-mesurer-quantifier/3-airparif.md
+    illustration: approche-thematique/illustrations/divergence.png
     menu_sep: true
     new_page: true
 
@@ -246,10 +252,11 @@ inegalites-engendrees:
 inegalites-spatiales:
     name: "Inégalités spatiales : les banlieues trop souvent laissées à l’écart"
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
+    illustration: approche-thematique/illustrations/bouchons.png
     new_page: true
 
 inegalites-socioprofessionnelle:
-    name: Impact sur l'économie locale
+    name: Inégalités socioprofessionnelles
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
     illustration: approche-thematique/illustrations/inegalites_pros.jpg
     new_page: true
