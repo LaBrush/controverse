@@ -201,6 +201,18 @@ class Article
 			return $arg[0] . " " . $popover ;
  		}, $content);
 
+		$content = preg_replace_callback("/{readfile\((.+)\)}/", function ($arg){
+
+			$path = __DIR__ . "/../../sources/resumes/" . $arg[1] . ".md" ;
+			trigger_error(file_get_contents($path));
+			if(file_exists($path)){
+				return file_get_contents($path);
+			} else {
+				return "" ;
+			}
+
+		}, $content);
+
 		return $content ;
 	}
 

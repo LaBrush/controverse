@@ -12,8 +12,6 @@ Il faut cependant garder en tête qu’un changement de voirie au centre de Pari
 
 Par exemple, pour la fermeture des voies sur berge (rive droite), la **région Île-de-France** a classé ces voies comme voies routières d’intérêt régional pour obtenir la légitimité d’intervenir. {afp-pietonisation-votee} {afp-rendre-berges}
 
-![des voies d'intérêt régional?](maillon-d-interet-regional-va-avec-competences-terr.png)
-
 De façon inverse, la ville souhaiterait avoir plus de pouvoir afin de faciliter les prises de décisions. **people{Anne Hidalgo}{anne-hidalgo}** affirme en mars dernier (2018) que **Valérie Pécresse**, à qui elle attribue la charge des transports publics en tant que dirigeante de la région, retarde la création d’un bus sur les quais hauts en site propre (annoncée en 2021 au lieu de 2019 comme initialement prévu). Elle aimerait ainsi que la mairie de Paris et la Métropole aient davantage de pouvoir décisionnel dans la gestion des transports en commun par rapport au **Conseil régional**. {challenge-vsb-arrete-pietonnisation}
 
 #### La collaboration à différentes échelles : Paris, la métropole, la région, l’état.
