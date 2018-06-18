@@ -33,11 +33,11 @@ acteurs:
     file: accueil/acteurs.html
 
 equipe:
-    name: Qui sommes nous ?
+    name: Qui sommes-nous ?
     file: accueil/equipe.html
 
 clause-non-responsabilite:
-    name: Clause de non responsabilité
+    name: Clause de non-responsabilité
     file: accueil/responsabilite.html
 
 bibliographie:
@@ -59,7 +59,7 @@ chronologie-1:
     color: "#F9B256"
 
 chronologie-2:
-    name: Fermeture des voies sur berge (rive gauche)
+    name: Fermeture des voies sur berges (rive gauche)
     file: chronologie/2-frise.html
     color: "#AFD39A"
 
@@ -74,17 +74,17 @@ chronologie-4:
     color: "#F29FC5"
 
 chronologie-5:
-    name: Fermeture des voies sur berge (rive droite)
+    name: Fermeture des voies sur berges (rive droite)
     file: chronologie/5-frise.html
     color: "#E30613"
 
 chronologie-6:
-    name: Étude de suivi par le comité Régional
+    name: Étude de suivi par le comité régional
     file: chronologie/6-frise.html
     color: "#8BADDC"
 
 chronologie-7:
-    name: "Justice : réouverture aux voitures rive droite"
+    name: Justice : réouverture aux voitures rive droite
     file: chronologie/7-frise.html
     color: "#f7d762"
 
@@ -96,14 +96,14 @@ chronologie-8:
 # Etude de cas
 
 etude-de-cas:
-    name: Etude de cas
+    name: Étude de cas
     file: etude-de-cas/presentation.html
     isHead: true
     color: "#f1c40f"
     illustration: etude-de-cas/quaisBas.png
 
 bazar-et-etude-de-cas:
-    name: Les prévisions de la Mairie réalistes ou sous-estimées ?
+    name: Les prévisions de la mairie sont-elles réalistes ?
     file: etude-de-cas/1-bazar-et-etude-de-cas.md
 
 combat-du-siecle-des-comites:
@@ -115,7 +115,7 @@ impact-sur-la-circulation:
     file: etude-de-cas/3-impact-sur-la-circulation.md
 
 impact-sur-la-pollution:
-    name: "La qualité de l'air : est-ce que c'est mieux ?"
+    name: La qualité de l'air s'est-elle améliorée ?
     file: etude-de-cas/4-impact-sur-la-pollution.md
 
 economie-locale:
@@ -152,7 +152,7 @@ qui-est-consulte:
 # comment gouverner
 
 modeles-encadrement:
-    name: Quels sont les modeles d'encadrement d'une ville ?
+    name: Quels sont les modèles d'encadrement d'une ville ?
     type: title-2
     file: ~
     illustration: approche-thematique/illustrations/modeles_encadrement.jpg
@@ -164,11 +164,11 @@ court-terme:
     file: ~
 
 mesures-contraindre-vehicules:
-    name: Les mesures pour contraindre les véhicules
+    name: Des mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
 
 selectionner-vehicules:
-    name: Sélectionner les véhicules ?
+    name: Sélectionner les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/selectionner-vehicules.md
 
 mobilites-alternatives:
@@ -177,17 +177,17 @@ mobilites-alternatives:
 
 
 long-terme:
-    name: "Vision sur le long terme : suivre le progrès technique"
+    name: Vision sur le long terme : suivre le progrès technique
     type: title-3
     file: ~
     illustration: approche-thematique/illustrations/vision_long_terme.jpg
 
 vehicules-thermiques:
-    name: Des véhicules thermiques plus propres ?
+    name: Renouvellement du parc automobile : des véhicules thermiques plus propres ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
 
 voiture-electrique:
-    name: "La voiture électrique : alternative future à la voiture thermique ?"
+    name: La voiture électrique : alternative future à la voiture thermique ?
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
 
 vehicules-autonomes:
@@ -234,6 +234,3 @@ inegalites-socioprofessionnelle:
     name: Impact sur l'économie locale
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
     illustration: approche-thematique/illustrations/inegalites_pros.jpg
-
-    
-    
