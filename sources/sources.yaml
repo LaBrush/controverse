@@ -232,7 +232,7 @@ inegalites-engendrees:
     new_page: true
 
 inegalites-spatiales:
-    name: Inégalités spatiales : les banlieues trop souvent laissées à l’écart
+    name: "Inégalités spatiales : les banlieues trop souvent laissées à l’écart"
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
     new_page: true
 
