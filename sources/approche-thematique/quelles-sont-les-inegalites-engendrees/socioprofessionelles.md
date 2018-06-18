@@ -1,4 +1,4 @@
-###Inégalités socio-professionnelles 
+### Inégalités socio-professionnelles 
 
 #### Inégalité professionnelles
 L’impact sur l’économie locale d’une politique concernant la circulation automobile peut être présentée à travers deux groupes d’acteurs. Il y a d’un côté celui des commerçants et des activités locales. Leur réaction vis-à-vis d’une réduction ou d’une augmentation du trafic automobile est variable. En septembre 2017, **Pierre Serne**, conseiller régional en Ile-de-France et président du Club des villes et territoires cyclables explique que la première réaction des commerçants face à l’arrivée du tramway sur les boulevards des maréchaux à Paris a donné lieu à une forte opposition de leur part : ils craignaient une baisse de leur chiffre d’affaire consécutive à une diminution du trafic routier et donc de la visibilité de leur enseigne par les automobilistes. Finalement, après la mise en place du tramway, **Pierre Serne** souligne que _« les enquêtes de commercialité ont pourtant montré une hausse du chiffre d'affaire de 40 % six mois après »_. {gazette-communes-ville-apaisee}
