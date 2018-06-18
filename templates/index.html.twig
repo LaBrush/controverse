@@ -110,6 +110,8 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 
 <script src="js/imageMapResizer.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/jquery.scrollto@2.1.2/jquery.scrollTo.min.js"></script>
+
 
 <script>
 
@@ -133,8 +135,6 @@
 		}
 
 		$('.back-button').remove();
-
-		console.log($cur);
 
 		if($cur.attr('id')){
 			var $backButton = $('<div class="container back-button"><p class="alert alert-success">Revenir à <a href="#">ancien</a><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></p></div>');
@@ -209,6 +209,7 @@
 				if($page.length > 0){
 					$page.parent().find(".page").hide();
 					$page.show();
+					$page.scrollTo(id);
 				}
 
 				return false ;
