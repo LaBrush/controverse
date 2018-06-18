@@ -168,15 +168,17 @@ court-terme:
 mesures-contraindre-vehicules:
     name: Des mesures pour contraindre les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mise-en-place-de-mesure-pour-contraindre-les-vehicules.md
+    illustration: approche-thematique/illustrations/RGpont.png
 
 selectionner-vehicules:
     name: Sélectionner les véhicules
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/selectionner-vehicules.md
+    illustration: approche-thematique/illustrations/rivoli.png
 
 mobilites-alternatives:
     name: Favoriser les mobilités alternatives
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/mobilites-alternatives.md
-
+    illustration: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/velo.png
 
 long-terme:
     name: Vision sur le long terme : suivre le progrès technique
