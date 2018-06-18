@@ -87,7 +87,7 @@ class Article
 					break ;
 				}
 			}
-			
+
 			$breadcrumb = '<nav aria-label="breadcrumb">' ;
 			$breadcrumb .= '<ol class="breadcrumb">' ;
 
@@ -218,7 +218,7 @@ class Article
 		}, $content);
 		$content = $content . "<div class='clearfix'></div>";
 
-		if (strpos("no_popover", $content) == -1) {
+		if (strpos($content, "no_popover") === false) {
 			$content = preg_replace_callback("/href=['|\"]#(.+)['|\"]/Um", function ($arg) {
 				$popover = "";
 
