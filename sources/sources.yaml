@@ -84,7 +84,7 @@ chronologie-6:
     color: "#8BADDC"
 
 chronologie-7:
-    name: Justice : réouverture aux voitures rive droite
+    name: "Justice : réouverture aux voitures rive droite"
     file: chronologie/7-frise.html
     color: "#f7d762"
 
@@ -181,18 +181,18 @@ mobilites-alternatives:
     illustration: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-court-terme/velo.png
 
 long-terme:
-    name: Vision sur le long terme : suivre le progrès technique
+    name: "Vision sur le long terme : suivre le progrès technique"
     type: title-3
     file: ~
     illustration: approche-thematique/illustrations/vision_long_terme.jpg
 
 vehicules-thermiques:
-    name: Renouvellement du parc automobile : des véhicules thermiques plus propres ?
+    name: "Renouvellement du parc automobile : des véhicules thermiques plus propres ?"
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/1-vehicules-thermiques.md
     illustration: approche-thematique/illustrations/renouvellement.png
 
 voiture-electrique:
-    name: La voiture électrique : alternative future à la voiture thermique ?
+    name: "La voiture électrique : alternative future à la voiture thermique ?"
     file: approche-thematique/comment-gouverner-une-ville-quels-sont-les-modeles-d-encadrement-d-une-ville/a-long-terme/suivre-le-progres-technique/2-voiture-electrique.md
     illustration: approche-thematique/illustrations/voitureAuto.png
 
