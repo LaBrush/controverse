@@ -205,7 +205,6 @@
 
 				refresh();
 
-
 				if($page.length > 0){
 					$page.parent().find(".page").hide();
 					$page.show();
@@ -275,8 +274,10 @@
 	var $legende = $('#cartographie_legende');
 
 	$('#cartographie_map area').mouseenter(function(e){
-		console.log($(this).attr("data-legend"));
-		$legende.html($(this).attr("data-legend"));
+		var legend = $(this).attr("data-legend");
+		if (legend !== undefined) {
+			$legende.html(legend + "<a href='" + $(this).attr("href") + "'>Lire la suite</a>");
+		}
 	});
 </script>
 

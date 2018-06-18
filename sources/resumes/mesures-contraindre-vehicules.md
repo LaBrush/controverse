@@ -1,2 +1,1 @@
-## Mesures pour contraindre les véhicules
 Contraindre les véhicules, c’est fermer des voies ou limiter des vitesses dans l’espoir de pousser progressivement les utilisateurs à changer de mode de transport. En piétonnisant les voies sur berge, Paris espère réduire la place de la voiture et valoriser un nouvel espace. Cependant, la façon subite avec laquelle le projet a été amené reste largement critiqué, ainsi que le présupposé d’évaporation du trafic.
