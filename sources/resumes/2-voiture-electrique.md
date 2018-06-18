@@ -1,0 +1,1 @@
+Le véhicule électrique est présenté comme un moyen de transport propre qui permettrait de résoudre les problèmes de pollution et mettre fin au débat sur la voiture. Pourtant de nombreuses questions et obstacles subsistent encore autour de son utilisation. 
