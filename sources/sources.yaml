@@ -256,7 +256,7 @@ inegalites-spatiales:
     new_page: true
 
 inegalites-socioprofessionnelle:
-    name: Impact sur l'économie locale
+    name: Inégalités socioprofessionnelles
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/socioprofessionelles.md
     illustration: approche-thematique/illustrations/inegalites_pros.jpg
     new_page: true
