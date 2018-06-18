@@ -161,6 +161,7 @@ modeles-encadrement:
 court-terme:
     name: Mise en place de politiques à court terme
     type: title-3
+    illustration: approche-thematique/illustrations/RG.png
     file: ~
 
 mesures-contraindre-vehicules:
