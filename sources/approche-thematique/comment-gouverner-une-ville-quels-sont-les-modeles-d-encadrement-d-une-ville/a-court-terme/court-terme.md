@@ -1,5 +1,6 @@
 #  Mise en place de politiques à court terme
 
-* [Mise en place de politiques à court terme](#court-terme)
-* [Des mesures pour contraindre les véhicules](#long-terme)
+* [Des mesures pour contraindre les véhicules](#mesures-contraindre-vehicules)
+* [Sélectionner les véhicules](#selectionner-vehicules)
+* [Favoriser les mobilités alternatives](#mobilites-alternatives)
 
