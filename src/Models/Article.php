@@ -57,11 +57,17 @@ class Article
 	}
 
 	public function renderContent(){
-		if($this->isTitle()){
+		if($this->isTitle() && $this->relativePath == null){
 			return "<div class='container'><h" . $this->titleLevel .">" . $this->getName() . "</h" . $this->titleLevel ."></div>" ;
 		}
 
 		$content = file_get_contents($this->contentFile);
+
+		try {
+			pathinfo($this->contentFile)["extension"];
+		} catch (\Exception $e){
+			trigger_error($this->contentFile);
+		}
 
 		if(pathinfo($this->contentFile)["extension"] == "md"){
 
@@ -254,6 +260,30 @@ class Article
 			}
 
 		}, $content);
+
+		if($this->isNewPage()){
+			# ajout des bookmarks
+
+			for($i = 0, $c = count(Article::$articles) ; $i < $c ; $i++){
+				if(Article::$articles[$i] == $this){
+					break ;
+				}
+			}
+
+			$nav = "" ;
+
+			if($i > 0){
+				$prev = Article::$articles[$i - 1];
+				$nav .= "<div class='col-md-6'><a class='no-back' href='#" . $prev->getId() . "'>Article précédent : " . $prev->getName() . "</a></div>";
+			}
+
+			if($i < count(Article::$articles) - 2){
+				$next = Article::$articles[$i + 1];
+				$nav .= "<div class='col-md-6 text-right'><a class='no-back' href='#" . $next->getId() . "'>Article suivant : " . $next->getName() . "</a></div>";
+			}
+
+			$content = $content . "<div class='container'><div class='row'>$nav</div></div>";
+		}
 
 		return $content ;
 	}
