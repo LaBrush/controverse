@@ -48,7 +48,7 @@ bibliographie:
 
 
 chronologie-globale:
-    name: Chronologie de la controverse
+    name: Chronologie de l'étude de cas
     file: chronologie/0-global.html
     isHead: true
     color: "#e74c3c"

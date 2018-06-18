@@ -183,30 +183,37 @@ class Article
 		}, $content);
 		$content = $content . "<div class='clearfix'></div>";
 
-		$content = preg_replace_callback("/href=['|\"]#(.+)['|\"]/Um", function ($arg){
-			$popover = "" ;
-			$file = __DIR__ . "/../../sources/resumes/" . $arg[1] . ".md" ;
-			if(file_exists($file)) {
-				$preview = file_get_contents($file);
-				$preview = $this->parsedown->text($preview);
+		if (strpos("no_popover", $content) == -1) {
+			$content = preg_replace_callback("/href=['|\"]#(.+)['|\"]/Um", function ($arg) {
+				$popover = "";
 
-				preg_match("/<h[1-6]>(.+)<\/h[1-6]>/", $preview, $title);
-				$title = $title[1];
+				$file = __DIR__ . "/../../sources/resumes/" . $arg[1] . ".md";
+				if (file_exists($file)) {
+					$preview = file_get_contents($file);
+					$preview = $this->parsedown->text($preview);
 
-				$preview = preg_replace("/<h[1-6]>(.+)<\/h[1-6]>/", "", $preview);
+					preg_match("/<h[1-6]>(.+)<\/h[1-6]>/", $preview, $title);
+					if (count($title) >= 2) {
+						$title = $title[1];
+					} else {
+						$title = "";
+					}
 
-				$popover = 'data-container="body" data-toggle="popover" data-trigger="hover" data-placement="top" data-title="' . $title . '" data-content="' . $preview . '""';
-			}
+					$preview = preg_replace("/<h[1-6]>(.+)<\/h[1-6]>/", "", $preview);
 
-			return $arg[0] . " " . $popover ;
- 		}, $content);
+					$popover = 'data-container="body" data-toggle="popover" data-trigger="hover" data-placement="top" data-title="' . $title . '" data-content="' . $preview . '""';
+				}
+
+				return $arg[0] . " " . $popover;
+			}, $content);
+		}
+		$content = str_replace("no_popover", "", $content);
 
 		$content = preg_replace_callback("/{readfile\((.+)\)}/", function ($arg){
 
 			$path = __DIR__ . "/../../sources/resumes/" . $arg[1] . ".md" ;
-			trigger_error(file_get_contents($path));
 			if(file_exists($path)){
-				return file_get_contents($path);
+				return htmlspecialchars($this->parsedown->text(file_get_contents($path)));
 			} else {
 				return "" ;
 			}
