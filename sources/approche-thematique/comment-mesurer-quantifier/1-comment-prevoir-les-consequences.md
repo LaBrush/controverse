@@ -2,7 +2,7 @@
 
 #### L'impact sur la pollution
 
-*Selon people{Olivier Blond}{olivier_blond}, trois grandeurs sont essentielles pour évaluer les impacts des différentes mesures prises sur la pollution : l’émission individuelle des véhicules, la concentration de l’air et l’exposition individuelle.*
+*Selon people{Olivier Blond}{olivier-blond}, trois grandeurs sont essentielles pour évaluer les impacts des différentes mesures prises sur la pollution : l’émission individuelle des véhicules, la concentration de l’air et l’exposition individuelle.*
 
 Les **émissions individuelles** des véhicules font l’objet de normes européennes, définissant des taux d’émissions que les véhicules doivent respecter pour être commercialisés. Ainsi, certains constructeurs ou équipementiers automobiles annoncent la création de moteurs innovants. Bosch, par exemple, annonce des émissions jusqu’à dix fois inférieures aux normes en vigueur. {monde-bosch-revolution}
 
