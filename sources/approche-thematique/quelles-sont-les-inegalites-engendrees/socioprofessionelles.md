@@ -8,3 +8,9 @@ Il y a d’un côté celui des commerçants et des activités locales. Leur réa
 Le second groupe concerné est **l’ensemble des travailleurs utilisant quotidiennement la voiture pour traverser Paris et se rendre à leur lieu de travail**. Ludovic Toro, maire UDI de Coubron (Seine-Saint-Denis) indique non sans ironie que les artisans ne peuvent pas se permettre de transporter leur matériel dans le RER. {parisien-banlieue-colere}
 
 En 2013, la fermeture des voies sur berges de la rive gauche avait déjà entraîné une réaction des syndicats de taxis de Paris qui se plaignaient d’**une augmentation des coûts liée à un temps de trajet plus long à cause des embouteillages**. {jdd-fin-voitures}
+
+### Les classes modestes les plus impactées ?
+
+Les mesures de sélection de véhicules telles que Crit’Air et le trafic différencié visent à **[interdire la circulation des véhicules les plus polluants](selectionner-vehicules)**. Ces voitures étant généralement les plus abordables, ce sont donc **les familles modestes et intermédiaires qui sont victimes de cette politique**, d’autant plus que la valeur de ces véhicules diminue après l’annonce de la mise en place des politiques de sélection : _« Taxer les gros véhicules diesel qui coûtent très cher peut se comprendre, mais priver des propriétaires de véhicules modestes de l'usage ou de la revente de ce véhicule (1250€ de dévaluation en moyenne selon les études), c'est terrible pour des personnes qui ont très peu de moyens, »_ s’indigne people{Florence Berthout}{florence-berthout}, maire LR du 5ème arrondissement {atlantico-interdire-paris-pauvres}.
+
+Afin de soutenir les foyers modestes et les artisans, des aides au financement sont régulièrement proposées par les collectivités locales ou l’État comme en décembre 2017 lorsque la **région Île-de-France** annonce un investissement de 4 millions d’euros pour aider le renouvellement des véhicules des artisans et commerçants. {monde-fermeture-qualite-air}
