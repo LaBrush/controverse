@@ -275,6 +275,7 @@
 	var $legende = $('#cartographie_legende');
 
 	$('#cartographie_map area').mouseenter(function(e){
+		console.log($(this).attr("data-legend"));
 		$legende.html($(this).attr("data-legend"));
 	});
 </script>
