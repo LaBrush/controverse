@@ -2,7 +2,7 @@
 
 ### D'où viennent les mesures ?
 
-Le rapport du **comité de suivi régional** présente les points communs et les différences des sources de données de circulation et temps de parcours des deux comités de suivi. _« Les sources de données sont les mêmes pour les débits horaires [comptage du nombre de véhicules] : l’open data de la Ville de Paris et la DIRIF [DRIEA] pour le réseau des voies rapides en banlieue. En revanche, les données de temps de parcours ont des origines différentes. »_{rapport-comite-regional}
+Le rapport du **comité de suivi régional** présente les points communs et les différences des sources de données de circulation et temps de parcours des deux comités de suivi. _« Les sources de données sont les mêmes pour les débits horaires [comptage du nombre de véhicules] : l’open data de la Ville de Paris et la DIRIF [DRIEA] pour le réseau des voies rapides en banlieue. En revanche, les données de temps de parcours ont des origines différentes. »_ {rapport-comite-regional}
 
 Tandis que la people{DIRIF}{dirif} (comité de la **préfecture**) exploite les données du site SYTADIN qui exploite des balises Bluetooth combinées aux informations issues de TomTom et Google Maps {entretien-prefecture}, l’**IAU** (**comité régional**) utilise les données fournies par Autoroutes Trafic issues des GPS Coyote embarqués dans les véhicules pour reproduire les temps de parcours, ce qui lui permettrait d’étudier des axes de circulation en dehors de Paris. {rapport-comite-regional} Néanmoins, l’**IAU** traite les données pour le **comité régional** lorsqu’elles sont mises en _open-data_, soit un mois à un mois et demi après les mesures tandis que la DIRIF les exploite immédiatement. {tribune-vsb-guerre-chiffres}
 
@@ -10,7 +10,7 @@ Même si la majorité des données sont communes aux deux comités de suivi, les
 
 ### La bataille des hypothèses : qui a raison ?
 
-quote{« Ce ne sont que des premiers indicateurs mais sur le volume comme le temps de parcours, ce n'est pas non plus l'apocalypse annoncée par certains, loin de là. »}{people{Christophe Najdovski}{christophe-najdovski}, adjoint à la mairie de Paris en charge des transports, septembre 2016} {tribune-valide-pietonisation}
+quote{« Ce ne sont que des premiers indicateurs mais sur le volume comme le temps de parcours, ce n'est pas non plus l'apocalypse annoncée par certains, loin de là. »}{Christophe Najdovski, adjoint à la mairie de Paris en charge des transports, septembre 2016 {tribune-valide-pietonisation}}
 
 ![Boulevard Saint-Germain (photo prise par le groupe le 16/06/2018) float-left col-4](stgermain.jpg)
 
