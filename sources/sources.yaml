@@ -228,8 +228,12 @@ inegalites-engendrees:
     illustration: approche-thematique/illustrations/inegalites_spatiales.jpg
     new_page: true
 
+classes-modestes:
+    name: Les classes modestes les plus impactées ?
+    file: approche-thematique/quelles-sont-les-inegalites-engendrees/classes-modestes.md
+
 inegalites-spatiales:
-    name: Inégalités spatiales
+    name: Inégalités spatiales : les banlieues trop souvent laissées à l’écart
     file: approche-thematique/quelles-sont-les-inegalites-engendrees/inegalites-spatiales.md
 
 inegalites-socioprofessionnelle:
