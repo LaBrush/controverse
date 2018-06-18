@@ -30,9 +30,7 @@ Cette _« évaporation de la circulation »_, couplée aux mesures de réduction
 
 ### Des mesures précises ou imprécises ?
 
-_« L'analyse des déplacements n'est pas une science exacte. »_
-
-**people{Frédéric Héran}{frederic-heran}, enseignant à l’université Lille 1, spécialiste des questions de mobilité** {express-trafic-diminue}
+quote{« L'analyse des déplacements n'est pas une science exacte. »}{Frédéric Héran, enseignant à l’université Lille 1, spécialiste des questions de mobilité {express-trafic-diminue}}
 
 Contrairement à **la mairie de Paris** qui soutient que les études de circulation présentées sont _« objectives et extrêmement précises »_ {afp-hidalgo-pietoniser}, people{la commission d’enquête}{commission-enquete-publique} indique que la piétonnisation des voies sur berges va engendrer des reports de circulation et des embouteillages plus importants que ceux annoncés dans les simulations. {figaro-vsb-paris}
 
@@ -41,7 +39,7 @@ En novembre 2016, une quinzaine de personnes (riverains, commerçants et militan
 Cela ne suffit pas à convaincre **la commission d’enquête** qui déclare manquer d’éléments, en particulier sur la provenance et la destination des véhicules utilisant les voies sur berges, pour conclure quant à l’intérêt public du projet, notamment du point de vue de la pollution de l’air {monde-polemique-berges}. people{Serge Federbusch}{serge-federbusch}, illustre cette remarque en estimant que les trois quarts des véhicules utilisant actuellement les voies sur berge de la rive droite ont disparu du bilan de pollution {figaro-pietonisation-quais}.
 
 ### Un air plus propre ?
-_« Rien ne montre que ce projet va améliorer la qualité de l'air, bien au contraire, il va l'aggraver avec les reports de circulation »_ s’exclame **Jean-François Legaret**, maire LR du 1er arrondissement. {monde-polemique-berges}.
+« Rien ne montre que ce projet va améliorer la qualité de l'air, bien au contraire, il va l'aggraver avec les reports de circulation »_ s’exclame **Jean-François Legaret**, maire LR du 1er arrondissement. {monde-polemique-berges}.
 
 people{La commission d’enquête}{commission-enquete-publique} est elle aussi dubitative sur l’amélioration de la qualité de l’air présentée dans l’étude d’impact {atlantico-interdire-paris-pauvres} : elle critique par exemple l’hypothèse retenue pour la vitesse au niveau des quais hauts de 50 km/h alors que les résultats des simulations sont d’environ 16 km/h en soulignant que _« les émissions polluantes des automobiles à la vitesse de 20 km/h sont deux fois supérieures à celles émises à la vitesse de 50 km/h »_. {figaro-pietonisation-quais}.
 
