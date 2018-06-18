@@ -201,6 +201,7 @@ probleme-mesure:
     name: Le problème de la mesure
     type: title-2
     file: ~
+    illustration: approche-thematique/illustrations/mesures.png
     new_page: true
 
 comment-prevoir-les-consequences:
