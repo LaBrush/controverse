@@ -25,6 +25,7 @@ class Article
 	private $parsedown;
 
 	static private $entries = null ;
+	static private $articles = [] ;
 
 	public function __construct($id, $config)
 	{
@@ -51,6 +52,8 @@ class Article
 			$parser->parseString(file_get_contents(__DIR__ . "/../../sources/bibliographie.bib"));   // or parseFile('/path/to/file.bib')
 			Article::$entries = $listener->export();  // Get processed data from the Listener
 		}
+
+		Article::$articles[] = $this ;
 	}
 
 	public function renderContent(){
@@ -63,6 +66,39 @@ class Article
 		if(pathinfo($this->contentFile)["extension"] == "md"){
 
 			$content = $this->parsedown->text($content);
+
+			# creation de la breadcrumb
+
+			for($i = 0, $c = count(Article::$articles) ; $i < $c ; $i++){
+				if(Article::$articles[$i] == $this){
+					break ;
+				}
+			}
+
+			$stack = [$this] ;
+
+			for (; $i >= 0 ; $i--){
+				if (Article::$articles[$i]->isTitle() && (Article::$articles[$i]->titleLevel < $stack[0]->titleLevel || $stack[0]->titleLevel == null)){
+					array_unshift($stack, Article::$articles[$i]);
+				}
+
+				if(Article::$articles[$i]->isHead()){
+					array_unshift($stack, Article::$articles[$i]);
+					break ;
+				}
+			}
+			
+			$breadcrumb = '<nav aria-label="breadcrumb">' ;
+			$breadcrumb .= '<ol class="breadcrumb">' ;
+
+			for($i = 0, $c = count($stack) ; $i < $c ; $i++){
+				$breadcrumb .= '<li class="breadcrumb-item ' . (($i == $c-1) ? "active" : "") .  '"><a href="#' . $stack[$i]->getId() . '">' . $stack[$i]->getName() .'</a></li>' ;
+			}
+
+			$breadcrumb .= '</ol>';
+			$breadcrumb .= '</nav>';
+
+			$content = $breadcrumb . $content ;
 
 			# creation de la biliographie
 
@@ -122,7 +158,6 @@ class Article
 					throw $e ;
 				}
 			}
-
 
 			# échappement des accolades
 			$content = str_replace("\{", "{", $content);
