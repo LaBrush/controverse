@@ -143,6 +143,7 @@ qui-est-concerne:
 competence-territoriale:
     name: Compétences territoriale
     file: approche-thematique/qui-s-occupe-du-probleme-qui-est-concerne-par-la-question/competences-territoriales/competence-territoriale.md
+    illustration: approche-thematique/illustrations/champsHiver.png
 
 qui-est-consulte:
     name: Qui est consulté ?
@@ -161,6 +162,7 @@ modeles-encadrement:
 court-terme:
     name: Mise en place de politiques à court terme
     type: title-3
+    illustration: approche-thematique/illustrations/RG.png
     file: ~
 
 mesures-contraindre-vehicules:
