@@ -22,7 +22,7 @@ Deux semaines plus tard, le comité de suivi régional publie un rapport d’ét
 
 Globalement, la mairie de Paris affiche un allongement de 39 % du temps de trajet sur les quais hauts le soir entre septembre 2015 et septembre 2016 contre 74 % pour la région Île-de-France. {tribune-vsb-guerre-chiffres}
 
-![Quais hauts (source : Wikimedia Commons) float-right col-6](quaishauts.jpg)
+![Quais hauts (source : [Wikimedia Commons]()) float-right col-6](quaishauts.jpg)
 
 _« Les effets de report sont très importants, allant jusqu'à l'A86, »_ ajoute people{Valérie Pécresse}{valerie-pecresse}, présidente de la **région Île-de-France** {tribune-vsb-guerre-chiffres}. Des propos illustrés par le comité de suivi régional avec une augmentation de 22 % sur la rocade de l’A86 entre Thiais et Créteil (Val-de-Marne) aux heures de pointe le soir et de 28 % le matin. {figaro-livre-accuse-hidalgo}
 
