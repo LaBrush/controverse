@@ -1,1 +1,3 @@
+# Le problème de la mesure : divergence des interprétations
+
 Finalement, c’est l’exploitation et l’interprétation des mesures, via les hypothèses et les contextes spatio-temporels retenus, qui sont davantage à l’origine des désaccords entre les acteurs : quelles hypothèses reflètent le mieux la réalité ? Où les mesures doivent-elles être réalisées ? A partir de quand peut-on observer les conséquences sur la circulation ? Sur la pollution de l’air ?
