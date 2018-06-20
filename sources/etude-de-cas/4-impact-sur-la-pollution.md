@@ -10,7 +10,7 @@ Dans _Notre-Drame de Paris_ (Albin Michel), Airy Routier et Nadia Le Brun cherch
 
 \stop_encadre
 
-Les mesures et les analyses concernant la qualité de l’air des deux comités de suivi ont été effectuées par le même organisme, à savoir \people{Airparif}{airparif}. L’agence a réalisé deux campagnes de mesure d’une durée d'un mois chacune, la première ayant eu lieu du 15 novembre 2016 au 13 décembre 2016 et la seconde du 30 mai 2017 au 27 juin 2017. Elle a ainsi pu prendre en compte l’influence des conditions météorologiques ainsi que l’évolution des comportements et des habitudes des usagers.
+Les mesures et les analyses concernant la qualité de l’air des deux comités de suivi ont été effectuées par le même organisme, à savoir people{Airparif}{airparif}. L’agence a réalisé deux campagnes de mesure d’une durée d'un mois chacune, la première ayant eu lieu du 15 novembre 2016 au 13 décembre 2016 et la seconde du 30 mai 2017 au 27 juin 2017. Elle a ainsi pu prendre en compte l’influence des conditions météorologiques ainsi que l’évolution des comportements et des habitudes des usagers.
 
 Afin de couvrir un périmètre regroupant à la fois les voies fermées à la circulation et les itinéraires concernés par les reports de circulation à Paris et en proche banlieue, 80 points supplémentaires de mesure ont été installés et se sont ajoutés aux 60 stations initialement présentes, dont un point tous les 300 mètres le long des voies sur berge. {rapport-comite-regional}
 

@@ -277,7 +277,7 @@ class Article
 				$nav .= "<div class='col-md-6'><a class='no-back' href='#" . $prev->getId() . "'>Article précédent : " . $prev->getName() . "</a></div>";
 			}
 
-			if($i < count(Article::$articles) - 2){
+			if($i < count(Article::$articles) - 1){
 				$next = Article::$articles[$i + 1];
 				$nav .= "<div class='col-md-6 text-right'><a class='no-back' href='#" . $next->getId() . "'>Article suivant : " . $next->getName() . "</a></div>";
 			}
