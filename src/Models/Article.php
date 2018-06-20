@@ -220,7 +220,7 @@ class Article
 				$col = "col-md-" . $match[1] ;
 			}
 
-			return "<div class='text-center px-4 $float $col'>" . $arg[0] ."<p class='text-muted pt-2 mb-0'><em>" . $alt . "</em></p></div>";
+			return "<div class='text-center px-4 $float $col'>" . $arg[0] ."<p class='text-muted pt-2 mb-0'><em>" . $this->parsedown->text($alt) . "</em></p></div>";
 		}, $content);
 		$content = $content . "<div class='clearfix'></div>";
 

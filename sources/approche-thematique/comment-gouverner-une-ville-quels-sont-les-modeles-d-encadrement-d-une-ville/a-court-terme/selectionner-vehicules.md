@@ -4,7 +4,7 @@ Pour inciter les gens à ne pas prendre leur voiture dans leurs déplacements ur
 
 Pour people{Anne Hidalgo}{anne-hidalgo}, ce type de stratégie est intéressant car il permet de financer les transports en commun, ce qui permet de **ne pas faire des péages urbains une source de fracture sociale**. {orange-peage-urbain}
 
-![Vignettes crit'air float-right (source : [charente-maritime.gouv](http://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Archives/Certificat-Qualite-de-l-Air-a-compter-du-15-janvier-2017)](critair.jpg)
+![Vignettes crit'air float-right (source : [charente-maritime.gouv](http://www.charente-maritime.gouv.fr/Actualites/Espace-Presse/Communiques-de-presse/Archives/Certificat-Qualite-de-l-Air-a-compter-du-15-janvier-2017))](critair.jpg)
 
 Un compromis possible pour réduire le nombre de véhicules en ville est de **sélectionner parmi les plus polluants**. Ainsi, la mairie de Paris a mis en place l’utilisation de **la vignette Crit’Air**, qui se base sur la pollution émise par les véhicules pour les interdire à la circulation en cas de pic de pollution. Pour people{Pierre Chasseray}{pierre-chasseray} {courrier-picard-contre-pollution}, **un tel dispositif est cependant inutile** puisque dans quelques années **les normes utilisées ne seront plus en phase avec les niveaux de pollution atteints par les véhicules**, qui sont en constante diminution. En remplacement, la Région propose plutôt **une taxe sur les poids lourds**, qui sont les véhicules les plus polluants {monde-fermeture-qualite-air}.
 
