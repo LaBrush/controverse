@@ -13,7 +13,7 @@ En définitive, limiter la vitesse à 30 km/h encouragerait **l’abandon de la 
 
 ##### Fermer des voies pour les piétonniser
 
-![Piétonnisation des voies sur berges (source : europe1.fr) float-left col-6](pietonnisation.jpg)
+![Piétonnisation des voies sur berges (source : [l'Express](https://www.lexpress.fr/actualite/societe/trafic/a-paris-les-berges-de-seine-rive-droite-vont-rester-pietonnes_1922612.html)) float-left col-6](pietonnisation.jpg)
 
 Piétonniser un espace urbain, c’est à la fois **limiter la place de la voiture** en espérant une évaporation du trafic, mais aussi proposer **un espace supplémentaire de promenade** aux piétons et vélos et ainsi améliorer la qualité de vie des citadins.
 
