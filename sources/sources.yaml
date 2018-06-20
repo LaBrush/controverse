@@ -32,6 +32,10 @@ acteurs:
     name: Acteurs de la controverse
     file: accueil/acteurs.html
 
+teaser-etude-de-cas:
+    name: Etude de cas
+    file: accueil/teaser-etude-de-cas.html
+
 equipe:
     name: Qui sommes-nous ?
     file: accueil/equipe.html

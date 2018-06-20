@@ -13,3 +13,5 @@ En réponse aux inquiétudes formulées par la commission d’enquête, people{A
 ### Des inégalités renforcées à cause des mesures anti-voitures ?
 
 Après l’annonce de la mise en place de la piétonnisation des voies sur berges, people{les maires de banlieue}{maires-banlieue} ont dénoncé des conséquences très négatives pour leurs habitants, dépendants de la voiture. {parisien-banlieue-colere} _« Les gens ne foncent pas dans les bouchons spontanément pour le plaisir. Si les Parisiens peuvent se passer de voitures, chez nous le maillage et l’état du RER ne le permettent pas, »_ indique Pascal Thévenot, maire LR de Vélizy-Villacoublay (Yvelines) {parisien-banlieue-colere}. _« Paris est devenue aujourd'hui une ville très difficile pour les populations modestes, mais aussi les classes intermédiaires reléguées en dehors de Paris, »_ ajoute Florence Berthout, maire LR du 5ème arrondissement.
+
+<p class="text-center"><a href="#approche-thematique" class="btn btn-lg btn-success">Continuer vers l'approche thématique ></a></p>

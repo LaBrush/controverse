@@ -32,8 +32,8 @@ img {
 
 @media (min-width: 700px) {
 	.wh-60 {
-		max-width: 60%;
-		max-height: 60vh;
+		max-width: 70%;
+		max-height: 70vh;
 	}
 }
 
@@ -106,6 +106,10 @@ img {
 
 .popover {
 	max-width: 550px;
+}
+
+.border-big {
+	border: solid black 3px !important;
 }
 
 /*==================================

@@ -145,7 +145,7 @@
 			;
 
 			$backButton.find('a').on('click', updateBackListener);
-			$backButton.prependTo($target).clone().appendTo($target);
+			$backButton.prependTo($target);
 		}
 	};
 
@@ -236,13 +236,14 @@
 	});
 
 	$('#sidebar_toggle').click(function(){
-		$('#sidebar').toggle("slide");
+		$('#sidebar').toggle("slide").focus();
 	});
 
 	$('#sidebar').toggle();
 
 	$('#sidebar a').click(function(){
 		$('#sidebar').toggle("slide");
+		$('#content').focus();
 	});
 
 	$('.fade').delay(2000).fadeOut(400)
