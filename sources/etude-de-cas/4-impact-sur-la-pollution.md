@@ -14,7 +14,7 @@ Les mesures et les analyses concernant la qualité de l’air des deux comités 
 
 Afin de couvrir un périmètre regroupant à la fois les voies fermées à la circulation et les itinéraires concernés par les reports de circulation à Paris et en proche banlieue, 80 points supplémentaires de mesure ont été installés et se sont ajoutés aux 60 stations initialement présentes, dont un point tous les 300 mètres le long des voies sur berge. {rapport-comite-regional}
 
-![Airparif (source : Paris Dépêches) col-4](airparif.png)
+![Airparif source : [Paris Dépêches](https://www.parisdepeches.fr/2-Societe/4096-Grand_Paris/8458-Airparif_dote_deux_nouvelles_stations_mesures.html)) col-4](airparif.png)
 
 Le rapport publié par Airparif*au deuxième semestre de 2017 et intégré aux deux rapports du **comité régional** et de la **préfecture** présentent **les variations des concentrations de dioxyde d’azote en fonction de la zone géographique**. Il a ainsi été observé une amélioration de la qualité de l’air au niveau des berges piétonnisées où les taux de polluants ont diminué de jusqu’à 25 % sur les quais bas. Des chiffres cités par people{Anne Hidalgo}{anne-hidalgo} pour montrer **l’amélioration de l’attractivité des voies sur berge pour les piétons et cyclistes** {monde-ptit-velib}.
 

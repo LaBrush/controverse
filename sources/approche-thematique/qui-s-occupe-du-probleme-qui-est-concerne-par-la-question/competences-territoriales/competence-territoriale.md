@@ -18,7 +18,7 @@ De façon inverse, la ville souhaiterait avoir plus de pouvoir afin de faciliter
 
 Toutefois, quels que soient les intérêts des acteurs, tous s’accordent à dire qu’**il est nécessaire qu’une coordination existe entre les représentants de territoires à champs d’actions plus ou moins étendus spatialement**. Par exemple, pour des mesures telles que la suppression des voitures diesel dans Paris, il peut être intéressant de réfléchir à l'échelle nationale en proposant une prime à la casse. C’est ce qu'Anne Hidalgo invitait l’État à faire, dès 2013 (soit avant son élection au poste de maire de Paris). De même, les conceptions de plans pour les politiques de mobilités sont faites en réflexions conjointes de la ville, la Région et la métropole.
 
-![Valérie Pécresse et Anne Hidalgo (source : [challenges](https://www.challenges.fr/france/pics-de-pollution-et-perturbations-sncf-relancent-l-affrontement-pecresse-hidalgo_441944)float-right col-3](opposition_Pécresse_Hidalgo.jpg)
+![Valérie Pécresse et Anne Hidalgo (source : [challenges](https://www.challenges.fr/france/pics-de-pollution-et-perturbations-sncf-relancent-l-affrontement-pecresse-hidalgo_441944)) float-right col-3](opposition_Pécresse_Hidalgo.jpg)
 
 Dans ce contexte, l’opposition actuelle entre people{Anne Hidalgo}{anne-hidalgo} et people{Valérie Pécresse}{valerie-pecresse} peut être un frein aux planifications concernant la mobilité. _« L'épineuse question des transports en Île-de-France ne pourra être résolue sans que ces deux actrices travaillent ensemble… »_. Le manque de concertation pendant la mise en place de la fermeture des voies sur berges a été [un des points les plus critiqués](#qui-est-consulte) {moniteur-hidalgo-tient-bon}
 
